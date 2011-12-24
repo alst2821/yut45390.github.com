@@ -1,5 +1,6 @@
 from BeautifulSoup import BeautifulSoup
 import os
+import sys
 
 def getFiles():
     list = filter(lambda x: x.endswith(".html"), os.listdir("."))
@@ -29,8 +30,12 @@ def removeDups(soup, dups):
         #else:
         #    assert count == ncount + 2
 
-def saveNoDups(soup, filename):
-    f = open(filename + ".nodups", "w")
+def saveNoDups(soup, filename, overwrite):
+    if overwrite:
+        output = filename
+    else:
+        output = filename + ".nodups"
+    f = open(output , "w")
     f.write(soup.prettify())
     f.close()
 
@@ -43,6 +48,10 @@ def getHrefs(filename):
     return ( hrefs, soup)
 
 def main():
+    if len(sys.argv) > 1 and sys.argv[1] == "-o":
+        overwrite = True
+    else:
+        overwrite = False
     links = {}
     duplicateCount = 0
     for filename in getFiles():
@@ -57,7 +66,7 @@ def main():
                 links[x] = 1
         if dups:
             removeDups(soup, dups)
-            saveNoDups(soup, filename)
+            saveNoDups(soup, filename, overwrite)
     print "duplicates: %d" % duplicateCount
     print "total links: %d" % len(links)
 
