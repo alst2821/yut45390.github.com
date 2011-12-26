@@ -1,6 +1,5 @@
 # find the dates of links
 
-#import pdb; pdb.set_trace()
 from BeautifulSoup import BeautifulSoup
 import os
 import time
@@ -56,7 +55,6 @@ def createDoc(allTags):
             if n > 1:
                 otherDatesOut = " Also registered on "
                 for i in range(1,n):
-                    #pdb.set_trace()
                     aa = hrefGroup[i]
                     otherDatesOut = otherDatesOut + "%s/%s " % getYM(aa)
                     if n > 2:
