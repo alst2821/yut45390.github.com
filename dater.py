@@ -18,59 +18,49 @@ def getYM(atag):
     else:
         return (None, None)
 
-PROCESSED = 1
-def createDoc(atags, links):
-    head = """
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>
- Bookmarks
-</title>
-<h1>
- Bookmarks Menu Organized by Date
-</h1>
-<dl>
- <p>
- </p>
-"""    
-    tail = """
-</dl>
-<p>
-</p>
-"""
-    yearH = """
- <dt>
-  <h3>
-   %(Year)s %(Month)s
-  </h3>
-  <dl>
-   <p>
-   </p>
-"""
-    yearT = """
-  </dl>
-"""
-    strOut = head
-    firstYM = True   # write because it's the first time
-    for a in atags:
-        if firstYM:
-            (year, month) = getYM(a)
-            writeYM = True
-            firstYM = False
-        else:
-            (nyear, nmonth) = getYM(a)
-            if (nyear, nmonth) == (year, month):
-                writeYM = False
-                strOut = strOut + yearT
-            else:
-                writeYM = True
-                (year, month) = (nyear, nmonth)
-        if writeYM:
-            strOut = strOut + yearH % { 'Year' : year, 'Month' : month }
+def getFirstDate(l):
+    s = sorted(l, key=dateKey)
+    return dateKey(s[0])
+
+def createDoc(allTags):
+    head = """<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Bookmarks</title><h1>Bookmarks Menu Organized by Date </h1><dl><p></p>"""    
+    tail = """</dl><p></p>"""
+    yearH = """<dt><h3>%(Year)s %(Month)s</h3><dl><p></p>"""
+    yearT = """</dl>"""
+    datedata = sorted(allTags, key=dateKey)
+    links = getHrefDictionary(datedata)
+    linksByDate= {}
+    processed = {}
+    for a in datedata:
+        ym = getYM(a)
         href = a['href']
-        if not type(links[href][-1]) == type(PROCESSED):
-            links[href].append(PROCESSED)
-           strOut = strOut + '<dt>'+str(a)+'</dt>'
-    strOut = strOut + yearT
+        if not href in processed.keys():
+            if ym in linksByDate.keys():
+                linksByDate[ym][href] = links[href]
+            else:
+                linksByDate[ym] = {href: links[href]}
+            #assert ym == getFirstDate(links[href])
+            processed[href] = 1
+    strOut = head
+    for ym in linksByDate.keys():
+        (year, month) = ym
+        strOut = strOut + yearH % { 'Year' : year, 'Month' : month }
+        for hrefGroup in linksByDate[ym]:
+            strOut = strOut + '<dt>'+str(a)
+            n = len(hrefGroup)
+            if n > 1:
+                otherDatesOut = " Also registered on "
+                for i in range(1,n):
+                    aa = hrefGroup[i]
+                    otherDatesOut = otherDatesOut + "%s/%s " % getYM(aa)
+                    if n > 2:
+                        if i == n-2:
+                            otherDatesOut = otherDatesOut + "and "
+                        else:
+                            otherDatesOut = otherDatesOut + ", "
+                strOut = strOut + otherDatesOut
+            strOut = strOut + '</dt>'
+        strOut = strOut + yearT
     strOut = strOut + tail
     return strOut
 
@@ -99,9 +89,7 @@ def main():
         atags = soup.findAll('a')
         allTags.extend(atags)
     
-    datedata = sorted(allTags, key=dateKey)
-    links = getHrefDictionary(datedata)
-    strOut = createDoc(datedata, links)
+    strOut = createDoc(allTags)
     f = open("by-date.html","w")
     f.write(strOut)
     f.close()
