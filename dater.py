@@ -18,8 +18,8 @@ def getYM(atag):
     else:
         return (None, None)
 
-
-def createDoc(atags):
+PROCESSED = 1
+def createDoc(atags, links):
     head = """
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>
@@ -66,15 +66,28 @@ def createDoc(atags):
                 (year, month) = (nyear, nmonth)
         if writeYM:
             strOut = strOut + yearH % { 'Year' : year, 'Month' : month }
-        strOut = strOut + '<dt>'+str(a)+'</dt>'
+        href = a['href']
+        if not type(links[href][-1]) == type(PROCESSED):
+            links[href].append(PROCESSED)
+           strOut = strOut + '<dt>'+str(a)+'</dt>'
     strOut = strOut + yearT
     strOut = strOut + tail
     return strOut
 
-def removeDups(tags):
+def getHrefDictionary(tags):
+    # links : dictionary using hrefs as keys
+    #         members is a list of 'a' tags
     links = {}
     for t in tags:
-
+        l=t['href']
+        if l in links.keys():
+            links[l].append(t)
+        else:
+            links[l] = [t]
+    # upon printing a tag, the links dictionary is searched to 
+    # find more dates. A marker 1 (type integer) marks that a
+    # link href has been processed
+    return links
 
 def main():
     allTags = []
@@ -87,8 +100,8 @@ def main():
         allTags.extend(atags)
     
     datedata = sorted(allTags, key=dateKey)
-    removeDups(datedata)
-    strOut = createDoc(datedata)
+    links = getHrefDictionary(datedata)
+    strOut = createDoc(datedata, links)
     f = open("by-date.html","w")
     f.write(strOut)
     f.close()
