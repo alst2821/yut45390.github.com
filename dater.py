@@ -1,5 +1,6 @@
 # find the dates of links
 
+#import pdb; pdb.set_trace()
 from BeautifulSoup import BeautifulSoup
 import os
 import time
@@ -39,18 +40,23 @@ def createDoc(allTags):
                 linksByDate[ym][href] = links[href]
             else:
                 linksByDate[ym] = {href: links[href]}
-            #assert ym == getFirstDate(links[href])
             processed[href] = 1
+            if ym == getFirstDate(links[href]):
+                ff = getFirstDate(links[href])
+                print "error: ym is %s/%s - first reg is %s/%s" % (
+                      ym[0], ym[1], ff[0], ff[1])
     strOut = head
-    for ym in linksByDate.keys():
+    for ym in sorted(linksByDate.keys()):
         (year, month) = ym
         strOut = strOut + yearH % { 'Year' : year, 'Month' : month }
-        for hrefGroup in linksByDate[ym]:
-            strOut = strOut + '<dt>'+str(a)
+        for hrefGroupKey in linksByDate[ym].keys():
+            hrefGroup = linksByDate[ym][hrefGroupKey]
+            strOut = strOut + '<dt>'+str(hrefGroup[0])
             n = len(hrefGroup)
             if n > 1:
                 otherDatesOut = " Also registered on "
                 for i in range(1,n):
+                    #pdb.set_trace()
                     aa = hrefGroup[i]
                     otherDatesOut = otherDatesOut + "%s/%s " % getYM(aa)
                     if n > 2:
@@ -81,7 +87,8 @@ def getHrefDictionary(tags):
 
 def main():
     allTags = []
-    for filename in getFiles():
+    fileList = filter( lambda x: x != "by-date.html", getFiles())
+    for filename in fileList:
         f = open (filename,"r")
         soup = BeautifulSoup(f.read())
         f.close()
