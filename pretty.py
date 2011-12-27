@@ -17,7 +17,7 @@ def save(soup, filename, overwrite=False):
     f.close()
 
 def main():
-    if sys.argv[1] == "-o":
+    if len(sys.argv) > 1 and sys.argv[1] == "-o":
         overwrite = True
     else:
         overwrite = False

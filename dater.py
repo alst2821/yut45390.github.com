@@ -22,10 +22,33 @@ def getFirstDate(l):
     s = sorted(l, key=dateKey)
     return dateKey(s[0])
 
+def createContents(linksByDate):
+    contentsHead="""<h2><a name="contents">Contents (Total links: %d)</a></h2>
+<ul>"""
+    contentsEntry="""<li><a href="#%(AnchorName)s">%(Name)s</a> %(Elements)s</li>"""
+    contentsTail="</ul>"
+    total = 0
+    strOut = ""
+    for ym in sorted(linksByDate.keys()):
+        no_elements = len(linksByDate[ym].keys())
+        total = total + no_elements
+        if no_elements > 1:
+            elements = "%d elements" % no_elements
+        else:
+            elements = "1 element"
+        YM = {'Year': ym[0], 'Month': ym[1]}
+        strOut = strOut + contentsEntry % { 
+            'AnchorName': "%(Year)s_%(Month)s" % YM,
+            'Name' : "%(Year)s %(Month)s" % YM,
+            'Elements' : elements} 
+    strOut = (contentsHead % total) + strOut + contentsTail
+    return strOut
+
 def createDoc(allTags):
-    head = """<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Bookmarks</title><h1>Bookmarks Menu Organized by Date </h1><dl><p></p>"""    
+    documentHead = """<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Bookmarks</title><h1>Bookmarks Menu Organized by Date </h1>"""
+    head = """<dl><p></p>"""
     tail = """</dl><p></p>"""
-    yearH = """<dt><h3>%(Year)s %(Month)s</h3><dl><p></p>"""
+    yearH = """<dt><h3><a name="%(Year)s_%(Month)s">%(Year)s %(Month)s</a></h3><dl><p></p>"""
     yearT = """</dl>"""
     datedata = sorted(allTags, key=dateKey)
     links = getHrefDictionary(datedata)
@@ -44,7 +67,8 @@ def createDoc(allTags):
                 ff = getFirstDate(links[href])
                 print "error: ym is %s/%s - first reg is %s/%s" % (
                       ym[0], ym[1], ff[0], ff[1])
-    strOut = head
+    strOut = documentHead
+    strOut = strOut + createContents(linksByDate)
     for ym in sorted(linksByDate.keys()):
         (year, month) = ym
         strOut = strOut + yearH % { 'Year' : year, 'Month' : month }
