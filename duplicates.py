@@ -43,7 +43,7 @@ def getHrefs(filename):
     f = open(filename, "r")
     soup = BeautifulSoup(f.read())
     f.close()
-    atags = soup.findAll('a')
+    atags = soup.findAll('a', attrs={'href':True})
     hrefs = map( lambda x: x['href'], atags)
     return ( hrefs, soup)
 

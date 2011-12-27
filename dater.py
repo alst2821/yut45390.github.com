@@ -107,20 +107,24 @@ def getHrefDictionary(tags):
     # link href has been processed
     return links
 
-def main():
+def gatherTags(exceptions=["by-date.html"]):
     allTags = []
-    fileList = filter( lambda x: x != "by-date.html", getFiles())
+    fileList = filter(lambda x: x not in exceptions, getFiles())
     for filename in fileList:
-        f = open (filename,"r")
+        f = open(filename,"r")
         soup = BeautifulSoup(f.read())
         f.close()
-    
+
         atags = soup.findAll('a')
         allTags.extend(atags)
-    
+    return allTags
+
+def main():
+    allTags = gatherTags()
     strOut = createDoc(allTags)
+    soup = BeautifulSoup(strOut)
     f = open("by-date.html","w")
-    f.write(strOut)
+    f.write(soup.prettify())
     f.close()
 
 if __name__ == "__main__":

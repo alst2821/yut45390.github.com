@@ -1,6 +1,2 @@
-
-Dater with counts and contents
-
 Tagged HTML index
 
-What is happening - git not in any branch!
