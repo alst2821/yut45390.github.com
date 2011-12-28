@@ -1,5 +1,2 @@
-
-program to read links in html files
-flag duplicate links
-
+Tagged HTML index
 
