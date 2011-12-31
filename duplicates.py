@@ -1,3 +1,5 @@
+# remove duplicates in bookmark files
+# uses the alphabetical ordering of file names to choose duplicates to remove
 from BeautifulSoup import BeautifulSoup
 import os
 import sys
@@ -25,10 +27,6 @@ def removeDups(soup, dups):
         nt = soup.findAll(True)
         ncount = len(nt)
         print "%s count = %d new count %d" %  (duplicate, count, ncount)
-        #if nn[0].name == "dd":
-        #    assert count == ncount + 3
-        #else:
-        #    assert count == ncount + 2
 
 def saveNoDups(soup, filename, overwrite):
     if overwrite:
