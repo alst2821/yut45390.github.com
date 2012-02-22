@@ -6,8 +6,9 @@ import sys
 
 def getFiles():
     list = filter(lambda x: x.endswith(".html"), os.listdir("."))
-    list.sort()
-    return list
+    statlist = map(lambda x: (x, os.stat(x) ) , list)
+    statlist.sort(key=lambda x: x[1].st_mtime)
+    return map(lambda x: x[0], statlist)
 
 def removeDups(soup, dups):
     for duplicate in dups:
