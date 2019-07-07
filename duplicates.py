@@ -1,12 +1,12 @@
 # remove duplicates in bookmark files
 # uses the alphabetical ordering of file names to choose duplicates to remove
-from BeautifulSoup import BeautifulSoup
+import bs4
 import os
 import sys
 
 def getFiles():
-    list = filter(lambda x: x.endswith(".html"), os.listdir("."))
-    statlist = map(lambda x: (x, os.stat(x) ) , list)
+    flist = filter(lambda x: x.endswith(".html"), os.listdir("."))
+    statlist = list(map(lambda x: (x, os.stat(x) ) , flist))
     statlist.sort(key=lambda x: x[1].st_mtime)
     return map(lambda x: x[0], statlist)
 
@@ -16,7 +16,7 @@ def removeDups(soup, dups):
         count = len(t)
         atags = soup.findAll('a',href=duplicate,limit=1)
         if len(atags) < 1:
-            print "Misterious dissapearance of link to %s" % duplicate
+            print("Mysterious dissapearance of link to %s" % duplicate)
             continue
         assert len(atags) == 1
         dt = atags[0].findParent()
@@ -27,7 +27,7 @@ def removeDups(soup, dups):
         dt.extract()
         nt = soup.findAll(True)
         ncount = len(nt)
-        print "%s count = %d new count %d" %  (duplicate, count, ncount)
+        print("%s count = %d new count %d" %  (duplicate, count, ncount))
 
 def saveNoDups(soup, filename, overwrite):
     if overwrite:
@@ -40,7 +40,7 @@ def saveNoDups(soup, filename, overwrite):
 
 def getHrefs(filename):
     f = open(filename, "r")
-    soup = BeautifulSoup(f.read())
+    soup = bs4.BeautifulSoup(f.read())
     f.close()
     atags = soup.findAll('a', attrs={'href':True})
     hrefs = map( lambda x: x['href'], atags)
@@ -54,7 +54,7 @@ def main():
     links = {}
     duplicateCount = 0
     for filename in getFiles():
-        print "*** %s *** " % filename
+        print("*** %s *** " % filename)
         (hrefs , soup) =  getHrefs(filename)
         dups = []
         for x in hrefs:
@@ -66,8 +66,8 @@ def main():
         if dups:
             removeDups(soup, dups)
             saveNoDups(soup, filename, overwrite)
-    print "duplicates: %d" % duplicateCount
-    print "total links: %d" % len(links)
+    print("duplicates: %d" % duplicateCount)
+    print("total links: %d" % len(links))
 
 if __name__ == "__main__":
     main()
