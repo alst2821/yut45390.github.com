@@ -1,0 +1,13 @@
+=====
+magit
+=====
+
+Magit is an emacs based git package. I use magit_ and I sometimes find it convenient.
+
+.. _magit: https://magit.vc/manual/magit/index.html
+
+The user manual gets installed as info pages in emacs, but there is a
+version online here_ (https://magit.vc/manual/magit/index.html)
+
+.. _here: https://magit.vc/manual/magit/index.html
+
