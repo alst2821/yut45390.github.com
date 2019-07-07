@@ -1,10 +1,9 @@
-from BeautifulSoup import BeautifulSoup
+import bs4
 import os
 import sys
 
 def getFiles():
     list = filter(lambda x: x.endswith(".html"), os.listdir("."))
-    list.sort()
     return list
 
 def save(soup, filename, overwrite=False):
@@ -21,10 +20,10 @@ def main():
         overwrite = True
     else:
         overwrite = False
-    for filename in getFiles():
-        print "*** %s *** " % filename
+    for filename in sorted(getFiles()):
+        print("*** %s *** " % filename)
         f = open(filename, "r")
-        soup = BeautifulSoup(f.read())
+        soup = bs4.BeautifulSoup(f.read())
         f.close()
         save(soup, filename, overwrite)
 

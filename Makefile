@@ -1,8 +1,5 @@
 
-all: index1.html docutils.html blog_post1.html
-
-docutils.html: docutils.txt
-	rst2html5 docutils.txt > $@
+all: index1.html docutils.html magit.html
 
 %.html: %.txt
 	rst2html5 $< > $@

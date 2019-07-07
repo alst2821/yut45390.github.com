@@ -30,6 +30,12 @@ case ``_reference``, a colon "``:``" and the url.
 
 Here is a link to a related page on this hierchy: blog_post1_
 
-.. _blog_post1: ./blog_post1.html
+.. _blog_post1: ./magit.html
 
+A list of pages I created using rst these days:
 
+* docutils__
+* `magit (emacs)`_
+
+.. __: ./docutils.html
+.. _`magit (emacs)`: ./magit.html
