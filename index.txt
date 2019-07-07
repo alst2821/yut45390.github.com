@@ -1,0 +1,11 @@
+=====
+Index
+=====
+
+Main site index_.
+
+`Bookmark sets`_
+
+.. _index: ./index1.html
+.. _`Bookmark sets`: ./bookmarks.html
+
