@@ -1,5 +1,5 @@
 
-PAGES := index bookmarks index1 docutils magit
+PAGES := index bookmarks index1 docutils magit epics
 
 all: $(patsubst %,%.html, $(PAGES))
 
