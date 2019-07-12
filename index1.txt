@@ -36,8 +36,10 @@ A list of pages I created using rst these days:
 
 * docutils__
 * `magit (emacs)`_
-* epics_
+* EPICS_
+* Python_
 
 .. __: ./docutils.html
 .. _`magit (emacs)`: ./magit.html
-.. _epics: ./epics.html
+.. _EPICS: ./epics.html
+.. _Python: ./python.html
