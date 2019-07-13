@@ -22,8 +22,8 @@ Bookmarks set:
 * roobarb1_
   
 .. _`set 1`: ./ubuntu.html
-.. _`set 2`: ../bnd528.html
-.. _`set 3`: ../lem632.html
+.. _`set 2`: ./bnd528.html
+.. _`set 3`: ./lem632.html
 .. _`Internet Explorer`: ./ie8.html
 .. _`redhat`: ./redhat.html
 .. _extra1: ./extra1.html
