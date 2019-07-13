@@ -38,8 +38,10 @@ A list of pages I created using rst these days:
 * `magit (emacs)`_
 * EPICS_
 * Python_
+* `Chinese links`_
 
 .. __: ./docutils.html
 .. _`magit (emacs)`: ./magit.html
 .. _EPICS: ./epics.html
 .. _Python: ./python.html
+.. _`Chinese links`: ./chinese-links.html
