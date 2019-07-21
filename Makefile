@@ -1,10 +1,19 @@
+# Minimal makefile for Sphinx documentation
+#
 
-PAGES := index bookmarks index1 docutils magit epics
-PAGES := $(PAGES) python chinese-links
+# You can set these variables from the command line.
+SPHINXOPTS    =
+SPHINXBUILD   = sphinx-build
+SOURCEDIR     = source
+BUILDDIR      = build
 
-all: $(patsubst %,%.html, $(PAGES))
+# Put it first so that "make" without argument is like "make help".
+help:
+	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-%.html: %.txt
-	rst2html5 $< > $@
+.PHONY: help Makefile
 
-
+# Catch-all target: route all unknown targets to Sphinx using the new
+# "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
+%: Makefile
+	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)

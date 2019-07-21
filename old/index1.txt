@@ -11,7 +11,6 @@ I found among the `docutils documentation pages`_ that there is an
 
 .. _`docutils documentation pages`:
    http://docutils.sourceforge.net/docs/index.html
-   http://docutils.sourceforge.net/docs/user/emacs.html
 .. _`emacs mode`:
    http://docutils.sourceforge.net/docs/user/emacs.html
 
@@ -28,7 +27,7 @@ relevant text.  For example ``reference_``. Then a section below
 preceded by "``..``", then "``_``" and the same reference, in this
 case ``_reference``, a colon "``:``" and the url.
 
-Here is a link to a related page on this hierchy: blog_post1_
+Here is a link to a related page on this hierarchy: blog_post1_
 
 .. _blog_post1: ./magit.html
 

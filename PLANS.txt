@@ -1,7 +1,0 @@
-Tagged HTML index
-
-remove latests duplicate entries
-
-by date with finer date
-
-search from whole bookmark "universe" using jquery/flask
