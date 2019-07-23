@@ -10,6 +10,3 @@
 .. _`LINE Dict`: https://dict.naver.com/linedict/zhendict/dict.html
 .. _Wenxuecity: http://www.wenxuecity.com/
 
-Link to parent page: `***`_
-
-.. _`***`: ./index1.html

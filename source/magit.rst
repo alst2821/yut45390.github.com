@@ -2,7 +2,8 @@
 magit
 =====
 
-Magit is an emacs based git package. I use magit_ and I sometimes find it convenient.
+Magit is an emacs based git package. I use magit_ and I sometimes find
+it convenient.
 
 .. _magit: https://magit.vc/manual/magit/index.html
 
@@ -11,6 +12,3 @@ version online here_ (https://magit.vc/manual/magit/index.html)
 
 .. _here: https://magit.vc/manual/magit/index.html
 
-link to the `parent page`_.
-
-.. _`parent page`: ./index1.html

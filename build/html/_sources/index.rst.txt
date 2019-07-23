@@ -12,6 +12,10 @@ Welcome to yut's documentation!
 
    fedora
    python
+   chinese-links
+   docutils
+   epics
+   magit
 
 Indices and tables
 ==================

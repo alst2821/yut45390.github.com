@@ -28,7 +28,25 @@ project's `web page`_. at http://docutils.sourceforge.net/
 .. _`web page`: http://docutils.sourceforge.net/
 
 
-link to the `parent page`_.
+I found among the `docutils documentation pages`_ that there is an
+`emacs mode`_ for docutils. and it works by invoking 'rst-mode'.
 
-.. _`parent page`: ./index1.html
+.. _`docutils documentation pages`:
+   http://docutils.sourceforge.net/docs/index.html
+.. _`emacs mode`:
+   http://docutils.sourceforge.net/docs/user/emacs.html
+
+There are examples of what can be done to `generate links and
+tables`_.  References and inline targets sound more esoteric.  So far
+I am quite glad that I can include links. I use those most of the
+time.
+
+.. _`generate links and tables`:
+   http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
+
+The way to generate link is to use the "``_``" character next to the
+relevant text.  For example ``reference_``. Then a section below
+preceded by "``..``", then "``_``" and the same reference, in this
+case ``_reference``, a colon "``:``" and the url.
+
 

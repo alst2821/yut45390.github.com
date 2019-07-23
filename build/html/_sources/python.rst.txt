@@ -13,6 +13,3 @@
 .. _`Matplotlib developers' guide`: https://matplotlib.org/devel/index.html#developers-guide-index
 .. _`Matplotlib usage guide`: https://matplotlib.org/faq/usage_faq.html
 
-Link to parent page: `***`_
-
-.. _`***`: ./index1.html
