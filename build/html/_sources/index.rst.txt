@@ -33,7 +33,8 @@ they are too old.
    epics
    fedora/fedora
    insurance
-   magit
+   emacs/emacs
+   emacs/magit
    python
    reading
 
