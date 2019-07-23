@@ -1,8 +1,11 @@
+.. _ref-emacs:
 
 Emacs
 =====
 
 Here is a link to some `emacs tips <https://sites.google.com/site/roneau2010/computer-software/emacs>`_.
+
+
 
 Remove empty lines
 ^^^^^^^^^^^^^^^^^^

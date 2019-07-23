@@ -13,14 +13,16 @@ This is a documentation static site generated using sphinx_.
 I talk a little bit about :ref:`python <ref-python>` and
 :ref:`re-structured text <ref-docutils>`.
 
-I also keep documentation about :ref:`ref-fedora`.
+I also keep documentation about :ref:`Fedora <ref-fedora>`.
 This was originally in `other linux`_ page.
 
 .. _`other linux`: https://sites.google.com/site/thelinux2017/fedora/find
 
-Finally, I used to host a set of bookmarks in this site, but most of
-the :ref:`bookmarks <ref-bookmarks>` are already unavailable, because
-they are too old.
+I use emacs as an editor and I created a page with some :ref:`notes <ref-emacs>` too.
+
+I used to host a set of bookmarks in this site, but most of the
+:ref:`bookmarks <ref-bookmarks>` are already unavailable, because they
+are too old.
 
 .. toctree::
    :maxdepth: 2
