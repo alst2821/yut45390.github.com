@@ -1,7 +1,7 @@
 .. _ref-fedora:
 
- Fedora Documentation
-======================
+Fedora Documentation
+====================
 
 Reference material
 ------------------

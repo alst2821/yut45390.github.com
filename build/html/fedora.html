@@ -16,7 +16,8 @@
     <script type="text/javascript" src="_static/language_data.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="prev" title="Welcome to yut’s documentation!" href="index.html" />
+    <link rel="next" title="Allianz Insurance" href="insurance.html" />
+    <link rel="prev" title="EPICS" href="epics.html" />
    
   <link rel="stylesheet" href="_static/custom.css" type="text/css" />
   
@@ -34,10 +35,23 @@
           <div class="body" role="main">
             
   <div class="section" id="fedora-documentation">
-<h1>Fedora Documentation<a class="headerlink" href="#fedora-documentation" title="Permalink to this headline">¶</a></h1>
+<span id="ref-fedora"></span><h1>Fedora Documentation<a class="headerlink" href="#fedora-documentation" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="reference-material">
+<h2>Reference material<a class="headerlink" href="#reference-material" title="Permalink to this headline">¶</a></h2>
+<p>I am keeping here a link to <a class="reference external" href="http://www.linuxfromscratch.org/blfs/view/8.1/index.html">“Beyond Linux From Scratch”</a> which seems to
+be an interesting read.  i stumbled upon the page while asking about
+initramfs. Accessed okay on 20 Oct 2018.</p>
+</div>
+<div class="section" id="how-to-generate-a-password">
+<h2>How to generate a password<a class="headerlink" href="#how-to-generate-a-password" title="Permalink to this headline">¶</a></h2>
+<p>I copied examples from <cite>how to geek</cite> on password generation:</p>
+<blockquote>
+<div>openssl rand -base64 32
+date +%s | sha256sum | base64 | head -c 32 ; echo
+&lt; /dev/urandom tr -dc _A-Z-a-z-0-9 | head -c${1:-32};echo;</div></blockquote>
+</div>
 <div class="section" id="how-to-find-the-source-rpm-of-an-installed-package">
 <h2>How to find the source rpm of an installed package<a class="headerlink" href="#how-to-find-the-source-rpm-of-an-installed-package" title="Permalink to this headline">¶</a></h2>
-<p>This was originally in <a class="reference external" href="https://sites.google.com/site/thelinux2017/fedora/find">other linux</a> page.</p>
 <p>This command outputs a source rpm for a package:</p>
 <blockquote>
 <div>rpm -qa –queryformat=’%{NAME} %{SOURCERPM}n’ &lt;package&gt;</div></blockquote>
@@ -70,17 +84,28 @@ python3-docutils python-docutils-0.14-6.fc30.src.rpm</div></blockquote>
 <h3>Navigation</h3>
 <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="bookmarks.html">Bookmarks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chinese-links.html">Chinese links</a></li>
+<li class="toctree-l1"><a class="reference internal" href="docutils.html">rst2html blog</a></li>
+<li class="toctree-l1"><a class="reference internal" href="epics.html">EPICS</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Fedora Documentation</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#reference-material">Reference material</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#how-to-generate-a-password">How to generate a password</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#how-to-find-the-source-rpm-of-an-installed-package">How to find the source rpm of an installed package</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="insurance.html">Allianz Insurance</a></li>
+<li class="toctree-l1"><a class="reference internal" href="magit.html">magit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="python.html">Python related links</a></li>
+<li class="toctree-l1"><a class="reference internal" href="reading.html">Reading material</a></li>
 </ul>
 
 <div class="relations">
 <h3>Related Topics</h3>
 <ul>
   <li><a href="index.html">Documentation overview</a><ul>
-      <li>Previous: <a href="index.html" title="previous chapter">Welcome to yut’s documentation!</a></li>
+      <li>Previous: <a href="epics.html" title="previous chapter">EPICS</a></li>
+      <li>Next: <a href="insurance.html" title="next chapter">Allianz Insurance</a></li>
   </ul></li>
 </ul>
 </div>
