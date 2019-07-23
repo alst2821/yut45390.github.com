@@ -13,6 +13,11 @@ This is a documentation static site generated using sphinx_.
 I talk a little bit about python :ref:`ref-python` and re-structured
 text :ref:`ref-docutils`.
 
+I also keep documentation about :ref:`ref-fedora`.
+This was originally in `other linux`_ page.
+
+.. _`other linux`: https://sites.google.com/site/thelinux2017/fedora/find
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
