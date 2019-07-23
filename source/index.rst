@@ -11,6 +11,7 @@ Welcome to yut's documentation!
    :caption: Contents:
 
    fedora
+   python
 
 Indices and tables
 ==================
