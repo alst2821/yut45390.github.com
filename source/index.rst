@@ -10,23 +10,28 @@ This is a documentation static site generated using sphinx_.
 
 .. _sphinx: http://www.sphinx-doc.org/
 
-I talk a little bit about python :ref:`ref-python` and re-structured
-text :ref:`ref-docutils`.
+I talk a little bit about :ref:`python <ref-python>` and
+:ref:`re-structured text <ref-docutils>`.
 
 I also keep documentation about :ref:`ref-fedora`.
 This was originally in `other linux`_ page.
 
 .. _`other linux`: https://sites.google.com/site/thelinux2017/fedora/find
 
+Finally, I used to host a set of bookmarks in this site, but most of
+the :ref:`bookmarks <ref-bookmarks>` are already unavailable, because
+they are too old.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    bookmarks
+   centos/centos
    chinese-links
    docutils
    epics
-   fedora
+   fedora/fedora
    insurance
    magit
    python

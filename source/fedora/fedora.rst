@@ -15,10 +15,12 @@ initramfs. Accessed okay on 20 Oct 2018.
 How to generate a password
 --------------------------
 
-I copied examples from `how to geek` on password generation:
+I copied examples from `how to geek`_ on password generation:
 
     openssl rand -base64 32
+    
     date +%s | sha256sum | base64 | head -c 32 ; echo
+    
     < /dev/urandom tr -dc _A-Z-a-z-0-9 | head -c${1:-32};echo;
 
 .. _`how to geek`:
