@@ -6,16 +6,25 @@
 Welcome to yut's documentation!
 ===============================
 
+This is a documentation static site generated using sphinx_.
+
+.. _sphinx: http://www.sphinx-doc.org/
+
+I talk a little bit about python :ref:`ref-python` and re-structured
+text :ref:`ref-docutils`.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   fedora
-   python
+   bookmarks
    chinese-links
    docutils
    epics
+   fedora
    magit
+   python
+   reading
 
 Indices and tables
 ==================

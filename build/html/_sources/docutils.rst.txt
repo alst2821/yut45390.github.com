@@ -1,3 +1,5 @@
+.. _ref-docutils:
+
 =============
 rst2html blog
 =============

@@ -8,7 +8,3 @@
 .. _wiki: https://wiki-ext.aps.anl.gov/epics/index.php/RRM_3-14
 
 
-Link to parent page: `***`_
-
-.. _`***`: ./index1.html
-

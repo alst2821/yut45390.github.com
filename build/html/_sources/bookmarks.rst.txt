@@ -15,7 +15,6 @@ Bookmarks set:
 * chrome2_
 * roobarb_
 * zbookmarks_
-* unknown_
 * more_
 * roobarb1_
   
@@ -31,7 +30,6 @@ Bookmarks set:
 .. _chrome2: ../../old/chrome2.html
 .. _roobarb: ../../old/roobarb_bookmark.html
 .. _zbookmarks: ../../old/zbookmarks.html
-.. _unknown: ../../old/unknown.html
 .. _more: ../../old/more-links.html
 .. _roobarb1: ../../old/roobarb1.html
 
