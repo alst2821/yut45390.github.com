@@ -22,6 +22,7 @@ text :ref:`ref-docutils`.
    docutils
    epics
    fedora
+   insurance
    magit
    python
    reading
