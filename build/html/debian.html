@@ -52,6 +52,23 @@
 </pre></div>
 </div>
 </div>
+<div class="section" id="raid-disk-stuff">
+<h2>Raid disk stuff<a class="headerlink" href="#raid-disk-stuff" title="Permalink to this headline">¶</a></h2>
+<p>RAID-1 mirror reconstruction notes. These I have not used since 2008,
+so <code class="docutils literal notranslate"><span class="pre">man</span> <span class="pre">mdadm</span></code> may have much better information!</p>
+<p>Mark as failed:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">mdadm</span> <span class="o">/</span><span class="n">dev</span><span class="o">/</span><span class="n">md0</span> <span class="o">-</span><span class="n">f</span> <span class="o">/</span><span class="n">dev</span><span class="o">/</span><span class="n">hda1</span>
+</pre></div>
+</div>
+<p>Remove from array:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">mdadm</span> <span class="o">/</span><span class="n">dev</span><span class="o">/</span><span class="n">md0</span> <span class="o">-</span><span class="n">r</span> <span class="o">/</span><span class="n">dev</span><span class="o">/</span><span class="n">hda1</span>
+</pre></div>
+</div>
+<p>Add to array as spare:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">mdadm</span> <span class="o">-</span><span class="n">a</span> <span class="o">/</span><span class="n">dev</span><span class="o">/</span><span class="n">hda1</span>
+</pre></div>
+</div>
+</div>
 </div>
 
 
@@ -78,6 +95,7 @@
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Notes on debian system administration</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#how-to-get-the-list-of-packages-installed">How to get the list of packages installed</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#how-to-know-which-packages-may-be-upgraded">How to know which packages may be upgraded</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#raid-disk-stuff">Raid disk stuff</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="chinese-links.html">Chinese links</a></li>
