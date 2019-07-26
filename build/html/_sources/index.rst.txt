@@ -30,13 +30,15 @@ are too old.
 
    bookmarks
    centos/centos
+   debian
    chinese-links
    docutils
+   emacs/emacs
+   emacs/magit
    epics
    fedora/fedora
    insurance
-   emacs/emacs
-   emacs/magit
+   macports
    python
    reading
 

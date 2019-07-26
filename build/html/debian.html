@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="utf-8" />
-    <title>Python related links &#8212; yut  documentation</title>
+    <title>Notes on debian system administration &#8212; yut  documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
@@ -14,8 +14,8 @@
     <script type="text/javascript" src="_static/language_data.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Reading material" href="reading.html" />
-    <link rel="prev" title="Macports" href="macports.html" />
+    <link rel="next" title="Chinese links" href="chinese-links.html" />
+    <link rel="prev" title="CentOS" href="centos/centos.html" />
    
   <link rel="stylesheet" href="_static/custom.css" type="text/css" />
   
@@ -32,14 +32,26 @@
 
           <div class="body" role="main">
             
-  <div class="section" id="python-related-links">
-<span id="ref-python"></span><h1>Python related links<a class="headerlink" href="#python-related-links" title="Permalink to this headline">¶</a></h1>
-<ul class="simple">
-<li><p><a class="reference external" href="http://www.reddit.com/r/python">reddit channel for python</a></p></li>
-<li><p><a class="reference external" href="https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html">Numpy for Matlab users</a> (Accessed July 2019)</p></li>
-<li><p><a class="reference external" href="https://matplotlib.org/devel/index.html#developers-guide-index">Matplotlib developers’ guide</a> (Accessed July 2019)</p></li>
-<li><p><a class="reference external" href="https://matplotlib.org/faq/usage_faq.html">Matplotlib usage guide</a></p></li>
-</ul>
+  <div class="section" id="notes-on-debian-system-administration">
+<h1>Notes on debian system administration<a class="headerlink" href="#notes-on-debian-system-administration" title="Permalink to this headline">¶</a></h1>
+<p>Notes taken last decade when I used to work with debian systems.</p>
+<div class="section" id="how-to-get-the-list-of-packages-installed">
+<h2>How to get the list of packages installed<a class="headerlink" href="#how-to-get-the-list-of-packages-installed" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">dpkg</span> <span class="o">--</span><span class="nb">list</span>
+</pre></div>
+</div>
+<p>To remove subversion:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">remove</span> <span class="n">subversion</span>
+<span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">remove</span> <span class="n">libsvn0</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="how-to-know-which-packages-may-be-upgraded">
+<h2>How to know which packages may be upgraded<a class="headerlink" href="#how-to-know-which-packages-may-be-upgraded" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">apt</span><span class="o">-</span><span class="n">show</span><span class="o">-</span><span class="n">versions</span> <span class="o">-</span><span class="n">u</span>
+</pre></div>
+</div>
+</div>
 </div>
 
 
@@ -63,6 +75,11 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="bookmarks.html">Bookmarks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="centos/centos.html">CentOS</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Notes on debian system administration</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#how-to-get-the-list-of-packages-installed">How to get the list of packages installed</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#how-to-know-which-packages-may-be-upgraded">How to know which packages may be upgraded</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="chinese-links.html">Chinese links</a></li>
 <li class="toctree-l1"><a class="reference internal" href="docutils.html">rst2html</a></li>
 <li class="toctree-l1"><a class="reference internal" href="emacs/emacs.html">Emacs</a></li>
@@ -71,7 +88,7 @@
 <li class="toctree-l1"><a class="reference internal" href="fedora/fedora.html">Fedora Documentation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="insurance.html">Allianz Insurance</a></li>
 <li class="toctree-l1"><a class="reference internal" href="macports.html">Macports</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Python related links</a></li>
+<li class="toctree-l1"><a class="reference internal" href="python.html">Python related links</a></li>
 <li class="toctree-l1"><a class="reference internal" href="reading.html">Reading material</a></li>
 </ul>
 
@@ -79,8 +96,8 @@
 <h3>Related Topics</h3>
 <ul>
   <li><a href="index.html">Documentation overview</a><ul>
-      <li>Previous: <a href="macports.html" title="previous chapter">Macports</a></li>
-      <li>Next: <a href="reading.html" title="next chapter">Reading material</a></li>
+      <li>Previous: <a href="centos/centos.html" title="previous chapter">CentOS</a></li>
+      <li>Next: <a href="chinese-links.html" title="next chapter">Chinese links</a></li>
   </ul></li>
 </ul>
 </div>
@@ -114,7 +131,7 @@
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |
-      <a href="_sources/python.rst.txt"
+      <a href="_sources/debian.rst.txt"
           rel="nofollow">Page source</a>
     </div>
 
