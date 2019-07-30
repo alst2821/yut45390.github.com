@@ -39,6 +39,7 @@ are too old.
    fedora/fedora
    insurance
    macports
+   osx
    python
    reading
 
