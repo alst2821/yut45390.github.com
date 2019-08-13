@@ -38,6 +38,7 @@ are too old.
    epics
    fedora/fedora
    insurance
+   linux
    macports
    osx
    python

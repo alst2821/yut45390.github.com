@@ -41,6 +41,8 @@ To get a list of updates::
 Investigation of the folders used by macports
 ---------------------------------------------
 
+There is a man page 'porthier' that shows the port files hierarchy.
+
 Under the location /opt/local/var/macports/registry/portfiles I found
 a hierarchy of files for every port installed.
 
