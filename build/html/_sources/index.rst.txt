@@ -43,6 +43,7 @@ are too old.
    osx
    python
    reading
+   rust
 
 Indices and tables
 ==================
