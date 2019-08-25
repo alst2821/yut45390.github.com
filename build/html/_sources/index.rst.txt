@@ -37,7 +37,8 @@ are too old.
    emacs/magit
    epics
    fedora/fedora
-   insurance
+   fedora/packaging
+   fedora/package-review
    linux
    macports
    osx
