@@ -24,26 +24,40 @@ I used to host a set of bookmarks in this site, but most of the
 :ref:`bookmarks <ref-bookmarks>` are already unavailable, because they
 are too old.
 
+Linux related content
+---------------------
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   bookmarks
    centos/centos
    debian
-   chinese-links
-   docutils
-   emacs/emacs
-   emacs/magit
-   epics
    fedora/fedora
    fedora/packaging
    fedora/package-review
    linux
+
+Non-linux related content
+-------------------------
+
+.. toctree::
+   :maxdepth: 2
+   
+   bookmarks
+   chinese-links
+   documentation
+   docutils
+   emacs/emacs
+   emacs/magit
+   epics
+   haskell
    macports
    osx
    python
-   reading
+   reading/books
+   reading/computing
+   reading/reading   
+   reading/science
    rust
 
 Indices and tables
