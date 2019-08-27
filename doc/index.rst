@@ -6,14 +6,12 @@
 Welcome to yut's documentation!
 ===============================
 
-This is a documentation static site generated using sphinx_.
-
-.. _sphinx: http://www.sphinx-doc.org/
+This is a documentation static site generated using `sphinx <http://www.sphinx-doc.org/>`_.
 
 I talk a little bit about :ref:`python <ref-python>` and
 :ref:`re-structured text <ref-docutils>`.
 
-I also keep documentation about :ref:`Fedora <ref-fedora>`.
+I also keep documentation about :ref:`Fedora <ref-fedora>` and other linux material.
 This was originally in `other linux`_ page.
 
 .. _`other linux`: https://sites.google.com/site/thelinux2017/fedora/find
@@ -31,10 +29,12 @@ Linux related content
    :maxdepth: 2
 
    centos/centos
+   centos/emacs-rpm
    debian
    fedora/fedora
    fedora/packaging
    fedora/package-review
+   fedora/vnc
    linux
 
 Non-linux related content
@@ -54,6 +54,7 @@ Non-linux related content
    macports
    osx
    python
+   reading/bolivia
    reading/books
    reading/computing
    reading/reading   
