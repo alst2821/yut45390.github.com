@@ -12,6 +12,7 @@ Reference material
 
 * `Fedora Magazine <http://fedoramagazine.org/>`_.
 
+* `Fedora Developer <https://developer.fedoraproject.org/>`_.
 
 I am keeping here a link to `"Beyond Linux From Scratch"`_ which seems to
 be an interesting read.  i stumbled upon the page while asking about

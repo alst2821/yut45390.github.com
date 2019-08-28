@@ -50,9 +50,12 @@ Non-linux related content
    emacs/emacs
    emacs/magit
    epics
+   git
    haskell
    macports
+   make
    osx
+   philosophy
    python
    reading/bolivia
    reading/books
