@@ -1,32 +1,27 @@
 .. _ref-docutils:
 
-========
-rst2html
-========
+==========
+ Docutils
+==========
 
-rst2html is part of docutils and it is independent of `Sphinx <http://www.sphinx-doc.org/>`_.
+Docutils is independent of `Sphinx <http://www.sphinx-doc.org/>`_.
 
 .. _Sphinx: http://www.sphinx-doc.org/
 
-Sphinx is used to create documentation for :ref:`Python <ref-python>`. It builds
-from the reStructuredText format used by docutils and is used to
-create many important bodies of documentation.
+Sphinx is used to create documentation for :ref:`Python
+<ref-python>`. It builds from the reStructuredText format used by
+docutils and is used to create many important bodies of documentation.
 
 For my application, I only want to create a static website with
 entries and links. I had been using google sites, but I am now not
 pleased with the management of content there. The site has a lot of
 content that depends on the stability of google. What would happen to
-the data if google went out of business?
-
-That may not happen soon, but a similar thing could happen if google
-decided that they need to restructure the business and decide to cut
-down sections of the service, like google sites.
+the data if google discontinues 'sites'?
 
 The docutils documentation is at the project's `web page`_. at
 http://docutils.sourceforge.net/
 
 .. _`web page`: http://docutils.sourceforge.net/
-
 
 I found among the `docutils documentation pages`_ that there is an
 `emacs mode`_ for docutils. and it works by invoking 'rst-mode'.
