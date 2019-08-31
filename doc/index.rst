@@ -14,7 +14,7 @@ I talk a little bit about :ref:`python <ref-python>` and
 I also keep documentation about :ref:`Fedora <ref-fedora>` and other linux material.
 This was originally in `other linux`_ page.
 
-.. _`other linux`: https://sites.google.com/site/thelinux2017/fedora/find
+.. _`other linux`: https://sites.google.com/site/thelinux2017/
 
 I use emacs as an editor and I created a page with some :ref:`notes <ref-emacs>` too.
 
@@ -31,6 +31,7 @@ Linux related content
    centos/centos
    centos/emacs-rpm
    debian
+   debian-sources
    fedora/fedora
    fedora/packaging
    fedora/package-review
