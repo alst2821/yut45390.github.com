@@ -14,7 +14,7 @@ MacLean. Centro de Investigaciones Sociales, La Paz. 2017
 * Artículo en educa.com.bo `"El plan decenal" <https://www.educa.com.bo/revolucion-1952-1964/plan-decenal-la-crisis-de-comibol-y-el-plan-triangular>`_.
 * Juan Antonio Morales. `"Minas, balas y gringos de T.C. Field" <https://www.paginasiete.bo/ideas/2017/7/2/minas-balas-gringos-tcfield-142976.html>`_. 2 Julio 2017. Página Siete.
 
-Otros libros
+Other books
 ^^^^^^^^^^^^
 
 Charles Arnade. "La dramatica insurgencia de Bolivia"

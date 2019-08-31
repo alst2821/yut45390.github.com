@@ -38,32 +38,41 @@ Linux related content
    fedora/vnc
    linux
 
-Non-linux related content
--------------------------
+Other computing-related content
+-------------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   documentation
+   docutils
+   emacs/emacs
+   emacs/magit
+   emacs/windows-compilation
+   epics
+   git
+   haskell
+   macports
+   python
+   make
+   osx
+   rust
+
+   
+Non-computing related content
+-----------------------------
 
 .. toctree::
    :maxdepth: 2
    
    bookmarks
    chinese-links
-   documentation
-   docutils
-   emacs/emacs
-   emacs/magit
-   epics
-   git
-   haskell
-   macports
-   make
-   osx
    philosophy
-   python
    reading/bolivia
    reading/books
    reading/computing
    reading/reading   
    reading/science
-   rust
 
 Indices and tables
 ==================
