@@ -151,7 +151,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'yut', 'yut Documentation',
-     author, 'yut', 'One line description of project.',
+     author, 'yut', 'Sphinx-generated pages.',
      'Miscellaneous'),
 ]
 
