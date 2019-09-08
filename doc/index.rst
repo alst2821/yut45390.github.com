@@ -73,6 +73,7 @@ Non-computing related content
    reading/computing
    reading/reading   
    reading/science
+   spanish
 
 Indices and tables
 ==================
