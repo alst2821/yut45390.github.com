@@ -65,6 +65,7 @@ Non-computing related content
 .. toctree::
    :maxdepth: 2
    
+   biology
    bookmarks
    chinese-links
    philosophy
