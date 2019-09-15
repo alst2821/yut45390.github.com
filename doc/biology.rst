@@ -58,7 +58,9 @@ The same pathways.
 
 Mitochondrial ATP synthase. Sir John Walker.
 
+Lecture by John Walker
+^^^^^^^^^^^^^^^^^^^^^^
 
-
-
+`'Fuel of Life' <https://www.youtube.com/watch?v=2uQmd36rX0E>`_ dated
+16 Nov 2018.
 
