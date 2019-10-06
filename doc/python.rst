@@ -10,6 +10,7 @@
 * `Matplotlib developers' guide`_ (Accessed July 2019)
 * `Matplotlib usage guide`_ 
 
+
 .. _`Advanced python`: https://www.youtube.com/watch?v=HlNTheck1Hk
 .. _`reddit channel for python`: http://www.reddit.com/r/python
 .. _`Numpy for Matlab users`: https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html
@@ -19,6 +20,26 @@
 .. rubric:: Footnotes
 
 .. [#fn1] Accessed on 28 Aug 2019
+
+
+Example using datetime
+^^^^^^^^^^^^^^^^^^^^^^
+
+The documentation of the `datetime module
+<https://docs.python.org/3.7/library/datetime.html>`_ indicates that
+there are these objects:
+* datetime
+* time
+* timezone
+
+.. code:: python
+
+    import datetime
+    import time
+    b= 1261228562.0
+    print(b)
+    a = datetime.datetime.fromtimestamp(b)
+    print(a)
 
 =============
  Style guide
