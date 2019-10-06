@@ -74,7 +74,9 @@ Non-computing related content
    reading/computing
    reading/reading   
    reading/science
+   recipe
    spanish
+   videos
 
 Indices and tables
 ==================
