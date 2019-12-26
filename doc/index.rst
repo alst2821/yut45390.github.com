@@ -37,6 +37,7 @@ Linux related content
    fedora/package-review
    fedora/vnc
    linux
+   virtual-machine
 
 Other computing-related content
 -------------------------------
