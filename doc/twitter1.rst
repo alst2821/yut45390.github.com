@@ -3,7 +3,7 @@
 ====================
 
 .. list-table::
-   :width: auto
+   :widths: auto
 
    * - 1
      - `Royal Society Chemistry <https://twitter.com/RoySocChem>`_
