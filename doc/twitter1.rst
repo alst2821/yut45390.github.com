@@ -35,4 +35,8 @@
      - `abrsm <https://twitter.com/ABRSM>`_
    * - 15
      - `Daresbury and RAL libraries <https://twitter.com/DLRALLibs>`_
-       
+   * - 16
+     - `bbc radio 3 <https://twitter.com/BBCRadio3>`_
+   * - 17
+     - `Roderick Williams <https://twitter.com/Sviceridor>`_
+     
