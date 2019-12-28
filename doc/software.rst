@@ -5,11 +5,16 @@
 NX Nomachine
 ^^^^^^^^^^^^
 
-NX Enterprise Client downloads `(link) <https://www.nomachine.com/product&p=NoMachine%20Enterprise%20Client>`_
-(`List per architecture <https://www.nomachine.com/download-enterprise#NoMachine-Enterprise-Client>`_) [Accessed Dec 2019]
-Linux packages for Fedora/Ubuntu/Tar `<https://www.nomachine.com/download/linux&id=4>`_
+* `NX Enterprise Client downloads <https://www.nomachine.com/product&p=NoMachine%20Enterprise%20Client>`_
+  
+* `List per architecture <https://www.nomachine.com/download-enterprise#NoMachine-Enterprise-Client>`_ [Accessed Dec 2019]
 
-Update to version 6.9.2-1 [Dec 2019] `(*) <https://www.nomachine.com/download/download&id=11>`_::
+* `Linux packages for Fedora/Ubuntu/Tar <https://www.nomachine.com/download/linux&id=4>`_
+
+* `Update to version 6.9.2-1 [Dec 2019] <https://www.nomachine.com/download/download&id=11>`_
+
+Logs of the installation::
+  
     $ rpm -qa noma*
     nomachine-enterprise-client-6.7.6-13.x86_64
 
