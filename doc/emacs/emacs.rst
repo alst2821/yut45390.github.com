@@ -95,10 +95,30 @@ Use the commands [#fn2]_::
 Tramp on remote server
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Use the command::
+There are many tips in the `tramp page of emacs wiki
+<https://www.emacswiki.org/emacs/TrampMode>`_ and there is the 
+`User Manual <http://www.gnu.org/software/emacs/manual/html_node/tramp/index.html>`_.
+
+I have a selection below:
+
+How to use tramp to edit a file on a remote machine. Use::
 
   M-x find-file RET /scp:username@servername:/path/to/file
 
+How to use tramp to edit a file as root. Use::
+
+  M-x find-file RET /su::/etc/hosts RET
+
+Tramp from windows using plink (tested in the past with PuTTY's plink and Pageant running)::
+
+  C-x C-f /plink:USERNAME@SERVER:.emacs RET
+  
+The general syntax is::
+
+  tramp open file syntax:
+  /<user>@<host>:/path/to/file or
+  /<protocol>:<user>@<host>:/path/to/file
+  
 Chinese chars when UTF-16 file read
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -112,3 +132,12 @@ The solution, to show the xml normally (utf-8) is.
   M-x revert-buffer-with-coding-system
 
 and choose ``binary`` encoding.
+
+Windows notes
+^^^^^^^^^^^^^
+
+Make emacs move files to trash when deleting::
+
+  (setq delete-by-moving-to-trash t)
+
+(Found in `masteringemacs.com <https://www.masteringemacs.org/article/making-deleted-files-trash-can>`_).
