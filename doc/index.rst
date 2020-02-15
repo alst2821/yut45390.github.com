@@ -37,6 +37,8 @@ Linux related content
    fedora/package-review
    fedora/vnc
    linux
+   software
+   virtual-machine
 
 Other computing-related content
 -------------------------------
@@ -74,7 +76,11 @@ Non-computing related content
    reading/computing
    reading/reading   
    reading/science
+   recipe
    spanish
+   twitter
+   twitter1
+   videos
 
 Indices and tables
 ==================

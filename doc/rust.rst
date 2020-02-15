@@ -38,6 +38,15 @@ The documentation example::
 `Rust (wikipedia)`_, this includes a `video`_ in webm by Emily Dunham at
 linux.conf.au in 2017. 
 
+`The Rust Cookbook
+<https://rust-lang-nursery.github.io/rust-cookbook/>`_ [#f2]_
+
+`The Rust Reference <https://doc.rust-lang.org/nightly/reference/>`_
+[#f3]_
+
+`The Rust Standard Library
+<https://doc.rust-lang.org/nightly/std/index.html>`_ [#f4]_
+
 .. _`Rust (wikipedia)`: https://en.wikipedia.org/wiki/Rust_(programming_language)
 .. _`video`: https://upload.wikimedia.org/wikipedia/commons/5/5c/Rust_101.webm
 
@@ -51,4 +60,9 @@ http://talks.edunham.net/lca2018/should-you-rewrite-in-rust/
 	    
 .. [#f1] Accessed on 17 August 2019.
 
+.. [#f2] Accessed on 6 Oct 2019.
+
+.. [#f3] Accessed on 6 Oct 2019.
 	 
+.. [#f4] Accessed on 6 Oct 2019.
+ 

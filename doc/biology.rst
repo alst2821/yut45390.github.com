@@ -58,7 +58,15 @@ The same pathways.
 
 Mitochondrial ATP synthase. Sir John Walker.
 
+Lecture by John Walker
+^^^^^^^^^^^^^^^^^^^^^^
 
+`'Fuel of Life' <https://www.youtube.com/watch?v=2uQmd36rX0E>`_ dated
+16 Nov 2018.
 
+Mention of chemiosmosis, proposed by Peter Mitchel (Nobel Prize
+recipient in 1978).  "Proton motive force".
 
+Voltage of -200 mV across the membrane of the mitochondria.
 
+Non-shivering thermo-genesis in babies.
