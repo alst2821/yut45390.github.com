@@ -69,6 +69,7 @@ Non-computing related content
    
    biology
    bookmarks
+   broadband
    chinese-links
    philosophy
    reading/bolivia
@@ -80,6 +81,7 @@ Non-computing related content
    spanish
    twitter
    twitter1
+   twitter2
    videos
 
 Indices and tables
