@@ -158,24 +158,26 @@
    * - 76
      - `Badminton <https://twitter.com/Badminton>`_
    * - 77
-     - `Tech <https://twitter.com/Tech>`_
+     - `Tech <https://twitter.com/RadleyTech>`_
    * - 78
-     - `Adventure <https://twitter.com/Adventure>`_
+     - `Adventure <https://twitter.com/RadleyAdventure>`_
    * - 79
-     - `Coding <https://twitter.com/Coding>`_
+     - `Coding <https://twitter.com/RadleyCoding>`_
    * - 80
-     - `Digital <https://twitter.com/Digital>`_
+     - `Digital <https://twitter.com/RadleyDigital>`_
    * - 81
-     - `Classics <https://twitter.com/Classics>`_
+     - `Classics <https://twitter.com/RadleyClassics>`_
    * - 82
-     - `Economics <https://twitter.com/Economics>`_
+     - `Economics <https://twitter.com/RadleyEconomics>`_
    * - 83
      - `Dev Office <https://twitter.com/RadleyPolo>`_
    * - 84
-     - `Mandarin <https://twitter.com/Mandarin>`_
+     - `Mandarin <https://twitter.com/RadleyMandarin>`_
    * - 85
      - `Cricket <https://twitter.com/RadleyCricket>`_
    * - 86
-     - `Chronicle <https://twitter.com/Chronicle>`_
+     - `Chronicle <https://twitter.com/RadleyChronicle>`_
    * - 87
-     - `I Social <https://twitter.com/ISocial>`_
+     - `I Social <https://twitter.com/RadleyISocial>`_
+   * - 88
+     - `Uni <https://twitter.com/RadleyUni>`_
