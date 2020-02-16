@@ -136,18 +136,42 @@
    * - 65
      - `RCCoffeeShop <https://twitter.com/RCCoffeeShop>`_
    * - 66
-     - `Cricket <https://twitter.com/RadleyCricket>`_
-   * - 67
      - `RadleianSociety <https://twitter.com/RadleianSociety>`_
-   * - 68
+   * - 67
      - `Shop <https://twitter.com/RadleyShop>`_
-   * - 69
+   * - 68
      - `CCF <https://twitter.com/RadleyCCF>`_
-   * - 70
+   * - 69
      - `Academic <https://twitter.com/RadleyAcademic>`_
-   * - 71
+   * - 70
      - `History <https://twitter.com/RadleyHistory>`_
-   * - 72
+   * - 71
      - `Design <https://twitter.com/RadleyDesign>`_
-   * - 73
+   * - 72
      - `Ian Yorston <https://twitter.com/IanYorston>`_
+   * - 73
+     - `Polo <https://twitter.com/RadleyPolo>`_
+   * - 74
+     - `Cross Country <https://twitter.com/RadleyXCountry>`_
+   * - 75
+     - `Fencing <https://twitter.com/RadleyFencing>`_
+   * - 76
+     - `Badminton <https://twitter.com/Badminton>`_
+   * - 77
+     - `Tech <https://twitter.com/Tech>`_
+   * - 78
+     - `Adventure <https://twitter.com/Adventure>`_
+   * - 79
+     - `Coding <https://twitter.com/Coding>`_
+   * - 80
+     - `Digital <https://twitter.com/Digital>`_
+   * - 81
+     - `Classics <https://twitter.com/Classics>`_
+   * - 82
+     - `Economics <https://twitter.com/Economics>`_
+   * - 83
+     - `Dev Office <https://twitter.com/RadleyPolo>`_
+   * - 84
+     - `Mandarin <https://twitter.com/Mandarin>`_
+   * - 85
+     - `Cricket <https://twitter.com/RadleyCricket>`_
