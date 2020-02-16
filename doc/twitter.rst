@@ -175,3 +175,7 @@
      - `Mandarin <https://twitter.com/Mandarin>`_
    * - 85
      - `Cricket <https://twitter.com/RadleyCricket>`_
+   * - 86
+     - `Chronicle <https://twitter.com/Chronicle>`_
+   * - 87
+     - `I Social <https://twitter.com/ISocial>`_
