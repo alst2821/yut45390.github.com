@@ -44,8 +44,8 @@ linux.conf.au in 2017.
 `The Rust Reference <https://doc.rust-lang.org/nightly/reference/>`_
 [#f3]_
 
-`The Rust Standard Library
-<https://doc.rust-lang.org/nightly/std/index.html>`_ [#f4]_
+`The Rust Standard Library`_ [#f4]_
+.. _`The Rust Standard Library`: https://doc.rust-lang.org/nightly/std/index.html
 
 .. _`Rust (wikipedia)`: https://en.wikipedia.org/wiki/Rust_(programming_language)
 .. _`video`: https://upload.wikimedia.org/wikipedia/commons/5/5c/Rust_101.webm
