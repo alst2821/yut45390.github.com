@@ -52,3 +52,8 @@ there are these objects:
 .. _`style guides`: https://google.github.io/styleguide/
 .. _`github repo`: https://github.com/google/styleguide
 
+* `Fluent python book by Luciano Ramalho (O'Reilly 2015) <http://shop.oreilly.com/product/0636920032519.do>`_.
+  The `example code <https://github.com/fluentpython/example-code>`_ is in github.
+  
+
+
