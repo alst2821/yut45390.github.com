@@ -21,7 +21,7 @@ subscriptions = [
     "radleyrackets", "rccoffeeshop", "radleiansociety", "radleyshop",
     "radleyccf", "radleyacademic", "radleyhistory", "radleydesign",
     "ianyorston", "radleypolo", "radleyxcountry", "radleyfencing",
-    "badminton", "radleytech", "radleyadventure",
+    "radleybadminton", "radleytech", "radleyadventure",
     "radleycoding", "radleydigital", "radleyclassics",
     "radleyeconomics", "radleypolo", "radleymandarin",
     "radleycricket", "radleychronicle", "radleyisocial", "radleyuni" ]
