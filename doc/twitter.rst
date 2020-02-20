@@ -147,130 +147,128 @@
      - `charities <https://twitter.com/radleycharities>`_
      - 2020-02-08 17:01:36
    * - 48
-     - `badminton <https://twitter.com/radleybadminton>`_
-     - 2020-02-06 21:28:29
-   * - 49
      - `strength <https://twitter.com/radleystrength>`_
      - 2020-02-06 10:21:30
-   * - 50
+   * - 49
      - `acadsupp <https://twitter.com/radleyacadsupp>`_
      - 2020-02-05 21:45:24
-   * - 51
+   * - 50
      - `theology <https://twitter.com/radleytheology>`_
      - 2020-02-04 21:07:56
-   * - 52
+   * - 51
      - `sportscen <https://twitter.com/radleysportscen>`_
      - 2020-02-01 08:08:59
-   * - 53
+   * - 52
      - `rackets <https://twitter.com/radleyrackets>`_
      - 2020-01-31 17:38:55
-   * - 54
+   * - 53
      - `rugby <https://twitter.com/radleyrugby>`_
      - 2020-01-31 11:25:49
-   * - 55
+   * - 54
      - `biology <https://twitter.com/radleybiology>`_
      - 2020-01-31 09:36:55
-   * - 56
+   * - 55
      - `employ <https://twitter.com/radleyemploy>`_
      - 2020-01-20 09:42:03
-   * - 57
+   * - 56
      - `chronicle <https://twitter.com/radleychronicle>`_
      - 2020-01-18 13:43:25
-   * - 58
+   * - 57
      - `iSocial <https://twitter.com/radleyisocial>`_
      - 2020-01-18 12:37:21
-   * - 59
+   * - 58
      - `adventure <https://twitter.com/radleyadventure>`_
      - 2020-01-04 16:55:12
-   * - 60
+   * - 59
      - `xcountry <https://twitter.com/radleyxcountry>`_
      - 2019-12-16 13:07:38
-   * - 61
+   * - 60
      - `medical <https://twitter.com/radleymedical>`_
      - 2019-12-16 10:54:54
-   * - 62
+   * - 61
      - `_warden <https://twitter.com/radley_warden>`_
      - 2019-12-12 19:35:09
-   * - 63
+   * - 62
      - `maths <https://twitter.com/radleymaths>`_
      - 2019-12-01 17:30:24
-   * - 64
+   * - 63
      - `rccoffeeshop <https://twitter.com/rccoffeeshop>`_
      - 2019-11-28 17:57:57
-   * - 65
+   * - 64
      - `fencing <https://twitter.com/radleyfencing>`_
      - 2019-11-28 16:22:10
-   * - 66
+   * - 65
      - `design <https://twitter.com/radleydesign>`_
      - 2019-11-14 22:52:29
-   * - 67
+   * - 66
      - `chapel <https://twitter.com/radleychapel>`_
      - 2019-11-11 14:35:40
-   * - 68
+   * - 67
      - `french <https://twitter.com/radleyfrench>`_
      - 2019-11-09 20:19:33
-   * - 69
+   * - 68
      - `athletics <https://twitter.com/radleyathletics>`_
      - 2019-10-22 21:14:31
-   * - 70
+   * - 69
      - `academic <https://twitter.com/radleyacademic>`_
      - 2019-10-16 10:42:05
-   * - 71
+   * - 70
      - `golf <https://twitter.com/radleygolf>`_
      - 2019-09-18 19:53:57
-   * - 72
+   * - 71
      - `subwarden <https://twitter.com/radleysubwarden>`_
      - 2019-09-15 11:09:08
-   * - 73
+   * - 72
      - `german <https://twitter.com/radleygerman>`_
      - 2019-07-21 06:28:03
-   * - 74
+   * - 73
      - `pshe <https://twitter.com/radleypshe>`_
      - 2019-06-10 13:39:25
-   * - 75
+   * - 74
      - `economics <https://twitter.com/radleyeconomics>`_
      - 2019-05-23 18:42:00
-   * - 76
+   * - 75
      - `fives <https://twitter.com/radleyfives>`_
      - 2019-03-28 09:40:20
-   * - 77
+   * - 76
      - `shooting <https://twitter.com/radleyshooting>`_
      - 2019-02-28 17:14:30
-   * - 78
+   * - 77
      - `entry <https://twitter.com/radleyentry>`_
      - 2019-01-20 12:00:12
-   * - 79
+   * - 78
      - `digital <https://twitter.com/radleydigital>`_
      - 2018-12-09 12:20:31
-   * - 80
+   * - 79
      - `swimming <https://twitter.com/radleyswimming>`_
      - 2018-12-06 15:45:33
-   * - 81
+   * - 80
      - `catering <https://twitter.com/radleycatering>`_
      - 2018-11-01 13:16:27
-   * - 82
+   * - 81
      - `_stem <https://twitter.com/radley_stem>`_
      - 2018-09-28 17:56:38
-   * - 83
+   * - 82
      - `uni <https://twitter.com/radleyuni>`_
      - 2018-09-28 13:52:23
+   * - 83
+     - `badminton <https://twitter.com/badminton>`_
+     - 2015-02-21 14:15:38
    * - 84
-     - `football <https://twitter.com/radleyfootball>`_
-     - 2015-09-02 12:38:30
-   * - 85
      - `shop <https://twitter.com/radleyshop>`_
      - 2001-01-01 01:01:01
-   * - 86
+   * - 85
      - `tech <https://twitter.com/radleytech>`_
      - 2001-01-01 01:01:01
-   * - 87
+   * - 86
      - `coding <https://twitter.com/radleycoding>`_
      - 2001-01-01 01:01:01
-   * - 88
+   * - 87
      - `mandarin <https://twitter.com/radleymandarin>`_
      - 2001-01-01 01:01:01
 
-Updated on 20 feb 2020
+Updated on 2020-02-20 09:04:56.475729
+
 
 .. code-block:: python
                 
