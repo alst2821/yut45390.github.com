@@ -19,4 +19,8 @@
      - `ATB <https://twitter.com/ATBDigital>`_
    * - 7
      - `BBC News <https://twitter.com/bbcnews>`_
-       
+   * - 8
+     - `Aeon Magazine <https://twitter.com/aeonmag>`_
+   * - 9
+     - `Quanta Magazine <https://twitter.com/QuantaMagazine>`_
+    

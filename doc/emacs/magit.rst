@@ -8,7 +8,17 @@ it convenient.
 .. _magit: https://magit.vc/manual/magit/index.html
 
 The user manual gets installed as info pages in emacs, but there is a
-version online here_ (https://magit.vc/manual/magit/index.html)
+version online `too <https://magit.vc/manual/magit/index.html>`_
 
-.. _here: https://magit.vc/manual/magit/index.html
+Installation
+------------
+
+The melpa method is::
+
+  (require 'package)
+  (add-to-list 'package-archives
+             '("melpa" . "http://melpa.org/packages/") t)
+
+  M-x package-refresh-contents RET
+  M-x package-install RET magit RET
 
