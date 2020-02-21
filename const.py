@@ -2,29 +2,36 @@ from secret import consumer_key, consumer_secret, \
                    access_token, access_token_secret
 
 subscriptions = [
-    "radleysports", "radleymusic", "radleyasocial", "radleybsocial",
-    "radleycsocial", "radleydsocial", "radleyesocial", "radleyfsocial",
-    "radleygsocial", "radleyhsocial", "radleyjsocial", "radleyksocial",
-    "radleylsocial", "radleyprecentor", "succentor", "radley_warden",
-    "radleycocurr", "radleycollege", "radleyrugby", "radleychorister",
-    "radleyarchives", "passionforpiano", "radleycampus", "radleyenrich",
-    "radleylinks", "radleybiology", "radleyphysics", "radleyemploy",
-    "radleyswimming", "radleyshooting", "radleygerman", "radleyfrench",
-    "radleygehandu", "radleygovtpol", "radleycharities", "radleychemistry",
-    "radleypshe", "radleygolf", "radley_stem", "radleyentry",
-    "radleychapel", "radleymedical", "radleyfives", "radleyathletics",
-    "radleylibrary", "radleyit", "radleytheatre", "radleyacadsupp",
-    "radleysubwarden", "radleyenglish", "radleygallery", "radleytheology",
-    "radleygeography", "radleymaths",
-    "radleygallery", "radleyartdept", "radleybc", "radleycatering",
-    "radleyhockey", "radleystrength", "radleysportscen", "radleytheatre",
-    "radleyrackets", "rccoffeeshop", "radleiansociety", "radleyshop",
-    "radleyccf", "radleyacademic", "radleyhistory", "radleydesign",
-    "ianyorston", "radleypolo", "radleyxcountry", "radleyfencing",
-    "radleybadminton", "radleytech", "radleyadventure",
-    "radleycoding", "radleydigital", "radleyclassics",
-    "radleyeconomics", "radleypolo", "radleymandarin",
-    "radleycricket", "radleychronicle", "radleyisocial", "radleyuni" ]
+    "radleysports"    , "radleymusic"     , "radleyasocial"   ,
+    "radleybsocial"   , "radleyfsocial"   , "radleyksocial"   ,
+    "radleycsocial"   , "radleydsocial"   , "radleyesocial"   ,
+    "radleygsocial"   , "radleyhsocial"   , "radleyjsocial"   ,
+    "radleylsocial"   , "radleyprecentor" , "succentor"       ,
+    "radley_warden"   , "radleychorister" , "radleyenrich"    ,
+    "radleycocurr"    , "radleycollege"   , "radleyrugby"     ,
+    "radleyarchives"  , "passionforpiano" , "radleycampus"    ,
+    "radleylinks"     , "radleybiology"   , "radleyphysics"   ,
+    "radleyemploy"    , "radleyfrench"    , "radleychemistry" ,
+    "radleyswimming"  , "radleyshooting"  , "radleygerman"    ,
+    "radleygehandu"   , "radleygovtpol"   , "radleycharities" ,
+    "radleypshe"      , "radleygolf"      , "radley_stem"     ,
+    "radleyentry"     , "radleycatering"  , "radleytheatre"   ,
+    "radleychapel"    , "radleymedical"   , "radleyfives"     ,
+    "radleyathletics" , "radleyacadsupp"  , "radleyserpentes" ,
+    "radleylibrary"   , "radleyit"        , "radleytheatre"   ,
+    "radleysubwarden" , "radleyenglish"   , "radleytheology"  ,
+    "radleygeography" , "radleymaths"     , "radley_football" ,
+    "radleysust"      , "radleyshop"      , "radleydesign"    ,
+    "radleygallery"   , "radleyartdept"   , "radleybc"        ,
+    "radleyhockey"    , "radleystrength"  , "radleysportscen" ,
+    "radleyrackets"   , "rccoffeeshop"    , "radleiansociety" ,
+    "radleyccf"       , "radleyacademic"  , "radleyhistory"   ,
+    "ianyorston"      , "radleypolo"      , "radleyxcountry"  ,
+    "radleybadminton" , "radleytech"      , "radleyadventure" ,
+    "radleycoding"    , "radleydigital"   , "radleyclassics"  ,
+    "radleyeconomics" , "radleypolo"      , "radleymandarin"  ,
+    "radleycricket"   , "radleychronicle" , "radleyisocial"   ,
+    "radleyuni"       , "radleyfencing"    ]
 
 def change(s):
     a = s.replace("radley","")
@@ -37,19 +44,19 @@ header="""======================
 
 .. list-table::
    :widths: auto
-	    
+
 """
 footer="""
 
 .. code-block:: python
-                
+
     import tweepy
     import datetime
     import const
-    
+
     def sort_by_date(e):
         return e['latest']
-    
+
     mintime=datetime.datetime.strptime("2001-01-01 01:01:01",
                 "%Y-%m-%d %H:%M:%S")
     auth = tweepy.OAuthHandler(const.consumer_key,
@@ -58,7 +65,7 @@ footer="""
                 const.access_token_secret)
     api = tweepy.API(auth,wait_on_rate_limit=True,
                 wait_on_rate_limit_notify=True)
-    
+
     alldata =[]
     for s in const.subscriptions:
         user = api.get_user(s)
@@ -74,9 +81,9 @@ footer="""
              'latest'      : latest
             }
         )
-        
+
     sorted_data = sorted(alldata, key=sort_by_date, reverse=True)
-    
+
     output="data.rst"
     f=open(output,"w")
     f.write(const.header)
@@ -88,7 +95,7 @@ footer="""
             const.change(e['subscription']),e['subscription']))
         f.write("     - %s\\n" % e['latest'].strftime(
                 "%Y-%m-%d %H:%M:%S"))
-    
+
     f.close()
 
 """
