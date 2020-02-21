@@ -31,7 +31,7 @@ subscriptions = [
     "radleycoding"    , "radleydigital"   , "radleyclassics"  ,
     "radleyeconomics" , "radleypolo"      , "radleymandarin"  ,
     "radleycricket"   , "radleychronicle" , "radleyisocial"   ,
-    "radleyuni"       , "radleyfencing"    ]
+    "radleyuni"       , "radleyfencing"   , "radleyarthist" ]
 
 def change(s):
     a = s.replace("radley","")
