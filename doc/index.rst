@@ -56,6 +56,7 @@ Other computing-related content
    haskell
    macports
    python
+   matplotlib
    make
    osx
    rust
