@@ -4,151 +4,151 @@
 
 .. list-table::
    :widths: auto
-
+	    
    * - 1
      - `kSocial <https://twitter.com/radleyksocial>`_
-     - 2020-02-26 19:29:27
+     - 2020-02-28 17:49:36
    * - 2
-     - `sust <https://twitter.com/radleysust>`_
-     - 2020-02-26 18:36:26
-   * - 3
-     - `physics <https://twitter.com/radleyphysics>`_
-     - 2020-02-26 18:35:46
-   * - 4
-     - `dSocial <https://twitter.com/radleydsocial>`_
-     - 2020-02-26 18:29:36
-   * - 5
-     - `ianyorston <https://twitter.com/ianyorston>`_
-     - 2020-02-26 18:11:23
-   * - 6
-     - `eSocial <https://twitter.com/radleyesocial>`_
-     - 2020-02-26 18:01:44
-   * - 7
-     - `college <https://twitter.com/radleycollege>`_
-     - 2020-02-26 16:10:22
-   * - 8
-     - `fSocial <https://twitter.com/radleyfsocial>`_
-     - 2020-02-26 14:38:20
-   * - 9
-     - `archives <https://twitter.com/radleyarchives>`_
-     - 2020-02-26 10:42:24
-   * - 10
-     - `succentor <https://twitter.com/succentor>`_
-     - 2020-02-26 09:09:35
-   * - 11
-     - `campus <https://twitter.com/radleycampus>`_
-     - 2020-02-26 09:09:27
-   * - 12
-     - `_football <https://twitter.com/radley_football>`_
-     - 2020-02-25 23:20:02
-   * - 13
-     - `hSocial <https://twitter.com/radleyhsocial>`_
-     - 2020-02-25 21:29:20
-   * - 14
      - `sports <https://twitter.com/radleysports>`_
-     - 2020-02-25 20:22:26
-   * - 15
+     - 2020-02-28 16:44:17
+   * - 3
+     - `precentor <https://twitter.com/radleyprecentor>`_
+     - 2020-02-28 16:27:57
+   * - 4
      - `english <https://twitter.com/radleyenglish>`_
-     - 2020-02-25 20:13:47
+     - 2020-02-28 14:28:21
+   * - 5
+     - `radleiansociety <https://twitter.com/radleiansociety>`_
+     - 2020-02-28 13:37:22
+   * - 6
+     - `archives <https://twitter.com/radleyarchives>`_
+     - 2020-02-28 13:15:28
+   * - 7
+     - `campus <https://twitter.com/radleycampus>`_
+     - 2020-02-28 12:56:35
+   * - 8
+     - `lSocial <https://twitter.com/radleylsocial>`_
+     - 2020-02-28 12:55:41
+   * - 9
+     - `ianyorston <https://twitter.com/ianyorston>`_
+     - 2020-02-28 12:20:58
+   * - 10
+     - `physics <https://twitter.com/radleyphysics>`_
+     - 2020-02-28 11:50:07
+   * - 11
+     - `dSocial <https://twitter.com/radleydsocial>`_
+     - 2020-02-28 11:47:47
+   * - 12
+     - `college <https://twitter.com/radleycollege>`_
+     - 2020-02-28 11:36:17
+   * - 13
+     - `fSocial <https://twitter.com/radleyfsocial>`_
+     - 2020-02-28 09:59:31
+   * - 14
+     - `eSocial <https://twitter.com/radleyesocial>`_
+     - 2020-02-28 08:28:29
+   * - 15
+     - `succentor <https://twitter.com/succentor>`_
+     - 2020-02-28 05:57:59
    * - 16
+     - `music <https://twitter.com/radleymusic>`_
+     - 2020-02-28 05:55:40
+   * - 17
+     - `enrich <https://twitter.com/radleyenrich>`_
+     - 2020-02-28 00:02:32
+   * - 18
+     - `gSocial <https://twitter.com/radleygsocial>`_
+     - 2020-02-27 23:41:55
+   * - 19
+     - `cocurr <https://twitter.com/radleycocurr>`_
+     - 2020-02-27 22:56:18
+   * - 20
+     - `aSocial <https://twitter.com/radleyasocial>`_
+     - 2020-02-27 22:49:04
+   * - 21
+     - `jSocial <https://twitter.com/radleyjsocial>`_
+     - 2020-02-27 22:11:07
+   * - 22
+     - `hSocial <https://twitter.com/radleyhsocial>`_
+     - 2020-02-27 20:30:23
+   * - 23
+     - `bc <https://twitter.com/radleybc>`_
+     - 2020-02-27 16:05:41
+   * - 24
+     - `theatre <https://twitter.com/radleytheatre>`_
+     - 2020-02-27 10:12:13
+   * - 25
+     - `theatre <https://twitter.com/radleytheatre>`_
+     - 2020-02-27 10:12:13
+   * - 26
+     - `library <https://twitter.com/radleylibrary>`_
+     - 2020-02-26 22:27:00
+   * - 27
+     - `gallery <https://twitter.com/radleygallery>`_
+     - 2020-02-26 20:20:37
+   * - 28
+     - `gallery <https://twitter.com/radleygallery>`_
+     - 2020-02-26 20:20:37
+   * - 29
      - `theology <https://twitter.com/radleytheology>`_
      - 2020-02-25 17:28:58
-   * - 17
+   * - 30
      - `rackets <https://twitter.com/radleyrackets>`_
      - 2020-02-25 16:59:22
-   * - 18
-     - `radleiansociety <https://twitter.com/radleiansociety>`_
-     - 2020-02-25 15:32:41
-   * - 19
-     - `jSocial <https://twitter.com/radleyjsocial>`_
-     - 2020-02-25 14:19:49
-   * - 20
+   * - 31
      - `ccf <https://twitter.com/radleyccf>`_
      - 2020-02-25 10:13:35
-   * - 21
-     - `precentor <https://twitter.com/radleyprecentor>`_
-     - 2020-02-25 10:00:57
-   * - 22
-     - `theatre <https://twitter.com/radleytheatre>`_
-     - 2020-02-25 09:55:31
-   * - 23
+   * - 32
      - `passionforpiano <https://twitter.com/passionforpiano>`_
      - 2020-02-24 19:12:58
-   * - 24
-     - `enrich <https://twitter.com/radleyenrich>`_
-     - 2020-02-24 13:05:38
-   * - 25
-     - `gallery <https://twitter.com/radleygallery>`_
-     - 2020-02-24 08:40:07
-   * - 26
-     - `aSocial <https://twitter.com/radleyasocial>`_
-     - 2020-02-23 23:20:10
-   * - 27
-     - `music <https://twitter.com/radleymusic>`_
-     - 2020-02-23 19:03:04
-   * - 28
-     - `cocurr <https://twitter.com/radleycocurr>`_
-     - 2020-02-23 18:34:16
-   * - 29
+   * - 33
      - `strength <https://twitter.com/radleystrength>`_
      - 2020-02-22 13:28:31
-   * - 30
-     - `library <https://twitter.com/radleylibrary>`_
-     - 2020-02-21 14:24:22
-   * - 31
+   * - 34
      - `geography <https://twitter.com/radleygeography>`_
      - 2020-02-21 13:30:58
-   * - 32
+   * - 35
      - `govtpol <https://twitter.com/radleygovtpol>`_
      - 2020-02-19 09:45:13
-   * - 33
+   * - 36
      - `chorister <https://twitter.com/radleychorister>`_
      - 2020-02-18 18:59:29
-   * - 34
+   * - 37
      - `artdept <https://twitter.com/radleyartdept>`_
      - 2020-02-18 15:24:15
-   * - 35
+   * - 38
      - `it <https://twitter.com/radleyit>`_
      - 2020-02-18 09:50:04
-   * - 36
+   * - 39
      - `cSocial <https://twitter.com/radleycsocial>`_
      - 2020-02-16 11:18:11
-   * - 37
-     - `gSocial <https://twitter.com/radleygsocial>`_
-     - 2020-02-15 09:28:26
-   * - 38
+   * - 40
      - `hockey <https://twitter.com/radleyhockey>`_
      - 2020-02-13 18:11:41
-   * - 39
+   * - 41
      - `bSocial <https://twitter.com/radleybsocial>`_
      - 2020-02-13 17:17:50
-   * - 40
-     - `lSocial <https://twitter.com/radleylsocial>`_
-     - 2020-02-13 05:50:53
-   * - 41
+   * - 42
      - `history <https://twitter.com/radleyhistory>`_
      - 2020-02-12 18:28:56
-   * - 42
+   * - 43
      - `gehandu <https://twitter.com/radleygehandu>`_
      - 2020-02-12 07:48:21
-   * - 43
+   * - 44
      - `chemistry <https://twitter.com/radleychemistry>`_
      - 2020-02-11 18:43:07
-   * - 44
-     - `polo <https://twitter.com/radleypolo>`_
-     - 2020-02-11 16:18:22
    * - 45
      - `polo <https://twitter.com/radleypolo>`_
      - 2020-02-11 16:18:22
    * - 46
+     - `polo <https://twitter.com/radleypolo>`_
+     - 2020-02-11 16:18:22
+   * - 47
      - `classics <https://twitter.com/radleyclassics>`_
      - 2020-02-10 22:39:12
-   * - 47
+   * - 48
      - `cricket <https://twitter.com/radleycricket>`_
      - 2020-02-10 15:51:29
-   * - 48
-     - `bc <https://twitter.com/radleybc>`_
-     - 2020-02-09 18:58:05
    * - 49
      - `links <https://twitter.com/radleylinks>`_
      - 2020-02-08 20:13:22
@@ -225,66 +225,60 @@
      - `german <https://twitter.com/radleygerman>`_
      - 2019-07-21 06:28:03
    * - 74
-     - `serpentes <https://twitter.com/radleyserpentes>`_
-     - 2019-07-07 18:00:50
-   * - 75
      - `pshe <https://twitter.com/radleypshe>`_
      - 2019-06-10 13:39:25
-   * - 76
+   * - 75
      - `economics <https://twitter.com/radleyeconomics>`_
      - 2019-05-23 18:42:00
-   * - 77
-     - `arthist <https://twitter.com/radleyarthist>`_
-     - 2019-04-19 08:38:58
-   * - 78
+   * - 76
      - `fives <https://twitter.com/radleyfives>`_
      - 2019-03-28 09:40:20
-   * - 79
+   * - 77
      - `shooting <https://twitter.com/radleyshooting>`_
      - 2019-02-28 17:14:30
-   * - 80
+   * - 78
      - `entry <https://twitter.com/radleyentry>`_
      - 2019-01-20 12:00:12
-   * - 81
+   * - 79
      - `digital <https://twitter.com/radleydigital>`_
      - 2018-12-09 12:20:31
-   * - 82
+   * - 80
      - `swimming <https://twitter.com/radleyswimming>`_
      - 2018-12-06 15:45:33
-   * - 83
+   * - 81
      - `catering <https://twitter.com/radleycatering>`_
      - 2018-11-01 13:16:27
-   * - 84
+   * - 82
      - `_stem <https://twitter.com/radley_stem>`_
      - 2018-09-28 17:56:38
-   * - 85
+   * - 83
      - `uni <https://twitter.com/radleyuni>`_
      - 2018-09-28 13:52:23
-   * - 86
+   * - 84
      - `shop <https://twitter.com/radleyshop>`_
      - 2001-01-01 01:01:01
-   * - 87
+   * - 85
      - `tech <https://twitter.com/radleytech>`_
      - 2001-01-01 01:01:01
-   * - 88
+   * - 86
      - `coding <https://twitter.com/radleycoding>`_
      - 2001-01-01 01:01:01
-   * - 89
+   * - 87
      - `mandarin <https://twitter.com/radleymandarin>`_
      - 2001-01-01 01:01:01
 
-Updated on 2020-02-26 19:34:57.779366
+Updated on 2020-02-28 18:06:00.341201
 
 
 .. code-block:: python
-
+                
     import tweepy
     import datetime
     import const
-
+    
     def sort_by_date(e):
         return e['latest']
-
+    
     mintime=datetime.datetime.strptime("2001-01-01 01:01:01",
                 "%Y-%m-%d %H:%M:%S")
     auth = tweepy.OAuthHandler(const.consumer_key,
@@ -293,7 +287,7 @@ Updated on 2020-02-26 19:34:57.779366
                 const.access_token_secret)
     api = tweepy.API(auth,wait_on_rate_limit=True,
                 wait_on_rate_limit_notify=True)
-
+    
     alldata =[]
     for s in const.subscriptions:
         user = api.get_user(s)
@@ -309,9 +303,9 @@ Updated on 2020-02-26 19:34:57.779366
              'latest'      : latest
             }
         )
-
+        
     sorted_data = sorted(alldata, key=sort_by_date, reverse=True)
-
+    
     output="data.rst"
     f=open(output,"w")
     f.write(const.header)
@@ -323,6 +317,6 @@ Updated on 2020-02-26 19:34:57.779366
             const.change(e['subscription']),e['subscription']))
         f.write("     - %s\n" % e['latest'].strftime(
                 "%Y-%m-%d %H:%M:%S"))
-
+    
     f.close()
 
