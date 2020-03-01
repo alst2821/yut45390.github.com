@@ -29,7 +29,7 @@ subscriptions = [
     "ianyorston"      , "radleypolo"      , "radleyxcountry"  ,
     "radleybadminton" , "radleytech"      , "radleyadventure" ,
     "radleycoding"    , "radleydigital"   , "radleyclassics"  ,
-    "radleyeconomics" , "radleypolo"      , "radleymandarin"  ,
+    "radleyeconomics" , "radleyclimates"  , "radleymandarin"  ,
     "radleycricket"   , "radleychronicle" , "radleyisocial"   ,
     "radleyuni"       , "radleyfencing"   , "radleyarthist" ]
 
