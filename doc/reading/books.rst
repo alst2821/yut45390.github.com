@@ -20,3 +20,7 @@ thought that it was going to be them who would discover the structure
 of DNA before Watson and Crick got to it.
 
 "The plague"
+by Albert Camus
+
+Enchiridion
+Epictetus

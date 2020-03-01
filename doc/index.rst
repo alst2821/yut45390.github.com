@@ -80,6 +80,7 @@ Non-computing related content
    reading/science
    recipe
    spanish
+   stoicism
    twitter
    twitter1
    twitter2
