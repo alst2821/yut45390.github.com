@@ -15,7 +15,7 @@ subscriptions = [
     "radleyswimming"  , "radleyshooting"  , "radleygerman"    ,
     "radleygehandu"   , "radleygovtpol"   , "radleycharities" ,
     "radleypshe"      , "radleygolf"      , "radley_stem"     ,
-    "radleyentry"     , "radleycatering"  , 
+    "radleyentry"     , "radleycatering"  , "radleysailing"   ,
     "radleychapel"    , "radleymedical"   , "radleyfives"     ,
     "radleyathletics" , "radleyacadsupp"  , "radleyserpentes" ,
     "radleylibrary"   , "radleyit"        , "radleytheatre"   ,
