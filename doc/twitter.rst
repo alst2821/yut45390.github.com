@@ -6,194 +6,194 @@
    :widths: auto
 
    * - 1
-     - `precentor <https://twitter.com/radleyprecentor>`_
-     - 2020-03-21 15:32:15
+     - `succentor <https://twitter.com/succentor>`_
+     - 2020-03-24 12:14:58
    * - 2
      - `library <https://twitter.com/radleylibrary>`_
-     - 2020-03-21 15:28:06
+     - 2020-03-24 11:17:44
    * - 3
-     - `succentor <https://twitter.com/succentor>`_
-     - 2020-03-21 14:23:06
+     - `precentor <https://twitter.com/radleyprecentor>`_
+     - 2020-03-24 10:36:41
    * - 4
      - `ianyorston <https://twitter.com/ianyorston>`_
-     - 2020-03-21 13:52:37
+     - 2020-03-24 10:01:14
    * - 5
-     - `passionforpiano <https://twitter.com/passionforpiano>`_
-     - 2020-03-21 13:03:44
+     - `radleiansociety <https://twitter.com/radleiansociety>`_
+     - 2020-03-24 09:24:22
    * - 6
-     - `jms <https://twitter.com/radleyjms>`_
-     - 2020-03-21 12:43:44
+     - `_football <https://twitter.com/radley_football>`_
+     - 2020-03-24 09:10:09
    * - 7
-     - `archives <https://twitter.com/radleyarchives>`_
-     - 2020-03-20 21:51:42
+     - `strength <https://twitter.com/radleystrength>`_
+     - 2020-03-24 08:22:24
    * - 8
-     - `cocurr <https://twitter.com/radleycocurr>`_
-     - 2020-03-20 19:38:33
+     - `chorister <https://twitter.com/radleychorister>`_
+     - 2020-03-24 07:04:06
    * - 9
-     - `music <https://twitter.com/radleymusic>`_
-     - 2020-03-20 17:53:44
+     - `physics <https://twitter.com/radleyphysics>`_
+     - 2020-03-24 06:59:43
    * - 10
-     - `theology <https://twitter.com/radleytheology>`_
-     - 2020-03-20 17:44:23
+     - `acadsupp <https://twitter.com/radleyacadsupp>`_
+     - 2020-03-23 22:30:24
    * - 11
      - `ccf <https://twitter.com/radleyccf>`_
-     - 2020-03-20 16:08:29
+     - 2020-03-23 19:07:52
    * - 12
+     - `archives <https://twitter.com/radleyarchives>`_
+     - 2020-03-23 18:17:49
+   * - 13
+     - `eSocial <https://twitter.com/radleyesocial>`_
+     - 2020-03-23 09:56:42
+   * - 14
+     - `jms <https://twitter.com/radleyjms>`_
+     - 2020-03-23 07:42:57
+   * - 15
+     - `medical <https://twitter.com/radleymedical>`_
+     - 2020-03-22 09:51:18
+   * - 16
+     - `passionforpiano <https://twitter.com/passionforpiano>`_
+     - 2020-03-21 20:04:25
+   * - 17
+     - `cocurr <https://twitter.com/radleycocurr>`_
+     - 2020-03-20 19:38:33
+   * - 18
+     - `music <https://twitter.com/radleymusic>`_
+     - 2020-03-20 17:53:44
+   * - 19
+     - `theology <https://twitter.com/radleytheology>`_
+     - 2020-03-20 17:44:23
+   * - 20
      - `enrich <https://twitter.com/radleyenrich>`_
      - 2020-03-20 15:34:25
-   * - 13
+   * - 21
      - `sports <https://twitter.com/radleysports>`_
      - 2020-03-20 09:12:34
-   * - 14
-     - `eSocial <https://twitter.com/radleyesocial>`_
-     - 2020-03-20 08:42:23
-   * - 15
+   * - 22
      - `geol <https://twitter.com/radleygeol>`_
      - 2020-03-20 07:46:15
-   * - 16
-     - `physics <https://twitter.com/radleyphysics>`_
-     - 2020-03-20 07:30:18
-   * - 17
-     - `medical <https://twitter.com/radleymedical>`_
-     - 2020-03-19 21:01:17
-   * - 18
-     - `_football <https://twitter.com/radley_football>`_
-     - 2020-03-19 19:44:27
-   * - 19
-     - `strength <https://twitter.com/radleystrength>`_
-     - 2020-03-19 19:20:15
-   * - 20
-     - `radleiansociety <https://twitter.com/radleiansociety>`_
-     - 2020-03-19 16:06:44
-   * - 21
+   * - 23
      - `college <https://twitter.com/radleycollege>`_
      - 2020-03-19 16:00:37
-   * - 22
+   * - 24
      - `gSocial <https://twitter.com/radleygsocial>`_
      - 2020-03-19 13:44:19
-   * - 23
+   * - 25
      - `adventure <https://twitter.com/radleyadventure>`_
      - 2020-03-19 10:28:29
-   * - 24
+   * - 26
      - `hSocial <https://twitter.com/radleyhsocial>`_
      - 2020-03-19 09:41:22
-   * - 25
+   * - 27
      - `jSocial <https://twitter.com/radleyjsocial>`_
      - 2020-03-19 01:28:15
-   * - 26
+   * - 28
      - `fSocial <https://twitter.com/radleyfsocial>`_
      - 2020-03-19 00:11:15
-   * - 27
+   * - 29
      - `cSocial <https://twitter.com/radleycsocial>`_
      - 2020-03-18 23:31:44
-   * - 28
+   * - 30
      - `kSocial <https://twitter.com/radleyksocial>`_
      - 2020-03-18 23:12:14
-   * - 29
+   * - 31
      - `aSocial <https://twitter.com/radleyasocial>`_
      - 2020-03-18 22:52:05
-   * - 30
+   * - 32
      - `bc <https://twitter.com/radleybc>`_
      - 2020-03-18 17:10:44
-   * - 31
+   * - 33
      - `english <https://twitter.com/radleyenglish>`_
      - 2020-03-18 13:43:13
-   * - 32
+   * - 34
      - `fencing <https://twitter.com/radleyfencing>`_
      - 2020-03-18 13:41:54
-   * - 33
+   * - 35
      - `employ <https://twitter.com/radleyemploy>`_
      - 2020-03-18 11:00:52
-   * - 34
+   * - 36
      - `classics <https://twitter.com/radleyclassics>`_
      - 2020-03-18 10:07:42
-   * - 35
+   * - 37
      - `bSocial <https://twitter.com/radleybsocial>`_
      - 2020-03-17 18:19:49
-   * - 36
+   * - 38
      - `hockey <https://twitter.com/radleyhockey>`_
      - 2020-03-17 17:39:55
-   * - 37
+   * - 39
      - `dSocial <https://twitter.com/radleydsocial>`_
      - 2020-03-17 15:43:52
-   * - 38
+   * - 40
      - `theatre <https://twitter.com/radleytheatre>`_
      - 2020-03-17 11:47:22
-   * - 39
+   * - 41
      - `campus <https://twitter.com/radleycampus>`_
      - 2020-03-17 09:26:57
-   * - 40
+   * - 42
      - `climates <https://twitter.com/radleyclimates>`_
      - 2020-03-16 18:23:02
-   * - 41
+   * - 43
      - `rackets <https://twitter.com/radleyrackets>`_
      - 2020-03-16 16:40:16
-   * - 42
+   * - 44
      - `sust <https://twitter.com/radleysust>`_
      - 2020-03-16 14:15:22
-   * - 43
-     - `chorister <https://twitter.com/radleychorister>`_
-     - 2020-03-15 21:05:19
-   * - 44
+   * - 45
      - `lSocial <https://twitter.com/radleylsocial>`_
      - 2020-03-14 17:32:14
-   * - 45
+   * - 46
      - `subwarden <https://twitter.com/radleysubwarden>`_
      - 2020-03-14 15:56:53
-   * - 46
+   * - 47
      - `sailing <https://twitter.com/radleysailing>`_
      - 2020-03-14 15:36:58
-   * - 47
+   * - 48
      - `links <https://twitter.com/radleylinks>`_
      - 2020-03-14 14:13:22
-   * - 48
+   * - 49
      - `gallery <https://twitter.com/radleygallery>`_
      - 2020-03-13 08:56:28
-   * - 49
+   * - 50
      - `charities <https://twitter.com/radleycharities>`_
      - 2020-03-13 08:39:46
-   * - 50
+   * - 51
      - `badminton <https://twitter.com/radleybadminton>`_
      - 2020-03-12 17:51:28
-   * - 51
+   * - 52
      - `geography <https://twitter.com/radleygeography>`_
      - 2020-03-11 16:23:18
-   * - 52
+   * - 53
      - `artdept <https://twitter.com/radleyartdept>`_
      - 2020-03-11 16:15:53
-   * - 53
+   * - 54
      - `polo <https://twitter.com/radleypolo>`_
      - 2020-03-11 13:36:18
-   * - 54
+   * - 55
      - `design <https://twitter.com/radleydesign>`_
      - 2020-03-11 05:49:33
-   * - 55
+   * - 56
      - `academic <https://twitter.com/radleyacademic>`_
      - 2020-03-10 23:11:14
-   * - 56
+   * - 57
      - `iSocial <https://twitter.com/radleyisocial>`_
      - 2020-03-08 11:47:04
-   * - 57
+   * - 58
      - `chemistry <https://twitter.com/radleychemistry>`_
      - 2020-03-03 15:46:30
-   * - 58
+   * - 59
      - `govtpol <https://twitter.com/radleygovtpol>`_
      - 2020-02-19 09:45:13
-   * - 59
+   * - 60
      - `it <https://twitter.com/radleyit>`_
      - 2020-02-18 09:50:04
-   * - 60
+   * - 61
      - `history <https://twitter.com/radleyhistory>`_
      - 2020-02-12 18:28:56
-   * - 61
+   * - 62
      - `gehandu <https://twitter.com/radleygehandu>`_
      - 2020-02-12 07:48:21
-   * - 62
+   * - 63
      - `cricket <https://twitter.com/radleycricket>`_
      - 2020-02-10 15:51:29
-   * - 63
-     - `acadsupp <https://twitter.com/radleyacadsupp>`_
-     - 2020-02-05 21:45:24
    * - 64
      - `sportscen <https://twitter.com/radleysportscen>`_
      - 2020-02-01 08:08:59
@@ -282,7 +282,7 @@
      - `mandarin <https://twitter.com/radleymandarin>`_
      - 2001-01-01 01:01:01
 
-Updated on 2020-03-21 17:02:29.090097
+Updated on 2020-03-24 13:15:11.704917
 
 
 .. code-block:: python
