@@ -38,6 +38,17 @@ To change the tab-width of emacs, use::
     (setq tab-width 8)
 
 
+Compilation window using colours
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This lisp initialization allows a build on the compilation buffer to
+show ansi escape codes okay::
+  
+  (add-hook 'compilation-filter-hook
+	  (lambda ()
+	    (ansi-color-apply-on-region compilation-filter-start (point))))
+
+    
 dired-x and .dired file
 ^^^^^^^^^^^^^^^^^^^^^^^
 
