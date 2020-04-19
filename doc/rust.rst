@@ -8,7 +8,7 @@
 
 * Cargo recognises `semantic versioning <https://semver.org/>`_
 
-* `The rust standard library <https://doc.rust-lang.org/std/index.html>`_.
+* `The rust standard library`_.
 
 
 
