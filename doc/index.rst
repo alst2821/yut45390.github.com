@@ -57,6 +57,7 @@ Other computing-related content
    haskell
    macports
    python
+   pyqt
    matplotlib
    make
    osx
@@ -72,6 +73,7 @@ Non-computing related content
    biology
    bookmarks
    broadband
+   calendar
    chinese-links
    philosophy
    reading/bolivia
@@ -79,6 +81,7 @@ Non-computing related content
    reading/computing
    reading/reading   
    reading/science
+   reading/review
    recipe
    spanish
    stoicism
