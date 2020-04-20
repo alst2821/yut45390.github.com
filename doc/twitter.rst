@@ -285,6 +285,13 @@
 Updated on 2020-04-19 20:53:09.085597
 
 
+.. |date| date::
+.. |time| date:: %H:%M
+
+Today's date is |date|.
+
+This document was generated on |date| at |time|.
+
 .. code-block:: python
 
     import tweepy
