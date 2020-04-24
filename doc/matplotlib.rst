@@ -16,8 +16,11 @@ Documentation links are:
 There are two methods to interface matplotlib:
 
 * The `pyplot API`_, that has a subsection of the `examples`_ and a `tutorial`_.
-  Details are shown in a `separate page`_.
+  Details are shown in a `separate page`_. The documentation says::
 
+    pyplot is mainly intended for interactive plots and simple cases
+    of programmatic plot generation
+  
 .. _`pyplot API`: https://matplotlib.org/3.1.1/api/index.html#the-pyplot-api
 .. _`separate page`: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html
 .. _`examples`: https://matplotlib.org/3.1.1/gallery/index.html#pyplots-examples
