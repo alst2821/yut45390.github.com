@@ -152,3 +152,21 @@ Make emacs move files to trash when deleting::
   (setq delete-by-moving-to-trash t)
 
 (Found in `masteringemacs.com <https://www.masteringemacs.org/article/making-deleted-files-trash-can>`_).
+
+Creating info files from sphinx content
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The content of a sphinx set of documents can be made in the info
+format usually by callink `make info` instead of `make html`.
+
+The result is a texi file that can be further processed into an info.
+
+The emacs manual `(*)
+<https://www.gnu.org/software/emacs/manual/html_node/efaq/Installing-Texinfo-documentation.html>`_
+explains that to browse this content as an info file in emacs, one can
+invoke the info file directly using `C-u M-x info RET` followed by the
+file name.
+
+Alternatively, use `M-x Info-goto-node` and enter the info file in
+brackets.
+
