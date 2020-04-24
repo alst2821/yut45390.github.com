@@ -8,10 +8,12 @@
 * `reddit channel for python`_
 * `Numpy for Matlab users`_ (Accessed July 2019)
 
+* `pandas dataframe reference`_
 
 .. _`Advanced python`: https://www.youtube.com/watch?v=HlNTheck1Hk
 .. _`reddit channel for python`: http://www.reddit.com/r/python
 .. _`Numpy for Matlab users`: https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html
+.. _`pandas dataframe reference`: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html?highlight=dataframe#pandas.DataFrame
 
 .. rubric:: Footnotes
 
