@@ -16,7 +16,16 @@ Documentation links are:
 There are two methods to interface matplotlib:
 
 * The `pyplot API`_, that has a subsection of the `examples`_ and a `tutorial`_.
-  Details are shown in a `separate page`_.
+  Details are shown in a `separate page`_. The documentation says:
+
+    pyplot is mainly intended for interactive plots and simple cases
+    of programmatic plot generation
+  
+The main parts of the object oriented API mentioned are the `axes`_ and `figure`_ documentation references.
+
+.. _`axes`: https://matplotlib.org/3.1.1/api/axes_api.html#matplotlib.axes.Axes
+
+.. _`figure`: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.figure.Figure.html#matplotlib.figure.Figure
 
 .. _`pyplot API`: https://matplotlib.org/3.1.1/api/index.html#the-pyplot-api
 .. _`separate page`: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html
