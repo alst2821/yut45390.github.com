@@ -2,7 +2,8 @@
  Notes on debian system administration
 =======================================
 
-Notes taken last decade when I used to work with debian systems.
+Notes taken over 10 years ago, when I used to work with Debian
+systems.
 
 How to get the list of packages installed
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -39,10 +40,17 @@ Add to array as spare::
 
   mdadm -a /dev/hda1
 
-  
+Debian sources.list for apt
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The `sources list page`_ [#fn3]_ on the debian wiki explains what one has
+to add to the apt/sources.list file to use contrib non-free
+
+.. _`sources list page`: https://wiki.debian.org/SourcesList
+
+
 Notes about debian packaging
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 
 * Per Abrahamsen, `"Distribute a single executable as a .deb file"`_.
   Per Abrahamsen's blog. March 2016.  Notes from packaging an
@@ -66,12 +74,6 @@ a data component.
 .. _`"Debian packaging tutorial"`: https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.en.pdf
 
 .. _`Building tutorial`: https://wiki.debian.org/BuildingTutorial
-
-.. rubric:: Footnotes
-
-.. [#fn1] Accessed Aug 2019
-	     
-.. [#fn2] Accessed March 2018
 
 * Building packages
 
@@ -186,6 +188,15 @@ a data component.
     apt-get update
     apt-get upgrade
 
-
 .. _`steps`: https://askubuntu.com/questions/711794/apt-get-update-always-failed-to-fetch
 
+
+.. rubric:: Footnotes
+
+.. [#fn1] Accessed Aug 2019
+	     
+.. [#fn2] Accessed March 2018
+
+
+.. [#fn3] Accessed Apr 2020
+          

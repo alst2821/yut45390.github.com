@@ -31,7 +31,6 @@ Linux related content
    centos/centos
    centos/emacs-rpm
    debian
-   debian-sources
    fedora/fedora
    fedora/packaging
    fedora/package-review
