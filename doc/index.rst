@@ -22,11 +22,10 @@ I used to host a set of bookmarks in this site, but most of the
 :ref:`bookmarks <ref-bookmarks>` are already unavailable, because they
 are too old.
 
-Linux related content
----------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Linux related content
 
    centos/centos
    centos/emacs-rpm
@@ -40,11 +39,9 @@ Linux related content
    software
    virtual-machine
 
-Other computing-related content
--------------------------------
-
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Other computing related content
 
    documentation
    docutils
@@ -63,11 +60,10 @@ Other computing-related content
    rust
 
    
-Non-computing related content
------------------------------
-
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Non-computing related content
+              
    
    biology
    bookmarks
