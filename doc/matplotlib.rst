@@ -21,7 +21,8 @@ There are two methods to interface matplotlib:
     pyplot is mainly intended for interactive plots and simple cases
     of programmatic plot generation
   
-The main parts of the object oriented API mentioned are the `axes`_ and `figure`_ documentation references.
+The main parts of the object oriented API mentioned are the `axes`_
+and `figure`_ documentation references.
 
 .. _`axes`: https://matplotlib.org/3.1.1/api/axes_api.html#matplotlib.axes.Axes
 
@@ -39,3 +40,10 @@ The main parts of the object oriented API mentioned are the `axes`_ and `figure`
 .. _`API page`:  https://matplotlib.org/3.1.1/api/index.html#the-object-oriented-api
 
     
+* `The Matplotlib Developer's guide`_ 
+
+* `John Hunter excellence in plotting contest`_
+
+.. _`The Matplotlib Developer's guide` : https://matplotlib.org/devel/coding_guide.html
+.. _`John Hunter excellence in plotting contest` : https://jhepc.github.io/index.html
+
