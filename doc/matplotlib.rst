@@ -39,7 +39,9 @@ and `figure`_ documentation references.
   
 .. _`API page`:  https://matplotlib.org/3.1.1/api/index.html#the-object-oriented-api
 
-    
+
+* `The matplotlib FAQ <https://matplotlib.org/3.1.1/faq/index.html>`_
+
 * `The Matplotlib Developer's guide`_ 
 
 * `John Hunter excellence in plotting contest`_
