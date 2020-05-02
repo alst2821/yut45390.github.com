@@ -46,108 +46,108 @@ By Leo Tolstoy/Tolstoi
     CONTENTS
 
 
-    BOOK ONE: 1805
+    :ref:`BOOK ONE: 1805 <ref-2600-book-one>`
 
-    CHAPTER I
+    :ref:`CHAPTER I<ref-2600-b1-ch1>`
 
-    CHAPTER II
+    :ref:`CHAPTER II<ref-2600-b1-ch2>`
 
-    CHAPTER III
+    :ref:`CHAPTER III<ref-2600-b1-ch3>`
 
-    CHAPTER IV
+    :ref:`CHAPTER IV<ref-2600-b1-ch4>`
 
-    CHAPTER V
+    :ref:`CHAPTER V<ref-2600-b1-ch5>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VI<ref-2600-b1-ch6>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VII<ref-2600-b1-ch7>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER VIII<ref-2600-b1-ch8>`
 
-    CHAPTER IX
+    :ref:`CHAPTER IX<ref-2600-b1-ch9>`
 
-    CHAPTER X
+    :ref:`CHAPTER X<ref-2600-b1-ch10>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XI<ref-2600-b1-ch11>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XII<ref-2600-b1-ch12>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIII<ref-2600-b1-ch13>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XIV<ref-2600-b1-ch14>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XV<ref-2600-b1-ch15>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVI<ref-2600-b1-ch16>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVII<ref-2600-b1-ch17>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XVIII<ref-2600-b1-ch18>`
 
-    CHAPTER XIX
+    :ref:`CHAPTER XIX<ref-2600-b1-ch19>`
 
-    CHAPTER XX
+    :ref:`CHAPTER XX<ref-2600-b1-ch20>`
 
-    CHAPTER XXI
+    :ref:`CHAPTER XXI<ref-2600-b1-ch21>`
 
-    CHAPTER XXII
+    :ref:`CHAPTER XXII<ref-2600-b1-ch22>`
 
-    CHAPTER XXIII
+    :ref:`CHAPTER XXIII<ref-2600-b1-ch23>`
 
-    CHAPTER XXIV
+    :ref:`CHAPTER XXIV<ref-2600-b1-ch24>`
 
-    CHAPTER XXV
+    :ref:`CHAPTER XXV<ref-2600-b1-ch25>`
 
-    CHAPTER XXVI
+    :ref:`CHAPTER XXVI<ref-2600-b1-ch26>`
 
-    CHAPTER XXVII
+    :ref:`CHAPTER XXVII<ref-2600-b1-ch27>`
 
-    CHAPTER XXVIII
+    :ref:`CHAPTER XXVIII<ref-2600-b1-ch28>`
 
 
-    BOOK TWO: 1805
+    :ref:`BOOK TWO: 1805 <ref-2600-book-two>`
 
-    CHAPTER I
+    :ref:`CHAPTER I<ref-2600-b2-ch1>`
 
-    CHAPTER II
+    :ref:`CHAPTER II<ref-2600-b2-ch2>`
 
-    CHAPTER III
+    :ref:`CHAPTER III<ref-2600-b2-ch3>`
 
-    CHAPTER IV
+    :ref:`CHAPTER IV<ref-2600-b2-ch4>`
 
-    CHAPTER V
+    :ref:`CHAPTER V<ref-2600-b2-ch5>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VI<ref-2600-b2-ch6>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VII<ref-2600-b2-ch7>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER VIII<ref-2600-b2-ch8>`
 
-    CHAPTER IX
+    :ref:`CHAPTER IX<ref-2600-b2-ch9>`
 
-    CHAPTER X
+    :ref:`CHAPTER X<ref-2600-b2-ch10>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XI<ref-2600-b2-ch11>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XII<ref-2600-b2-ch12>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIII<ref-2600-b2-ch13>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XIV<ref-2600-b2-ch14>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XV<ref-2600-b2-ch15>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVI<ref-2600-b2-ch16>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVII<ref-2600-b2-ch17>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XVIII<ref-2600-b2-ch18>`
 
-    CHAPTER XIX
+    :ref:`CHAPTER XIX<ref-2600-b2-ch19>`
 
-    CHAPTER XX
+    :ref:`CHAPTER XX<ref-2600-b2-ch20>`
 
-    CHAPTER XXI
+    :ref:`CHAPTER XXI<ref-2600-b2-ch21>`
 
 
     BOOK THREE: 1805
@@ -834,12 +834,14 @@ By Leo Tolstoy/Tolstoi
 
 
 
+.. _ref-2600-book-one:
 
 BOOK ONE: 1805
 ^^^^^^^^^^^^^^
 
 
 
+.. _ref-2600-b1-ch1:
 
 CHAPTER I
 
@@ -1075,6 +1077,7 @@ start my apprenticeship as old maid.”
 
 
 
+.. _ref-2600-b1-ch2:
 
 CHAPTER II
 
@@ -1217,6 +1220,7 @@ opportunity to express his own views, as young people are fond of doing.
 
 
 
+.. _ref-2600-b1-ch3:
 
 CHAPTER III
 
@@ -1394,6 +1398,7 @@ larger circle.
 
 
 
+.. _ref-2600-b1-ch4:
 
 CHAPTER IV
 
@@ -1571,6 +1576,7 @@ accomplished.
 
 
 
+.. _ref-2600-b1-ch5:
 
 CHAPTER V
 
@@ -1826,6 +1832,7 @@ where.
 
 
 
+.. _ref-2600-b1-ch6:
 
 CHAPTER VI
 
@@ -2006,6 +2013,7 @@ me!”
 
 
 
+.. _ref-2600-b1-ch7:
 
 CHAPTER VII
 
@@ -2143,6 +2151,7 @@ as he would have done to a stranger.
 
 
 
+.. _ref-2600-b1-ch8:
 
 CHAPTER VIII
 
@@ -2280,6 +2289,7 @@ won’t go.”
 
 
 
+.. _ref-2600-b1-ch9:
 
 CHAPTER IX
 
@@ -2543,6 +2553,7 @@ and began dancing round the room with it.
 
 
 
+.. _ref-2600-b1-ch10:
 
 CHAPTER X
 
@@ -2735,6 +2746,7 @@ he said.
 
 
 
+.. _ref-2600-b1-ch11:
 
 CHAPTER XI
 
@@ -2838,6 +2850,7 @@ disturbed.
 
 
 
+.. _ref-2600-b1-ch12:
 
 CHAPTER XII
 
@@ -2997,7 +3010,7 @@ when she had seen her guests out.
 
 
 
-
+.. _ref-2600-b1-ch13:
 
 CHAPTER XIII
 
@@ -3112,7 +3125,7 @@ sitting room.
 
 
 
-
+.. _ref-2600-b1-ch14:
 
 CHAPTER XIV
 
@@ -3303,7 +3316,7 @@ Orlóv never gave such a dinner as ours will be!”
 
 
 
-
+.. _ref-2600-b1-ch15:
 
 CHAPTER XV
 
@@ -3504,7 +3517,7 @@ stairs and up another, to Pierre’s rooms.
 
 
 
-
+.. _ref-2600-b1-ch16:
 
 CHAPTER XVI
 
@@ -3732,7 +3745,7 @@ asked the son.
 
 
 
-
+.. _ref-2600-b1-ch17:
 
 CHAPTER XVII
 
@@ -3838,7 +3851,7 @@ But those tears were pleasant to them both.
 
 
 
-
+.. _ref-2600-b1-ch18:
 
 CHAPTER XVIII
 
@@ -4093,7 +4106,7 @@ knowledge.
 
 
 
-
+.. _ref-2600-b1-ch19:
 
 CHAPTER XIX
 
@@ -4127,20 +4140,20 @@ for the attainment of that purpose.
 “Zat, my dear sir, is vy...” he concluded, drinking a tumbler of
 wine with dignity and looking to the count for approval.
 
-“Connaissez-vous le Proverbe:* ‘Jerome, Jerome, do not roam, but
+“Connaissez-vous le Proverbe:\* ‘Jerome, Jerome, do not roam, but
 turn spindles at home!’?” said Shinshín, puckering his brows and
-smiling. “Cela nous convient à merveille.*(2) Suvórov now—he knew
-what he was about; yet they beat him à plate couture,*(3) and where
-are we to find Suvórovs now? Je vous demande un peu,” *(4) said he,
+smiling. “Cela nous convient à merveille.\*(2) Suvórov now—he knew
+what he was about; yet they beat him à plate couture,\*(3) and where
+are we to find Suvórovs now? Je vous demande un peu,” \*(4) said he,
 continually changing from French to Russian.
 
-     *Do you know the proverb?
+     \*Do you know the proverb?
 
-     *(2) That suits us down to the ground.
+     \*(2) That suits us down to the ground.
 
-     *(3) Hollow.
+     \*(3) Hollow.
 
-     *(4) I just ask you that.
+     \*(4) I just ask you that.
 
 “Ve must vight to the last tr-r-op of our plood!” said the colonel,
 thumping the table; “and ve must tie for our Emperor, and zen all vill
@@ -4262,7 +4275,7 @@ guests returned to the drawing room and to the count’s study.
 
 
 
-
+.. _ref-2600-b1-ch20:
 
 CHAPTER XX
 
@@ -4510,7 +4523,7 @@ her sleeves and puffing heavily.
 
 
 
-
+.. _ref-2600-b1-ch21:
 
 CHAPTER XXI
 
@@ -4635,7 +4648,7 @@ Catiche,” * muttered the prince, seating himself wearily on the chair
 she had just vacated. “You have made the place warm, I must say,” he
 remarked. “Well, sit down: let’s have a talk.”
 
-     *Catherine.
+     \*Catherine.
 
 “I thought perhaps something had happened,” she said with her
 unchanging stonily severe expression; and, sitting down opposite the
@@ -4856,7 +4869,7 @@ will come!”
 
 
 
-
+.. _ref-2600-b1-ch22:
 
 CHAPTER XXII
 
@@ -5049,6 +5062,7 @@ enter that room.
 
 
 
+.. _ref-2600-b1-ch23:
 
 CHAPTER XXIII
 
@@ -5224,6 +5238,7 @@ Pierre went out.
 
 
 
+.. _ref-2600-b1-ch24:
 
 CHAPTER XXIV
 
@@ -5431,6 +5446,7 @@ disapprovingly, but in whispers and as a great secret.
 
 
 
+.. _ref-2600-b1-ch25:
 
 CHAPTER XXV
 
@@ -5793,6 +5809,7 @@ clavichord.
 
 
 
+.. _ref-2600-b1-ch26:
 
 CHAPTER XXVI
 
@@ -6016,9 +6033,9 @@ said: “That’s bad! Go on, go on.”
 
 The third interruption came when Prince Andrew was finishing his
 description. The old man began to sing, in the cracked voice of old age:
-“Malbrook s’en va-t-en guerre. Dieu sait quand reviendra.” *
+“Malbrook s’en va-t-en guerre. Dieu sait quand reviendra.” \*
 
-     * “Marlborough is going to the wars; God knows when he’ll
+     \* “Marlborough is going to the wars; God knows when he’ll
      return.”
 
 
@@ -6036,6 +6053,7 @@ meditatively and rapidly:
 
 
 
+.. _ref-2600-b1-ch27:
 
 CHAPTER XXVII
 
@@ -6224,6 +6242,7 @@ I am afraid of him.”
 
 
 
+.. _ref-2600-b1-ch28:
 
 CHAPTER XXVIII
 
@@ -6554,7 +6573,7 @@ and like him. Write and tell me how he receives you. If he is all
 right—serve him. Nicholas Bolkónski’s son need not serve under
 anyone if he is in disfavor. Now come here.”
 
-     *Kutúzov.
+     \*Kutúzov.
 
 He spoke so rapidly that he did not finish half his words, but his son
 was accustomed to understand him. He led him to the desk, raised the
@@ -6634,6 +6653,7 @@ the door.
 
 
 
+.. _ref-2600-book-two:
 
 BOOK TWO: 1805
 ^^^^^^^^^^^^^^
@@ -6641,6 +6661,7 @@ BOOK TWO: 1805
 
 
 
+.. _ref-2600-b2-ch1:
 
 CHAPTER I
 
@@ -6846,6 +6867,7 @@ he turned away.
 
 
 
+.. _ref-2600-b2-ch2:
 
 CHAPTER II
 
@@ -7209,6 +7231,7 @@ song.
 
 
 
+.. _ref-2600-b2-ch3:
 
 CHAPTER III
 
@@ -7488,17 +7511,17 @@ serving our Tsar and our country, rejoicing in the successes and
 grieving at the misfortunes of our common cause, or we are merely
 lackeys who care nothing for their master’s business. Quarante mille
 hommes massacrés et l’armée de nos alliés détruite, et vous
-trouvez là le mot pour rire,” * he said, as if strengthening his
+trouvez là le mot pour rire,” \* he said, as if strengthening his
 views by this French sentence. “C’est bien pour un garçon de rien
 comme cet individu dont vous avez fait un ami, mais pas pour vous, pas
-pour vous. *(2) Only a hobbledehoy could amuse himself in this
+pour vous. \*(2) Only a hobbledehoy could amuse himself in this
 way,” he added in Russian—but pronouncing the word with a French
 accent—having noticed that Zherkóv could still hear him.
 
-     * “Forty thousand men massacred and the army of our allies
+     \* “Forty thousand men massacred and the army of our allies
      destroyed, and you find that a cause for jesting!”
 
-     * (2) “It is all very well for that good-for-nothing fellow
+     \* (2) “It is all very well for that good-for-nothing fellow
      of whom you have made a friend, but not for you, not for
      you.”
 
@@ -7509,6 +7532,7 @@ and went out of the corridor.
 
 
 
+.. _ref-2600-b2-ch4:
 
 CHAPTER IV
 
@@ -7553,26 +7577,26 @@ immediately brightened on seeing Rostóv. “Schön gut Morgen! Schön
 gut Morgen!” * he said winking with a merry smile, evidently pleased
 to greet the young man.
 
-    * “A very good morning! A very good morning!”
+    \* “A very good morning! A very good morning!”
 
 
-“Schon fleissig?” * said Rostóv with the same gay brotherly smile
+“Schon fleissig?” \* said Rostóv with the same gay brotherly smile
 which did not leave his eager face. “Hoch Oestreicher! Hoch Russen!
-Kaiser Alexander hoch!” *(2) said he, quoting words often repeated by
+Kaiser Alexander hoch!” \*(2) said he, quoting words often repeated by
 the German landlord.
 
-    * “Busy already?”
+    \* “Busy already?”
 
-    * (2) “Hurrah for the Austrians! Hurrah for the Russians!
+    \* (2) “Hurrah for the Austrians! Hurrah for the Russians!
      Hurrah for Emperor Alexander!”
 
 
 The German laughed, came out of the cowshed, pulled off his cap, and
 waving it above his head cried:
 
-“Und die ganze Welt hoch!” *
+“Und die ganze Welt hoch!” \*
 
-    * “And hurrah for the whole world!”
+    \* “And hurrah for the whole world!”
 
 
 Rostóv waved his cap above his head like the German and cried laughing,
@@ -7963,6 +7987,7 @@ take the money,” and he threw the purse to him and ran out of the inn.
 
 
 
+.. _ref-2600-b2-ch5:
 
 CHAPTER V
 
@@ -8128,6 +8153,7 @@ Zherkóv. They were under orders to advance next day.
 
 
 
+.. _ref-2600-b2-ch6:
 
 CHAPTER VI
 
@@ -8254,6 +8280,7 @@ spirited impression.
 
 
 
+.. _ref-2600-b2-ch7:
 
 CHAPTER VII
 
@@ -8477,6 +8504,7 @@ the hussar shouted back.
 
 
 
+.. _ref-2600-b2-ch8:
 
 CHAPTER VIII
 
@@ -8857,6 +8885,7 @@ distinctness.
 
 
 
+.. _ref-2600-b2-ch9:
 
 CHAPTER IX
 
@@ -9050,6 +9079,7 @@ the memory of a remote event long past.
 
 
 
+.. _ref-2600-b2-ch10:
 
 CHAPTER X
 
@@ -9129,9 +9159,9 @@ Bilíbin smiled and the wrinkles on his face disappeared.
 “Cependant, mon cher,” he remarked, examining his nails from a
 distance and puckering the skin above his left eye, “malgré la haute
 estime que je professe pour the Orthodox Russian army, j’avoue que
-votre victoire n’est pas des plus victorieuses.” *
+votre victoire n’est pas des plus victorieuses.” \*
 
-     * “But my dear fellow, with all my respect for the Orthodox
+     \* “But my dear fellow, with all my respect for the Orthodox
      Russian army, I must say that your victory was not
      particularly victorious.”
 
@@ -9299,6 +9329,7 @@ like a child, he fell into a deep, youthful slumber.
 
 
 
+.. _ref-2600-b2-ch11:
 
 CHAPTER XI
 
@@ -9427,6 +9458,7 @@ you will see.”
 
 
 
+.. _ref-2600-b2-ch12:
 
 CHAPTER XII
 
@@ -9551,7 +9583,7 @@ will be cut off,” said he.
 
 “That’s just it,” answered Bilíbin. “Listen! The French entered
 Vienna as I told you. Very well. Next day, which was yesterday, those
-gentlemen, messieurs les maréchaux, * Murat, Lannes, and Belliard,
+gentlemen, messieurs les maréchaux, \* Murat, Lannes, and Belliard,
 mount and ride to the bridge. (Observe that all three are Gascons.)
 ‘Gentlemen,’ says one of them, ‘you know the Thabor Bridge is
 mined and doubly mined and that there are menacing fortifications at its
@@ -9562,7 +9594,7 @@ it!’ ‘Yes, let’s!’ say the others. And off they go and take the
 bridge, cross it, and now with their whole army are on this side of the
 Danube, marching on us, you, and your lines of communication.”
 
-    * The marshalls.
+    \* The marshalls.
 
 “Stop jesting,” said Prince Andrew sadly and seriously. This news
 grieved him and yet he was pleased.
@@ -9617,9 +9649,9 @@ orders the sergeant to be arrested. Come, you must own that this affair
 of the Thabor Bridge is delightful! It is not exactly stupidity, nor
 rascality....”
 
-     * Bridgehead.
+     \* Bridgehead.
 
-     * (2) That their fire gets into his eyes and he forgets that
+     \* (2) That their fire gets into his eyes and he forgets that
      he ought to be firing at the enemy.
 
 “It may be treachery,” said Prince Andrew, vividly imagining the
@@ -9692,6 +9724,7 @@ thought: “I am going to save the army.”
 
 
 
+.. _ref-2600-b2-ch13:
 
 CHAPTER XIII
 
@@ -9712,14 +9745,14 @@ the troops in their disorderly flight confirmed these rumors.
 
 “Cette armée russe que l’or de l’Angleterre a transportée des
 extrémités de l’univers, nous allons lui faire éprouver le même
-sort—(le sort de l’armée d’Ulm).” * He remembered these words
+sort—(le sort de l’armée d’Ulm).” \* He remembered these words
 in Bonaparte’s address to his army at the beginning of the campaign,
 and they awoke in him astonishment at the genius of his hero, a feeling
 of wounded pride, and a hope of glory. “And should there be nothing
 left but to die?” he thought. “Well, if need be, I shall do it no
 worse than others.”
 
-     * “That Russian army which has been brought from the ends of
+     \* “That Russian army which has been brought from the ends of
      the earth by English gold, we shall cause to share the same
      fate—(the fate of the army at Ulm).”
 
@@ -9971,6 +10004,7 @@ affair, and about some ladies they both knew.
 
 
 
+.. _ref-2600-b2-ch14:
 
 CHAPTER XIV
 
@@ -10095,6 +10129,7 @@ for him.
 
 
 
+.. _ref-2600-b2-ch15:
 
 CHAPTER XV
 
@@ -10356,6 +10391,7 @@ confronted one another as before.
 
 
 
+.. _ref-2600-b2-ch16:
 
 CHAPTER XVI
 
@@ -10454,6 +10490,7 @@ hurried off to his company, buttoning up his coat as he ran.
 
 
 
+.. _ref-2600-b2-ch17:
 
 CHAPTER XVII
 
@@ -10650,6 +10687,7 @@ their courage before him.
 
 
 
+.. _ref-2600-b2-ch18:
 
 CHAPTER XVIII
 
@@ -10812,6 +10850,7 @@ but joyous and eager crowd down the hill at their disordered foe.
 
 
 
+.. _ref-2600-b2-ch19:
 
 CHAPTER XIX
 
@@ -11019,6 +11058,7 @@ reached the bushes. Behind these were some Russian sharpshooters.
 
 
 
+.. _ref-2600-b2-ch20:
 
 CHAPTER XX
 
@@ -11268,6 +11308,7 @@ eyes.
 
 
 
+.. _ref-2600-b2-ch21:
 
 CHAPTER XXI
 
@@ -11612,7 +11653,7 @@ Bagratión’s detachment was reunited to Kutúzov’s army.
 
 
 
-
+.. _ref-2600-book-three:
 
 BOOK THREE: 1805
 ^^^^^^^^^^^^^^^^
