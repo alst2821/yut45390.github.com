@@ -78,6 +78,7 @@ are too old.
    reading/science
    reading/review
    reading/2600
+   reading/2600-notes
    recipe
    spanish
    stoicism
