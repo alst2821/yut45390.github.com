@@ -187,8 +187,8 @@ Prototype interactive function to select words and place them in a note file.::
           (set-buffer "notes-file.txt")
           (goto-char (point-max))
           (insert s)
-          (insert " \n")
-          (forward-word))))
+          (insert " \n"))
+          (forward-word)))
     
     (global-set-key (kbd "<f5>") 'yut-takenote)
 
