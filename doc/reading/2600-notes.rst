@@ -2,17 +2,36 @@
  Notes on War and Peace
 ========================
 
+Characters
+^^^^^^^^^^
 
-Dólokhov
+Dólokhov:
 
-Book Two, CH XVI
-^^^^^^^^^^^^^^^^
+  An officer of the Semënov regiment, a notorious gambler and
+  duelist. "a man of small means and no connections". Officer degraded
+  into soldier. Wounded at Schön Grabern.
+
+Andrew Bolkónski:
+  Prince Andrei Nikolayevich Bolkonsky. Has his own
+  `wikipedia page
+  <https://en.wikipedia.org/wiki/Andrei_Nikolayevich_Bolkonsky>`_.
+
+
+Lemarrois:
+   French military officer
+
+Murat:
+   French military officer. Gascon.  Prince Murat, crosses the bridge
+   at Thabor after deceiving the Austrians
+  
+Book Two, Chapter 16 of 21
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Prince Andrew
 Schön Grabern
 
-Book Two, CH XVII
-^^^^^^^^^^^^^^^^^
+Book Two, Chapter 17 of 21
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Prince Andrew turned his horse and galloped back
 to Grunth to find Prince Bagratión.
@@ -42,8 +61,8 @@ Fire Medvédev
 Schön Grabern
 Zakharchénko
 
-Book Two, CH XVIII
-^^^^^^^^^^^^^^^^^^
+Book Two, Chapter 18 of 21
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Prince
 Bagratión
@@ -54,8 +73,8 @@ bandoliers
 red
 epaulets
 
-Book Two, CH XIX
-^^^^^^^^^^^^^^^^
+Book Two, Chapter 19 of 21
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Sixth Chasseurs
 Túshin 
@@ -82,8 +101,8 @@ Nikítenko
 Bondarchúk
 hussar
 
-Book Two, Chapter 20
-^^^^^^^^^^^^^^^^^^^^
+Book Two, Chapter 20 of 21
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 the general
 Timókhin
 Dólokhov
@@ -97,8 +116,8 @@ Grunth
 adjutant
 Prince Andrew
 
-Book Two, CHAPTER 21
-^^^^^^^^^^^^^^^^^^^^
+Book Two, Chapter 21 of 21
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Túshin
 staff officer
@@ -189,7 +208,7 @@ Bolkónski
 Olmütz 
 Lëlya
 
-Book Threee, CHAPTER 3 of 19
+Book Threee, Chapter 3 of 19
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Old Prince Nicholas Bolkónski 
@@ -208,3 +227,142 @@ Másha her maid
 Lise 
 Katie the maid 
 
+Book Threee, Chapter 4 of 19
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Princess 
+Mary 
+Prince 
+Vasíli 
+his 
+son 
+the 
+little 
+princess 
+Mademoiselle 
+Bourienne 
+Anatole 
+`pomade <https://en.wikipedia.org/wiki/Pomade>_'
+
+
+Prince 
+Bolkónski 
+Princess 
+Mary 
+Amélie 
+Mademoiselle 
+Bourienne 
+
+Book Three, Chapter 5 of 19
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Anatole 
+Princess 
+Mary 
+her 
+maid 
+Mademoiselle 
+Bourienne 
+little 
+princess 
+her 
+maid 
+dressing 
+jacket 
+and 
+nightcap 
+and 
+Katie 
+The 
+old 
+prince 
+Tíkhon 
+Prince 
+Vasíli 
+Prince Vasíli's valet 
+Prince 
+Anatole 
+Kurágin 
+
+Book Three, Chapter 6 of 19
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Rostóvs 
+Nicholas 
+Anna 
+Mikháylovna 
+Nikólenka 
+Nikólenka 
+Natásha 
+Sónya 
+Pétya 
+Borís 
+new 
+Count 
+Bezúkhov 
+Natásha 
+s 
+Italian 
+singing 
+master 
+nine 
+year 
+old 
+Pétya 
+Véra 
+Natásha 
+Sónya 
+Pétya 
+Nicholas 
+Monsieur 
+Schelling 
+Madame 
+Schoss 
+his 
+old 
+nurse 
+dear 
+Sónya 
+Denísov 
+Grand 
+Duke 
+Constantine 
+Pávlovich 
+Pávlograd 
+regiment 
+Borís 
+six 
+thousand 
+rubles
+
+Book Three, Chapter 7 of 19
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Kutúzov 
+Olmütz 
+the 
+two 
+Emperors 
+the 
+Russian 
+the 
+Austrian 
+Nicholas 
+Rostóv 
+Borís 
+Ismáylov 
+regiment 
+well 
+provisioned 
+sutlers 
+Austrian 
+Jews 
+Pávlograds 
+Caroline 
+the 
+Hungarian 
+cornetcy 
+Denísov 
+Bedouin 
+Berg 
+Prince 
+Andrew 
+Bolkónski 
+petisenfans 

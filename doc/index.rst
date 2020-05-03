@@ -58,6 +58,7 @@ are too old.
    make
    osx
    rust
+   minecraft
 
    
 .. toctree::
