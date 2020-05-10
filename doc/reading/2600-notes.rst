@@ -240,7 +240,7 @@ his son
 the little princess
 Mademoiselle Bourienne
 Anatole
-`pomade <https://en.wikipedia.org/wiki/Pomade>_'
+`pomade <https://en.wikipedia.org/wiki/Pomade>`_
 
 Prince Bolkónski
 Princess Mary
