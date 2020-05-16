@@ -1,10 +1,10 @@
+.. _ref-2600-b6:
 
 BOOK SIX: 1808 - 10
 ^^^^^^^^^^^^^^^^^^^
 
 
-
-
+.. _ref-2600-b6-ch1:
 
 CHAPTER I
 
@@ -114,7 +114,7 @@ not disturbing himself or desiring anything.
 
 
 
-
+.. _ref-2600-b6-ch2:
 
 CHAPTER II
 
@@ -236,7 +236,7 @@ to explain his condition to himself he lay down and fell asleep at once.
 
 
 
-
+.. _ref-2600-b6-ch3:
 
 CHAPTER III
 
@@ -329,7 +329,7 @@ men up.
 
 
 
-
+.. _ref-2600-b6-ch4:
 
 CHAPTER IV
 
@@ -468,7 +468,7 @@ to Prince Andrew.
 
 
 
-
+.. _ref-2600-b6-ch5:
 
 CHAPTER V
 
@@ -701,6 +701,7 @@ trying to attract as little attention as possible, he left the room.
 
 
 
+.. _ref-2600-b6-ch6:
 
 
 CHAPTER VI
@@ -823,7 +824,7 @@ he worked at formulating the section on Personal Rights.
 
 
 
-
+.. _ref-2600-b6-ch7:
 
 CHAPTER VII
 
@@ -996,7 +997,7 @@ usual formalities he left the lodge and went home.
 
 
 
-
+.. _ref-2600-b6-ch8:
 
 CHAPTER VIII
 
@@ -1117,6 +1118,7 @@ regeneration.
 
 
 
+.. _ref-2600-b6-ch9:
 
 
 CHAPTER IX
@@ -1217,7 +1219,7 @@ many spiritual doubts and joys.
 
 
 
-
+.. _ref-2600-b6-ch10:
 
 CHAPTER X
 
@@ -1407,7 +1409,7 @@ shall perish of my debauchery if Thou utterly desertest me!
 
 
 
-
+.. _ref-2600-b6-ch11:
 
 CHAPTER XI
 
@@ -1560,6 +1562,7 @@ eighty thousand as well. Yes, yes! Kiss me.”
 
 
 
+.. _ref-2600-b6-ch12:
 
 
 CHAPTER XII
@@ -1666,6 +1669,7 @@ the Rostóvs.
 
 
 
+.. _ref-2600-b6-ch13:
 
 
 CHAPTER XIII
@@ -1845,7 +1849,7 @@ which he ceased coming to the Rostóvs’.
 
 
 
-
+.. _ref-2600-b6-ch14:
 
 CHAPTER XIV
 
@@ -2031,6 +2035,7 @@ settled themselves in their carriages and drove off.
 
 
 
+.. _ref-2600-b6-ch15:
 
 
 CHAPTER XV
@@ -2158,6 +2163,7 @@ those ladies.”
 
 
 
+.. _ref-2600-b6-ch16:
 
 
 CHAPTER XVI
@@ -2302,7 +2308,7 @@ breathing deeply and watching the other dancers.
 
 
 
-
+.. _ref-2600-b6-ch17:
 
 CHAPTER XVII
 
@@ -2389,7 +2395,7 @@ another—and so they ought all to be happy.
 
 
 
-
+.. _ref-2600-b6-ch18:
 
 CHAPTER XVIII
 
@@ -2576,7 +2582,7 @@ work.
 
 
 
-
+.. _ref-2600-b6-ch19:
 
 CHAPTER XIX
 
@@ -2647,7 +2653,7 @@ thought he.
 
 
 
-
+.. _ref-2600-b6-ch20:
 
 CHAPTER XX
 
@@ -2790,6 +2796,7 @@ else.
 
 
 
+.. _ref-2600-b6-ch21:
 
 CHAPTER XXI
 
@@ -2923,7 +2930,7 @@ the general had begun such a discussion and so Berg drew Pierre to it.
 
 
 
-
+.. _ref-2600-b6-ch22:
 
 CHAPTER XXII
 
@@ -3094,7 +3101,7 @@ appeared to him, the gloomier seemed his own.
 
 
 
-
+.. _ref-2600-b6-ch23:
 
 CHAPTER XXIII
 
@@ -3367,7 +3374,7 @@ Natásha’s affianced lover.
 
 
 
-
+.. _ref-2600-b6-ch24:
 
 CHAPTER XXIV
 
@@ -3485,6 +3492,7 @@ child gets up after a long illness with a changed expression of face.
 
 
 
+.. _ref-2600-b6-ch25:
 
 
 CHAPTER XXV
@@ -3614,7 +3622,7 @@ MARY
 
 
 
-
+.. _ref-2600-b6-ch26:
 
 CHAPTER XXVI
 

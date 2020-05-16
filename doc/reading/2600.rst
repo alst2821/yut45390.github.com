@@ -191,141 +191,141 @@ By Leo Tolstoy/Tolstoi
     :ref:`CHAPTER XIX <ref-2600-b3-ch19>`
 
 
-    BOOK FOUR: 1806
+    :ref:`BOOK FOUR: 1806 <ref-2600-b4>`
 
-    CHAPTER I
+    :ref:`CHAPTER I <ref-2600-b4-ch1>`
 
-    CHAPTER II
+    :ref:`CHAPTER II <ref-2600-b4-ch2>`
 
-    CHAPTER III
+    :ref:`CHAPTER III <ref-2600-b4-ch3>`
 
-    CHAPTER IV
+    :ref:`CHAPTER IV <ref-2600-b4-ch4>`
 
-    CHAPTER V
+    :ref:`CHAPTER V <ref-2600-b4-ch5>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VI <ref-2600-b4-ch6>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VII <ref-2600-b4-ch7>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER VIII <ref-2600-b4-ch8>`
 
-    CHAPTER IX
+    :ref:`CHAPTER IX <ref-2600-b4-ch9>`
 
-    CHAPTER X
+    :ref:`CHAPTER X <ref-2600-b4-ch10>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XI <ref-2600-b4-ch11>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XII <ref-2600-b4-ch12>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIII <ref-2600-b4-ch13>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XIV <ref-2600-b4-ch14>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XV <ref-2600-b4-ch15>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVI <ref-2600-b4-ch16>`
 
 
-    BOOK FIVE: 1806 - 07
+    :ref:`BOOK FIVE: 1806 - 07 <ref-2600-b5>`
 
-    CHAPTER I
+    :ref:`CHAPTER I <ref-2600-b5-ch1>`
 
-    CHAPTER II
+    :ref:`CHAPTER II <ref-2600-b5-ch2>`
 
-    CHAPTER III
+    :ref:`CHAPTER III <ref-2600-b5-ch3>`
 
-    CHAPTER IV
+    :ref:`CHAPTER IV <ref-2600-b5-ch4>`
 
-    CHAPTER V
+    :ref:`CHAPTER V <ref-2600-b5-ch5>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VI <ref-2600-b5-ch6>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VII <ref-2600-b5-ch7>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER VIII <ref-2600-b5-ch8>`
 
-    CHAPTER IX
+    :ref:`CHAPTER IX <ref-2600-b5-ch9>`
 
-    CHAPTER X
+    :ref:`CHAPTER X <ref-2600-b5-ch10>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XI <ref-2600-b5-ch11>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XII <ref-2600-b5-ch12>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIII <ref-2600-b5-ch13>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XIV <ref-2600-b5-ch14>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XV <ref-2600-b5-ch15>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVI <ref-2600-b5-ch16>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVII <ref-2600-b5-ch17>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XVIII <ref-2600-b5-ch18>`
 
-    CHAPTER XIX
+    :ref:`CHAPTER XIX <ref-2600-b5-ch19>`
 
-    CHAPTER XX
+    :ref:`CHAPTER XX <ref-2600-b5-ch20>`
 
-    CHAPTER XXI
+    :ref:`CHAPTER XXI <ref-2600-b5-ch21>`
 
-    CHAPTER XXII
+    :ref:`CHAPTER XXII <ref-2600-b5-ch22>`
 
 
-    BOOK SIX: 1808 - 10
+    :ref:`BOOK SIX: 1808 - 10 <ref-2600-b6>`
 
-    CHAPTER I
+    :ref:`CHAPTER I <ref-2600-b6-ch1>`
 
-    CHAPTER II
+    :ref:`CHAPTER II <ref-2600-b6-ch2>`
 
-    CHAPTER III
+    :ref:`CHAPTER III <ref-2600-b6-ch3>`
 
-    CHAPTER IV
+    :ref:`CHAPTER IV <ref-2600-b6-ch4>`
 
-    CHAPTER V
+    :ref:`CHAPTER V <ref-2600-b6-ch5>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VI <ref-2600-b6-ch6>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VII <ref-2600-b6-ch7>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER VIII <ref-2600-b6-ch8>`
 
-    CHAPTER IX
+    :ref:`CHAPTER IX <ref-2600-b6-ch9>`
 
-    CHAPTER X
+    :ref:`CHAPTER X <ref-2600-b6-ch10>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XI <ref-2600-b6-ch11>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XII <ref-2600-b6-ch12>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIII <ref-2600-b6-ch13>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XIV <ref-2600-b6-ch14>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XV <ref-2600-b6-ch15>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVI <ref-2600-b6-ch16>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVII <ref-2600-b6-ch17>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XVIII <ref-2600-b6-ch18>`
 
-    CHAPTER XIX
+    :ref:`CHAPTER XIX <ref-2600-b6-ch19>`
 
-    CHAPTER XX
+    :ref:`CHAPTER XX <ref-2600-b6-ch20>`
 
-    CHAPTER XXI
+    :ref:`CHAPTER XXI <ref-2600-b6-ch21>`
 
-    CHAPTER XXII
+    :ref:`CHAPTER XXII <ref-2600-b6-ch22>`
 
-    CHAPTER XXIII
+    :ref:`CHAPTER XXIII <ref-2600-b6-ch23>`
 
-    CHAPTER XXIV
+    :ref:`CHAPTER XXIV <ref-2600-b6-ch24>`
 
-    CHAPTER XXV
+    :ref:`CHAPTER XXV <ref-2600-b6-ch25>`
 
-    CHAPTER XXVI
+    :ref:`CHAPTER XXVI <ref-2600-b6-ch26>`
 
 
     BOOK SEVEN: 1810 - 11

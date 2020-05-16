@@ -1,4 +1,4 @@
-.. _ref-2600-4:
+.. _ref-2600-b4:
 
 
 BOOK FOUR: 1806
@@ -6,7 +6,7 @@ BOOK FOUR: 1806
 
 
 
-
+.. _ref-2600-b4-ch1:
 
 CHAPTER I
 
@@ -388,7 +388,7 @@ ladies and gentlemen than Rostóv had ever expected to see him.
 
 
 
-
+.. _ref-2600-b4-ch2:
 
 CHAPTER II
 
@@ -634,7 +634,7 @@ with his eccentric father.
 
 
 
-
+.. _ref-2600-b4-ch3:
 
 CHAPTER III
 
@@ -835,7 +835,7 @@ outright.
 
 
 
-
+.. _ref-2600-b4-ch4:
 
 CHAPTER IV
 
@@ -1045,7 +1045,7 @@ been ready, but they still delayed and all were silent.
 
 
 
-
+.. _ref-2600-b4-ch5:
 
 CHAPTER V
 
@@ -1160,7 +1160,7 @@ of sons and brothers.
 
 
 
-
+.. _ref-2600-b4-ch6:
 
 CHAPTER VI
 
@@ -1368,7 +1368,7 @@ for Petersburg alone.
 
 
 
-
+.. _ref-2600-b4-ch7:
 
 CHAPTER VII
 
@@ -1514,7 +1514,7 @@ of his return.
 
 
 
-
+.. _ref-2600-b4-ch8:
 
 CHAPTER VIII
 
@@ -1707,7 +1707,7 @@ cloak and felt boots, he went to the little princess’ apartment.
 
 
 
-
+.. _ref-2600-b4-ch9:
 
 CHAPTER IX
 
@@ -1811,7 +1811,7 @@ the wax with the baby’s hair had not sunk in the font but had floated.
 
 
 
-
+.. _ref-2600-b4-ch10:
 
 CHAPTER X
 
@@ -1948,7 +1948,7 @@ from home, at dinners, parties, and balls.
 
 
 
-
+.. _ref-2600-b4-ch11:
 
 CHAPTER XI
 
@@ -2074,7 +2074,7 @@ And Nicholas again kissed her hand.
 
 
 
-
+.. _ref-2600-b4-ch12:
 
 CHAPTER XII
 
@@ -2216,7 +2216,7 @@ the rest of the evening.
 
 
 
-
+.. _ref-2600-b4-ch13:
 
 CHAPTER XIII
 
@@ -2365,7 +2365,7 @@ Rostóv as he continued to deal.
 
 
 
-
+.. _ref-2600-b4-ch14:
 
 CHAPTER XIV
 
@@ -2495,7 +2495,7 @@ mention her!” he exclaimed fiercely.
 
 
 
-
+.. _ref-2600-b4-ch15:
 
 CHAPTER XV
 
@@ -2658,7 +2658,7 @@ and yet be happy....”
 
 
 
-
+.. _ref-2600-b4-ch16:
 
 CHAPTER XVI
 
