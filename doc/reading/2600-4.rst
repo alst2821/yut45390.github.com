@@ -9,6 +9,7 @@ BOOK FOUR: 1806
 .. _ref-2600-b4-ch1:
 
 CHAPTER I
+---------
 
 Early in the year 1806 Nicholas Rostóv returned home on leave. Denísov
 was going home to Vorónezh and Rostóv persuaded him to travel with him
@@ -391,6 +392,7 @@ ladies and gentlemen than Rostóv had ever expected to see him.
 .. _ref-2600-b4-ch2:
 
 CHAPTER II
+----------
 
 On his return to Moscow from the army, Nicholas Rostóv was welcomed
 by his home circle as the best of sons, a hero, and their darling
@@ -637,6 +639,7 @@ with his eccentric father.
 .. _ref-2600-b4-ch3:
 
 CHAPTER III
+-----------
 
 On that third of March, all the rooms in the English Club were filled
 with a hum of conversation, like the hum of bees swarming in springtime.
@@ -838,6 +841,7 @@ outright.
 .. _ref-2600-b4-ch4:
 
 CHAPTER IV
+----------
 
 Pierre sat opposite Dólokhov and Nicholas Rostóv. As usual, he ate and
 drank much, and eagerly. But those who knew him intimately noticed that
@@ -1048,6 +1052,7 @@ been ready, but they still delayed and all were silent.
 .. _ref-2600-b4-ch5:
 
 CHAPTER V
+---------
 
 “Well begin!” said Dólokhov.
 
@@ -1163,6 +1168,7 @@ of sons and brothers.
 .. _ref-2600-b4-ch6:
 
 CHAPTER VI
+----------
 
 Pierre had of late rarely seen his wife alone. Both in Petersburg and in
 Moscow their house was always full of visitors. The night after the
@@ -1371,6 +1377,7 @@ for Petersburg alone.
 .. _ref-2600-b4-ch7:
 
 CHAPTER VII
+-----------
 
 Two months had elapsed since the news of the battle of Austerlitz and
 the loss of Prince Andrew had reached Bald Hills, and in spite of the
@@ -1517,6 +1524,7 @@ of his return.
 .. _ref-2600-b4-ch8:
 
 CHAPTER VIII
+------------
 
 “Dearest,” said the little princess after breakfast on the morning
 of the nineteenth March, and her downy little lip rose from old habit,
@@ -1710,6 +1718,7 @@ cloak and felt boots, he went to the little princess’ apartment.
 .. _ref-2600-b4-ch9:
 
 CHAPTER IX
+----------
 
 The little princess lay supported by pillows, with a white cap on her
 head (the pains had just left her). Strands of her black hair lay round
@@ -1814,6 +1823,7 @@ the wax with the baby’s hair had not sunk in the font but had floated.
 .. _ref-2600-b4-ch10:
 
 CHAPTER X
+---------
 
 Rostóv’s share in Dólokhov’s duel with Bezúkhov was hushed up by
 the efforts of the old count, and instead of being degraded to the ranks
@@ -1951,6 +1961,7 @@ from home, at dinners, parties, and balls.
 .. _ref-2600-b4-ch11:
 
 CHAPTER XI
+----------
 
 On the third day after Christmas Nicholas dined at home, a thing he had
 rarely done of late. It was a grand farewell dinner, as he and Denísov
@@ -2077,6 +2088,7 @@ And Nicholas again kissed her hand.
 .. _ref-2600-b4-ch12:
 
 CHAPTER XII
+-----------
 
 Iogel’s were the most enjoyable balls in Moscow. So said the mothers
 as they watched their young people executing their newly learned steps,
@@ -2219,6 +2231,7 @@ the rest of the evening.
 .. _ref-2600-b4-ch13:
 
 CHAPTER XIII
+------------
 
 For two days after that Rostóv did not see Dólokhov at his own or at
 Dólokhov’s home: on the third day he received a note from him:
@@ -2368,6 +2381,7 @@ Rostóv as he continued to deal.
 .. _ref-2600-b4-ch14:
 
 CHAPTER XIV
+-----------
 
 An hour and a half later most of the players were but little interested
 in their own play.
@@ -2498,6 +2512,7 @@ mention her!” he exclaimed fiercely.
 .. _ref-2600-b4-ch15:
 
 CHAPTER XV
+----------
 
 To say “tomorrow” and keep up a dignified tone was not difficult,
 but to go home alone, see his sisters, brother, mother, and father,
@@ -2661,6 +2676,7 @@ and yet be happy....”
 .. _ref-2600-b4-ch16:
 
 CHAPTER XVI
+-----------
 
 It was long since Rostóv had felt such enjoyment from music as he
 did that day. But no sooner had Natásha finished her barcarolle than

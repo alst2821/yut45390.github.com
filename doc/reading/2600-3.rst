@@ -9,6 +9,7 @@ BOOK THREE: 1805
 .. _ref-2600-b3-ch1:
 
 CHAPTER I
+---------
 
 Prince Vasíli was not a man who deliberately thought out his plans.
 Still less did he think of injuring anyone for his own advantage. He
@@ -342,6 +343,7 @@ part of his mind her image rose in all its womanly beauty.
 .. _ref-2600-b3-ch2:
 
 CHAPTER II
+----------
 
 In November, 1805, Prince Vasíli had to go on a tour of inspection
 in four different provinces. He had arranged this for himself so as to
@@ -699,6 +701,7 @@ said, of a wife who was a celebrated beauty and of millions of money.
 .. _ref-2600-b3-ch3:
 
 CHAPTER III
+-----------
 
 Old Prince Nicholas Bolkónski received a letter from Prince Vasíli
 in November, 1805, announcing that he and his son would be paying him
@@ -1064,6 +1067,7 @@ God, without Whose care not a hair of man’s head can fall?
 .. _ref-2600-b3-ch4:
 
 CHAPTER IV
+----------
 
 When Princess Mary came down, Prince Vasíli and his son were already
 in the drawing room, talking to the little princess and Mademoiselle
@@ -1395,6 +1399,7 @@ smilingly raising a finger at him, she left the room.
 .. _ref-2600-b3-ch5:
 
 CHAPTER V
+---------
 
 They all separated, but, except Anatole who fell asleep as soon as he
 got into bed, all kept awake a long time that night.
@@ -1648,6 +1653,7 @@ have done the same!...” thought Princess Mary.
 .. _ref-2600-b3-ch6:
 
 CHAPTER VI
+----------
 
 It was long since the Rostóvs had news of Nicholas. Not till midwinter
 was the count at last handed a letter addressed in his son’s
@@ -1931,6 +1937,7 @@ things the old count sent to his son.
 .. _ref-2600-b3-ch7:
 
 CHAPTER VII
+-----------
 
 On the twelfth of November, Kutúzov’s active army, in camp before
 Olmütz, was preparing to be reviewed next day by the two Emperors—the
@@ -2303,6 +2310,7 @@ adjutant whom he so hated.
 .. _ref-2600-b3-ch8:
 
 CHAPTER VIII
+------------
 
 The day after Rostóv had been to see Borís, a review was held of the
 Austrian and Russian troops, both those freshly arrived from Russia and
@@ -2500,6 +2508,7 @@ would have made them.
 .. _ref-2600-b3-ch9:
 
 CHAPTER IX
+----------
 
 The day after the review, Borís, in his best uniform and with his
 comrade Berg’s best wishes for success, rode to Olmütz to see
@@ -2757,6 +2766,7 @@ again and remained for a while with the Ismáylov regiment.
 .. _ref-2600-b3-ch10:
 
 CHAPTER X
+---------
 
 At dawn on the sixteenth of November, Denísov’s squadron, in
 which Nicholas Rostóv served and which was in Prince Bagratión’s
@@ -2969,6 +2979,7 @@ Russian arms.
 .. _ref-2600-b3-ch11:
 
 CHAPTER XI
+----------
 
 The next day the Emperor stopped at Wischau, and Villier, his physician,
 was repeatedly summoned to see him. At headquarters and among the troops
@@ -3148,6 +3159,7 @@ matters yourself!’ Yes... That was the answer I got!”
 .. _ref-2600-b3-ch12:
 
 CHAPTER XII
+-----------
 
 Shortly after nine o’clock that evening, Weyrother drove with his
 plans to Kutúzov’s quarters where the council of war was to be
@@ -3404,6 +3416,7 @@ mist!”
 .. _ref-2600-b3-ch13:
 
 CHAPTER XIII
+------------
 
 That same night, Rostóv was with a platoon on skirmishing duty in front
 of Bagratión’s detachment. His hussars were placed along the line
@@ -3644,6 +3657,7 @@ NAPOLEON
 .. _ref-2600-b3-ch14:
 
 CHAPTER XIV
+-----------
 
 At five in the morning it was still quite dark. The troops of the
 center, the reserves, and Bagratión’s right flank had not yet moved,
@@ -3856,6 +3870,7 @@ Russian troops moving down the valley to their left.
 .. _ref-2600-b3-ch15:
 
 CHAPTER XV
+----------
 
 At eight o’clock Kutúzov rode to Pratzen at the head of the fourth
 column, Milorádovich’s, the one that was to take the place of
@@ -4115,6 +4130,7 @@ remark to him, pointing to the gallant Ápsherons.
 .. _ref-2600-b3-ch16:
 
 CHAPTER XVI
+-----------
 
 Kutúzov accompanied by his adjutants rode at a walking pace behind the
 carabineers.
@@ -4277,6 +4293,7 @@ quiet and peace. Thank God!...”
 .. _ref-2600-b3-ch17:
 
 CHAPTER XVII
+------------
 
 On our right flank commanded by Bagratión, at nine o’clock the battle
 had not yet begun. Not wishing to agree to Dolgorúkov’s demand to
@@ -4506,6 +4523,7 @@ did not wish to, believe that.
 .. _ref-2600-b3-ch18:
 
 CHAPTER XVIII
+-------------
 
 Rostóv had been ordered to look for Kutúzov and the Emperor near the
 village of Pratzen. But neither they nor a single commanding officer
@@ -4786,6 +4804,7 @@ the dam, the pond, and the bank.
 .. _ref-2600-b3-ch19:
 
 CHAPTER XIX
+-----------
 
 On the Pratzen Heights, where he had fallen with the flagstaff in his
 hand, lay Prince Andrew Bolkónski bleeding profusely and unconsciously

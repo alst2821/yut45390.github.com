@@ -9,6 +9,7 @@ BOOK TWO: 1805
 .. _ref-2600-b2-ch1:
 
 CHAPTER I
+---------
 
 In October, 1805, a Russian army was occupying the villages and towns of
 the Archduchy of Austria, and yet other regiments freshly arriving from
@@ -215,6 +216,7 @@ he turned away.
 .. _ref-2600-b2-ch2:
 
 CHAPTER II
+----------
 
 “He’s coming!” shouted the signaler at that moment.
 
@@ -579,6 +581,7 @@ song.
 .. _ref-2600-b2-ch3:
 
 CHAPTER III
+-----------
 
 On returning from the review, Kutúzov took the Austrian general into
 his private room and, calling his adjutant, asked for some papers
@@ -880,6 +883,7 @@ and went out of the corridor.
 .. _ref-2600-b2-ch4:
 
 CHAPTER IV
+----------
 
 The Pávlograd Hussars were stationed two miles from Braunau. The
 squadron in which Nicholas Rostóv served as a cadet was quartered in
@@ -1335,6 +1339,7 @@ take the money,” and he threw the purse to him and ran out of the inn.
 .. _ref-2600-b2-ch5:
 
 CHAPTER V
+---------
 
 That same evening there was an animated discussion among the
 squadron’s officers in Denísov’s quarters.
@@ -1501,6 +1506,7 @@ Zherkóv. They were under orders to advance next day.
 .. _ref-2600-b2-ch6:
 
 CHAPTER VI
+----------
 
 Kutúzov fell back toward Vienna, destroying behind him the bridges over
 the rivers Inn (at Braunau) and Traun (near Linz). On October 23 the
@@ -1628,6 +1634,7 @@ spirited impression.
 .. _ref-2600-b2-ch7:
 
 CHAPTER VII
+-----------
 
 Two of the enemy’s shots had already flown across the bridge, where
 there was a crush. Halfway across stood Prince Nesvítski, who had
@@ -1852,6 +1859,7 @@ the hussar shouted back.
 .. _ref-2600-b2-ch8:
 
 CHAPTER VIII
+------------
 
 The last of the infantry hurriedly crossed the bridge, squeezing
 together as they approached it as if passing through a funnel. At last
@@ -2233,6 +2241,7 @@ distinctness.
 .. _ref-2600-b2-ch9:
 
 CHAPTER IX
+----------
 
 Pursued by the French army of a hundred thousand men under the command
 of Bonaparte, encountering a population that was unfriendly to it,
@@ -2427,6 +2436,7 @@ the memory of a remote event long past.
 .. _ref-2600-b2-ch10:
 
 CHAPTER X
+---------
 
 Prince Andrew stayed at Brünn with Bilíbin, a Russian acquaintance of
 his in the diplomatic service.
@@ -2677,6 +2687,7 @@ like a child, he fell into a deep, youthful slumber.
 .. _ref-2600-b2-ch11:
 
 CHAPTER XI
+----------
 
 Next day he woke late. Recalling his recent impressions, the first
 thought that came into his mind was that today he had to be presented
@@ -2806,6 +2817,7 @@ you will see.”
 .. _ref-2600-b2-ch12:
 
 CHAPTER XII
+-----------
 
 At the levee Prince Andrew stood among the Austrian officers as he had
 been told to, and the Emperor Francis merely looked fixedly into his
@@ -3072,6 +3084,7 @@ thought: “I am going to save the army.”
 .. _ref-2600-b2-ch13:
 
 CHAPTER XIII
+------------
 
 That same night, having taken leave of the Minister of War, Bolkónski
 set off to rejoin the army, not knowing where he would find it and
@@ -3352,6 +3365,7 @@ affair, and about some ladies they both knew.
 .. _ref-2600-b2-ch14:
 
 CHAPTER XIV
+-----------
 
 On November 1 Kutúzov had received, through a spy, news that the army
 he commanded was in an almost hopeless position. The spy reported that
@@ -3477,6 +3491,7 @@ for him.
 .. _ref-2600-b2-ch15:
 
 CHAPTER XV
+----------
 
 Between three and four o’clock in the afternoon Prince Andrew, who
 had persisted in his request to Kutúzov, arrived at Grunth and reported
@@ -3739,6 +3754,7 @@ confronted one another as before.
 .. _ref-2600-b2-ch16:
 
 CHAPTER XVI
+-----------
 
 Having ridden round the whole line from right flank to left, Prince
 Andrew made his way up to the battery from which the staff officer had
@@ -3838,6 +3854,7 @@ hurried off to his company, buttoning up his coat as he ran.
 .. _ref-2600-b2-ch17:
 
 CHAPTER XVII
+------------
 
 Mounting his horse again Prince Andrew lingered with the battery,
 looking at the puff from the gun that had sent the ball. His eyes
@@ -4035,6 +4052,7 @@ their courage before him.
 .. _ref-2600-b2-ch18:
 
 CHAPTER XVIII
+-------------
 
 Prince Bagratión, having reached the highest point of our right flank,
 began riding downhill to where the roll of musketry was heard but where
@@ -4198,6 +4216,7 @@ but joyous and eager crowd down the hill at their disordered foe.
 .. _ref-2600-b2-ch19:
 
 CHAPTER XIX
+-----------
 
 The attack of the Sixth Chasseurs secured the retreat of our right
 flank. In the center Túshin’s forgotten battery, which had managed to
@@ -4406,6 +4425,7 @@ reached the bushes. Behind these were some Russian sharpshooters.
 .. _ref-2600-b2-ch20:
 
 CHAPTER XX
+----------
 
 The infantry regiments that had been caught unawares in the outskirts
 of the wood ran out of it, the different companies getting mixed, and
@@ -4656,6 +4676,7 @@ eyes.
 .. _ref-2600-b2-ch21:
 
 CHAPTER XXI
+-----------
 
 The wind had fallen and black clouds, merging with the powder smoke,
 hung low over the field of battle on the horizon. It was growing
