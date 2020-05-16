@@ -10,6 +10,7 @@ BOOK ONE: 1805
 .. _ref-2600-b1-ch1:
 
 CHAPTER I
+---------
 
 “Well, Prince, so Genoa and Lucca are now just family estates of the
 Buonapartes. But I warn you, if you don’t tell me that this means war,
@@ -246,6 +247,7 @@ start my apprenticeship as old maid.”
 .. _ref-2600-b1-ch2:
 
 CHAPTER II
+----------
 
 Anna Pávlovna’s drawing room was gradually filling. The highest
 Petersburg society was assembled there: people differing widely in age
@@ -389,6 +391,7 @@ opportunity to express his own views, as young people are fond of doing.
 .. _ref-2600-b1-ch3:
 
 CHAPTER III
+-----------
 
 Anna Pávlovna’s reception was in full swing. The spindles hummed
 steadily and ceaselessly on all sides. With the exception of the aunt,
@@ -567,6 +570,7 @@ larger circle.
 .. _ref-2600-b1-ch4:
 
 CHAPTER IV
+----------
 
 Just then another visitor entered the drawing room: Prince Andrew
 Bolkónski, the little princess’ husband. He was a very handsome young
@@ -745,6 +749,7 @@ accomplished.
 .. _ref-2600-b1-ch5:
 
 CHAPTER V
+---------
 
 “And what do you think of this latest comedy, the coronation at
 Milan?” asked Anna Pávlovna, “and of the comedy of the people of
@@ -1001,6 +1006,7 @@ where.
 .. _ref-2600-b1-ch6:
 
 CHAPTER VI
+----------
 
 Having thanked Anna Pávlovna for her charming soiree, the guests began
 to take their leave.
@@ -1182,6 +1188,7 @@ me!”
 .. _ref-2600-b1-ch7:
 
 CHAPTER VII
+-----------
 
 The rustle of a woman’s dress was heard in the next room. Prince
 Andrew shook himself as if waking up, and his face assumed the look it
@@ -1320,6 +1327,7 @@ as he would have done to a stranger.
 .. _ref-2600-b1-ch8:
 
 CHAPTER VIII
+------------
 
 The friends were silent. Neither cared to begin talking. Pierre
 continually glanced at Prince Andrew; Prince Andrew rubbed his forehead
@@ -1458,6 +1466,7 @@ won’t go.”
 .. _ref-2600-b1-ch9:
 
 CHAPTER IX
+----------
 
 It was past one o’clock when Pierre left his friend. It was a
 cloudless, northern, summer night. Pierre took an open cab intending
@@ -1722,6 +1731,7 @@ and began dancing round the room with it.
 .. _ref-2600-b1-ch10:
 
 CHAPTER X
+---------
 
 Prince Vasíli kept the promise he had given to Princess Drubetskáya
 who had spoken to him on behalf of her only son Borís on the evening of
@@ -1915,6 +1925,7 @@ he said.
 .. _ref-2600-b1-ch11:
 
 CHAPTER XI
+----------
 
 Silence ensued. The countess looked at her callers, smiling affably,
 but not concealing the fact that she would not be distressed if they
@@ -2019,6 +2030,7 @@ disturbed.
 .. _ref-2600-b1-ch12:
 
 CHAPTER XII
+-----------
 
 The only young people remaining in the drawing room, not counting the
 young lady visitor and the countess’ eldest daughter (who was four
@@ -2179,6 +2191,7 @@ when she had seen her guests out.
 .. _ref-2600-b1-ch13:
 
 CHAPTER XIII
+------------
 
 When Natásha ran out of the drawing room she only went as far as the
 conservatory. There she paused and stood listening to the conversation
@@ -2294,6 +2307,7 @@ sitting room.
 .. _ref-2600-b1-ch14:
 
 CHAPTER XIV
+-----------
 
 After receiving her visitors, the countess was so tired that she gave
 orders to admit no more, but the porter was told to be sure to invite to
@@ -2485,6 +2499,7 @@ Orlóv never gave such a dinner as ours will be!”
 .. _ref-2600-b1-ch15:
 
 CHAPTER XV
+----------
 
 “My dear Borís,” said Princess Anna Mikháylovna to her son as
 Countess Rostóva’s carriage in which they were seated drove over the
@@ -2686,6 +2701,7 @@ stairs and up another, to Pierre’s rooms.
 .. _ref-2600-b1-ch16:
 
 CHAPTER XVI
+-----------
 
 Pierre, after all, had not managed to choose a career for himself in
 Petersburg, and had been expelled from there for riotous conduct and
@@ -2914,6 +2930,7 @@ asked the son.
 .. _ref-2600-b1-ch17:
 
 CHAPTER XVII
+------------
 
 After Anna Mikháylovna had driven off with her son to visit Count Cyril
 Vladímirovich Bezúkhov, Countess Rostóva sat for a long time all
@@ -3020,6 +3037,7 @@ But those tears were pleasant to them both.
 .. _ref-2600-b1-ch18:
 
 CHAPTER XVIII
+-------------
 
 Countess Rostóva, with her daughters and a large number of guests, was
 already seated in the drawing room. The count took the gentlemen into
@@ -3275,6 +3293,7 @@ knowledge.
 .. _ref-2600-b1-ch19:
 
 CHAPTER XIX
+-----------
 
 At the men’s end of the table the talk grew more and more animated.
 The colonel told them that the declaration of war had already appeared
@@ -3444,6 +3463,7 @@ guests returned to the drawing room and to the count’s study.
 .. _ref-2600-b1-ch20:
 
 CHAPTER XX
+----------
 
 The card tables were drawn out, sets made up for boston, and the
 count’s visitors settled themselves, some in the two drawing rooms,
@@ -3692,6 +3712,7 @@ her sleeves and puffing heavily.
 .. _ref-2600-b1-ch21:
 
 CHAPTER XXI
+-----------
 
 While in the Rostóvs’ ballroom the sixth anglaise was being danced,
 to a tune in which the weary musicians blundered, and while tired
@@ -4038,6 +4059,7 @@ will come!”
 .. _ref-2600-b1-ch22:
 
 CHAPTER XXII
+------------
 
 While these conversations were going on in the reception room and the
 princess’ room, a carriage containing Pierre (who had been sent for)
@@ -4231,6 +4253,7 @@ enter that room.
 .. _ref-2600-b1-ch23:
 
 CHAPTER XXIII
+-------------
 
 Pierre well knew this large room divided by columns and an arch, its
 walls hung round with Persian carpets. The part of the room behind the
@@ -4407,6 +4430,7 @@ Pierre went out.
 .. _ref-2600-b1-ch24:
 
 CHAPTER XXIV
+------------
 
 There was now no one in the reception room except Prince Vasíli and the
 eldest princess, who were sitting under the portrait of Catherine the
@@ -4615,6 +4639,7 @@ disapprovingly, but in whispers and as a great secret.
 .. _ref-2600-b1-ch25:
 
 CHAPTER XXV
+-----------
 
 At Bald Hills, Prince Nicholas Andréevich Bolkónski’s estate, the
 arrival of young Prince Andrew and his wife was daily expected, but
@@ -4978,6 +5003,7 @@ clavichord.
 .. _ref-2600-b1-ch26:
 
 CHAPTER XXVI
+------------
 
 The gray-haired valet was sitting drowsily listening to the snoring of
 the prince, who was in his large study. From the far side of the house
@@ -5222,6 +5248,7 @@ meditatively and rapidly:
 .. _ref-2600-b1-ch27:
 
 CHAPTER XXVII
+-------------
 
 At the appointed hour the prince, powdered and shaven, entered the
 dining room where his daughter-in-law, Princess Mary, and Mademoiselle
@@ -5411,6 +5438,7 @@ I am afraid of him.”
 .. _ref-2600-b1-ch28:
 
 CHAPTER XXVIII
+--------------
 
 Prince Andrew was to leave next evening. The old prince, not altering
 his routine, retired as usual after dinner. The little princess was in
