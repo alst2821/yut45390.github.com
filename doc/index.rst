@@ -79,6 +79,23 @@ are too old.
    reading/science
    reading/review
    reading/2600
+   reading/2600-1
+   reading/2600-2
+   reading/2600-3
+   reading/2600-4
+   reading/2600-5
+   reading/2600-6
+   reading/2600-7
+   reading/2600-8
+   reading/2600-9
+   reading/2600-10
+   reading/2600-11
+   reading/2600-12
+   reading/2600-13
+   reading/2600-14
+   reading/2600-15
+   reading/2600-16
+   reading/2600-17
    reading/2600-notes
    recipe
    spanish
