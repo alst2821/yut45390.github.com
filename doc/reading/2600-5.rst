@@ -8,6 +8,7 @@ BOOK FIVE: 1806 - 07
 .. _ref-2600-b5-ch1:
 
 CHAPTER I
+---------
 
 After his interview with his wife Pierre left for Petersburg. At the
 Torzhók post station, either there were no horses or the postmaster
@@ -144,6 +145,7 @@ eyes attracted him irresistibly.
 .. _ref-2600-b5-ch2:
 
 CHAPTER II
+----------
 
 “I have the pleasure of addressing Count Bezúkhov, if I am not
 mistaken,” said the stranger in a deliberate and loud voice.
@@ -409,6 +411,7 @@ Freemasonry presented itself to him.
 .. _ref-2600-b5-ch3:
 
 CHAPTER III
+-----------
 
 On reaching Petersburg Pierre did not let anyone know of his arrival,
 he went nowhere and spent whole days in reading Thomas à Kempis, whose
@@ -711,6 +714,7 @@ of blessedness which now flooded his heart with glad emotion.
 .. _ref-2600-b5-ch4:
 
 CHAPTER IV
+----------
 
 Soon after this there came into the dark chamber to fetch Pierre, not
 the Rhetor but Pierre’s sponsor, Willarski, whom he recognized by his
@@ -850,6 +854,7 @@ and way of life.
 .. _ref-2600-b5-ch5:
 
 CHAPTER V
+---------
 
 The day after he had been received into the Lodge, Pierre was sitting at
 home reading a book and trying to fathom the significance of the Square,
@@ -932,6 +937,7 @@ and promised to write to him and guide him in his new activity.
 .. _ref-2600-b5-ch6:
 
 CHAPTER VI
+----------
 
 The duel between Pierre and Dólokhov was hushed up and, in spite of
 the Emperor’s severity regarding duels at that time, neither the
@@ -1114,6 +1120,7 @@ her—please don’t! It is too painful for her!”
 .. _ref-2600-b5-ch7:
 
 CHAPTER VII
+-----------
 
 When Borís and Anna Pávlovna returned to the others Prince Hippolyte
 had the ear of the company.
@@ -1199,6 +1206,7 @@ countess’ house.
 .. _ref-2600-b5-ch8:
 
 CHAPTER VIII
+------------
 
 The war was flaming up and nearing the Russian frontier. Everywhere one
 heard curses on Bonaparte, “the enemy of mankind.” Militiamen and
@@ -1383,6 +1391,7 @@ else.
 .. _ref-2600-b5-ch9:
 
 CHAPTER IX
+----------
 
 Bilíbin was now at army headquarters in a diplomatic capacity, and
 though he wrote in French and used French jests and French idioms,
@@ -1588,6 +1597,7 @@ against the muslin of the curtain.
 .. _ref-2600-b5-ch10:
 
 CHAPTER X
+---------
 
 Soon after his admission to the Masonic Brotherhood, Pierre went to the
 Kiev province, where he had the greatest number of serfs, taking with
@@ -1764,6 +1774,7 @@ to say, all that could be got out of them.
 .. _ref-2600-b5-ch11:
 
 CHAPTER XI
+----------
 
 Returning from his journey through South Russia in the happiest state
 of mind, Pierre carried out an intention he had long had of visiting his
@@ -2121,6 +2132,7 @@ Pierre.
 .. _ref-2600-b5-ch12:
 
 CHAPTER XII
+-----------
 
 In the evening Andrew and Pierre got into the open carriage and drove to
 Bald Hills. Prince Andrew, glancing at Pierre, broke the silence now and
@@ -2279,6 +2291,7 @@ same old way, inwardly he began a new life.
 .. _ref-2600-b5-ch13:
 
 CHAPTER XIII
+------------
 
 It was getting dusk when Prince Andrew and Pierre drove up to the front
 entrance of the house at Bald Hills. As they approached the house,
@@ -2481,6 +2494,7 @@ her and now at Pierre, that she was gradually reassured.
 .. _ref-2600-b5-ch14:
 
 CHAPTER XIV
+-----------
 
 The pilgrim woman was appeased and, being encouraged to talk, gave a
 long account of Father Amphilochus, who led so holy a life that his
@@ -2578,6 +2592,7 @@ what was good of him.
 .. _ref-2600-b5-ch15:
 
 CHAPTER XV
+----------
 
 When returning from his leave, Rostóv felt, for the first time, how
 close was the bond that united him to Denísov and the whole regiment.
@@ -2741,6 +2756,7 @@ noticed tears in his eyes.
 .. _ref-2600-b5-ch16:
 
 CHAPTER XVI
+-----------
 
 In April the troops were enlivened by news of the Emperor’s arrival,
 but Rostóv had no chance of being present at the review he held at
@@ -2968,6 +2984,7 @@ at the staff and went into hospital.
 .. _ref-2600-b5-ch17:
 
 CHAPTER XVII
+------------
 
 In June the battle of Friedland was fought, in which the Pávlograds did
 not take part, and after that an armistice was proclaimed. Rostóv, who
@@ -3140,6 +3157,7 @@ room.
 .. _ref-2600-b5-ch18:
 
 CHAPTER XVIII
+-------------
 
 Going along the corridor, the assistant led Rostóv to the officers’
 wards, consisting of three rooms, the doors of which stood open. There
@@ -3261,6 +3279,7 @@ He did not finish, but gave a painfully unnatural smile.
 .. _ref-2600-b5-ch19:
 
 CHAPTER XIX
+-----------
 
 Having returned to the regiment and told the commander the state of
 Denísov’s affairs, Rostóv rode to Tilsit with the letter to the
@@ -3441,6 +3460,7 @@ time, hearing the lighthearted French conversation from the next room.
 .. _ref-2600-b5-ch20:
 
 CHAPTER XX
+----------
 
 Rostóv had come to Tilsit the day least suitable for a petition
 on Denísov’s behalf. He could not himself go to the general in
@@ -3615,6 +3635,7 @@ Rostóv ran after him with the crowd.
 .. _ref-2600-b5-ch21:
 
 CHAPTER XXI
+-----------
 
 The Emperor rode to the square where, facing one another, a battalion
 of the Preobrazhénsk regiment stood on the right and a battalion of the
@@ -3836,6 +3857,7 @@ much talk of the grandeur of this important meeting.
 .. _ref-2600-b5-ch22:
 
 CHAPTER XXII
+------------
 
 In 1809 the intimacy between “the world’s two arbiters,” as
 Napoleon and Alexander were called, was such that when Napoleon declared
