@@ -170,3 +170,25 @@ file name.
 Alternatively, use `M-x Info-goto-node` and enter the info file in
 brackets.
 
+Notetaking macro
+^^^^^^^^^^^^^^^^
+Prototype interactive function to select words and place them in a note file.::
+
+    (defun yut-takenote ()
+      (interactive)
+      (let ( p1 p2 s)
+        (save-excursion 
+          (forward-word)
+          (backward-word)
+          (setq p1 (point))
+          (forward-word)
+          (setq p2 (point))
+          (setq s (buffer-substring-no-properties p1 p2))
+          (set-buffer "notes-file.txt")
+          (goto-char (point-max))
+          (insert s)
+          (insert " \n"))
+          (forward-word)))
+    
+    (global-set-key (kbd "<f5>") 'yut-takenote)
+

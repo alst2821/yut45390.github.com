@@ -22,16 +22,14 @@ I used to host a set of bookmarks in this site, but most of the
 :ref:`bookmarks <ref-bookmarks>` are already unavailable, because they
 are too old.
 
-Linux related content
----------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Linux related content
 
    centos/centos
    centos/emacs-rpm
    debian
-   debian-sources
    fedora/fedora
    fedora/packaging
    fedora/package-review
@@ -41,11 +39,9 @@ Linux related content
    software
    virtual-machine
 
-Other computing-related content
--------------------------------
-
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Other computing related content
 
    documentation
    docutils
@@ -62,13 +58,13 @@ Other computing-related content
    make
    osx
    rust
+   minecraft
 
    
-Non-computing related content
------------------------------
-
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Non-computing related content
+              
    
    biology
    bookmarks
@@ -82,6 +78,8 @@ Non-computing related content
    reading/reading   
    reading/science
    reading/review
+   reading/2600
+   reading/2600-notes
    recipe
    spanish
    stoicism

@@ -49,3 +49,4 @@ preceded by "``..``", then "``_``" and the same reference, in this
 case ``_reference``, a colon "``:``" and the url.
 
 
+* Link to a `cheatsheet <http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt>`_ at sourceforge.io
