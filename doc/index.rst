@@ -60,12 +60,11 @@ are too old.
    rust
    minecraft
 
-   
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Non-computing related content
-              
-   
+
+
    biology
    bookmarks
    broadband
@@ -75,9 +74,22 @@ are too old.
    reading/bolivia
    reading/books
    reading/computing
-   reading/reading   
+   reading/reading
    reading/science
    reading/review
+   reading/2600-notes
+   recipe
+   spanish
+   stoicism
+   twitter
+   twitter1
+   twitter2
+   videos
+
+.. toctree::
+   :maxdepth: 2
+   :caption: War and Peace
+
    reading/2600
    reading/2600-1
    reading/2600-2
@@ -96,14 +108,7 @@ are too old.
    reading/2600-15
    reading/2600-16
    reading/2600-17
-   reading/2600-notes
-   recipe
-   spanish
-   stoicism
-   twitter
-   twitter1
-   twitter2
-   videos
+
 
 Indices and tables
 ==================
