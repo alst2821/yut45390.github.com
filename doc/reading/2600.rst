@@ -43,10 +43,10 @@ By Leo Tolstoy/Tolstoi
 
 
 
-    CONTENTS
+CONTENTS
 
 
-    :ref:`BOOK ONE: 1805 <ref-2600-book-one>`
+:ref:`BOOK ONE: 1805 <ref-2600-book-one>`
 
     :ref:`CHAPTER I<ref-2600-b1-ch1>`
 
@@ -105,7 +105,7 @@ By Leo Tolstoy/Tolstoi
     :ref:`CHAPTER XXVIII<ref-2600-b1-ch28>`
 
 
-    :ref:`BOOK TWO: 1805 <ref-2600-book-two>`
+:ref:`BOOK TWO: 1805 <ref-2600-book-two>`
 
     :ref:`CHAPTER I<ref-2600-b2-ch1>`
 
@@ -328,503 +328,503 @@ By Leo Tolstoy/Tolstoi
     :ref:`CHAPTER XXVI <ref-2600-b6-ch26>`
 
 
-    BOOK SEVEN: 1810 - 11
+    :ref:`BOOK SEVEN: 1810 - 11 <ref-2600-b7>`
 
-    CHAPTER I
+    :ref:`CHAPTER I <ref-2600-b7-ch1>`
 
-    CHAPTER II
+    :ref:`CHAPTER II <ref-2600-b7-ch2>`
 
-    CHAPTER III
+    :ref:`CHAPTER III <ref-2600-b7-ch3>`
 
-    CHAPTER IV
+    :ref:`CHAPTER IV <ref-2600-b7-ch4>`
 
-    CHAPTER V
+    :ref:`CHAPTER V <ref-2600-b7-ch5>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VI <ref-2600-b7-ch6>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VII <ref-2600-b7-ch7>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER VIII <ref-2600-b7-ch8>`
 
-    CHAPTER IX
+    :ref:`CHAPTER IX <ref-2600-b7-ch9>`
 
-    CHAPTER X
+    :ref:`CHAPTER X <ref-2600-b7-ch10>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XI <ref-2600-b7-ch11>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XII <ref-2600-b7-ch12>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIII <ref-2600-b7-ch13>`
 
 
-    BOOK EIGHT: 1811 - 12
+    :ref:`BOOK EIGHT: 1811 - 12 <ref-2600-b8>`
 
-    CHAPTER I
+    :ref:`CHAPTER I <ref-2600-b8-ch1>`
 
-    CHAPTER II
+    :ref:`CHAPTER II <ref-2600-b8-ch2>`
 
-    CHAPTER III
+    :ref:`CHAPTER III <ref-2600-b8-ch3>`
 
-    CHAPTER IV
+    :ref:`CHAPTER IV <ref-2600-b8-ch4>`
 
-    CHAPTER V
+    :ref:`CHAPTER V <ref-2600-b8-ch5>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VI <ref-2600-b8-ch6>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VII <ref-2600-b8-ch7>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER VIII <ref-2600-b8-ch8>`
 
-    CHAPTER IX
+    :ref:`CHAPTER IX <ref-2600-b8-ch9>`
 
-    CHAPTER X
+    :ref:`CHAPTER X <ref-2600-b8-ch10>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XI <ref-2600-b8-ch11>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XII <ref-2600-b8-ch12>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIII <ref-2600-b8-ch13>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XIV <ref-2600-b8-ch14>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XV <ref-2600-b8-ch15>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVI <ref-2600-b8-ch16>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVII <ref-2600-b8-ch17>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XVIII <ref-2600-b8-ch18>`
 
-    CHAPTER XIX
+    :ref:`CHAPTER XIX <ref-2600-b8-ch19>`
 
-    CHAPTER XX
+    :ref:`CHAPTER XX <ref-2600-b8-ch20>`
 
-    CHAPTER XXI
+    :ref:`CHAPTER XXI <ref-2600-b8-ch21>`
 
-    CHAPTER XXII
+    :ref:`CHAPTER XXII <ref-2600-b8-ch22>`
 
 
-    BOOK NINE: 1812
+    :ref:`BOOK NINE: 1812 <ref-2600-b9>`
 
-    CHAPTER I
+    :ref:`CHAPTER I <ref-2600-b9-ch1>`
 
-    CHAPTER II
+    :ref:`CHAPTER II <ref-2600-b9-ch2>`
 
-    CHAPTER III
+    :ref:`CHAPTER III <ref-2600-b9-ch3>`
 
-    CHAPTER IV
+    :ref:`CHAPTER IV <ref-2600-b9-ch4>`
 
-    CHAPTER V
+    :ref:`CHAPTER V <ref-2600-b9-ch5>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VI <ref-2600-b9-ch6>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VII <ref-2600-b9-ch7>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER VIII <ref-2600-b9-ch8>`
 
-    CHAPTER IX
+    :ref:`CHAPTER IX <ref-2600-b9-ch9>`
 
-    CHAPTER X
+    :ref:`CHAPTER X <ref-2600-b9-ch10>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XI <ref-2600-b9-ch11>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XII <ref-2600-b9-ch12>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIII <ref-2600-b9-ch13>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XIV <ref-2600-b9-ch14>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XV <ref-2600-b9-ch15>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVI <ref-2600-b9-ch16>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVII <ref-2600-b9-ch17>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XVIII <ref-2600-b9-ch18>`
 
-    CHAPTER XIX
+    :ref:`CHAPTER XIX <ref-2600-b9-ch19>`
 
-    CHAPTER XX
+    :ref:`CHAPTER XX <ref-2600-b9-ch20>`
 
-    CHAPTER XXI
+    :ref:`CHAPTER XXI <ref-2600-b9-ch21>`
 
-    CHAPTER XXII
+    :ref:`CHAPTER XXII <ref-2600-b9-ch22>`
 
-    CHAPTER XXIII
+    :ref:`CHAPTER XXIII <ref-2600-b9-ch23>`
 
 
-    BOOK TEN: 1812
+    :ref:`BOOK TEN: 1812 <ref-2600-b10>`
 
-    CHAPTER I
+    :ref:`CHAPTER I <ref-2600-b10-ch1>`
 
-    CHAPTER II
+    :ref:`CHAPTER II <ref-2600-b10-ch2>`
 
-    CHAPTER III
+    :ref:`CHAPTER III <ref-2600-b10-ch3>`
 
-    CHAPTER IV
+    :ref:`CHAPTER IV <ref-2600-b10-ch4>`
 
-    CHAPTER V
+    :ref:`CHAPTER V <ref-2600-b10-ch5>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VI <ref-2600-b10-ch6>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VII <ref-2600-b10-ch7>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER VIII <ref-2600-b10-ch8>`
 
-    CHAPTER IX
+    :ref:`CHAPTER IX <ref-2600-b10-ch9>`
 
-    CHAPTER X
+    :ref:`CHAPTER X <ref-2600-b10-ch10>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XI <ref-2600-b10-ch11>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XII <ref-2600-b10-ch12>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIII <ref-2600-b10-ch13>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XIV <ref-2600-b10-ch14>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XV <ref-2600-b10-ch15>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVI <ref-2600-b10-ch16>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVII <ref-2600-b10-ch17>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XVIII <ref-2600-b10-ch18>`
 
-    CHAPTER XIX
+    :ref:`CHAPTER XIX <ref-2600-b10-ch19>`
 
-    CHAPTER XX
+    :ref:`CHAPTER XX <ref-2600-b10-ch20>`
 
-    CHAPTER XXI
+    :ref:`CHAPTER XXI <ref-2600-b10-ch21>`
 
-    CHAPTER XXII
+    :ref:`CHAPTER XXII <ref-2600-b10-ch22>`
 
-    CHAPTER XXIII
+    :ref:`CHAPTER XXIII <ref-2600-b10-ch23>`
 
-    CHAPTER XXIV
+    :ref:`CHAPTER XXIV <ref-2600-b10-ch24>`
 
-    CHAPTER XXV
+    :ref:`CHAPTER XXV <ref-2600-b10-ch25>`
 
-    CHAPTER XXVI
+    :ref:`CHAPTER XXVI <ref-2600-b10-ch26>`
 
-    CHAPTER XXVII
+    :ref:`CHAPTER XXVII <ref-2600-b10-ch27>`
 
-    CHAPTER XXVIII
+    :ref:`CHAPTER XXVIII <ref-2600-b10-ch28>`
 
-    CHAPTER XXIX
+    :ref:`CHAPTER XXIX <ref-2600-b10-ch29>`
 
-    CHAPTER XXX
+    :ref:`CHAPTER XXX <ref-2600-b10-ch30>`
 
-    CHAPTER XXXI
+    :ref:`CHAPTER XXXI <ref-2600-b10-ch31>`
 
-    CHAPTER XXXII
+    :ref:`CHAPTER XXXII <ref-2600-b10-ch32>`
 
-    CHAPTER XXXIII
+    :ref:`CHAPTER XXXIII <ref-2600-b10-ch33>`
 
-    CHAPTER XXXIV
+    :ref:`CHAPTER XXXIV <ref-2600-b10-ch34>`
 
-    CHAPTER XXXV
+    :ref:`CHAPTER XXXV <ref-2600-b10-ch35>`
 
-    CHAPTER XXXVI
+    :ref:`CHAPTER XXXVI <ref-2600-b10-ch36>`
 
-    CHAPTER XXXVII
+    :ref:`CHAPTER XXXVII <ref-2600-b10-ch37>`
 
-    CHAPTER XXXVIII
+    :ref:`CHAPTER XXXVIII <ref-2600-b10-ch38>`
 
-    CHAPTER XXXIX
+    :ref:`CHAPTER XXXIX <ref-2600-b10-ch39>`
+ 
 
+    :ref:`BOOK ELEVEN: 1812 <ref-2600-b11>`
 
-    BOOK ELEVEN: 1812
+    :ref:`CHAPTER I <ref-2600-b11-ch1>`
 
-    CHAPTER I
+    :ref:`CHAPTER II <ref-2600-b11-ch2>`
 
-    CHAPTER II
+    :ref:`CHAPTER III <ref-2600-b11-ch3>`
 
-    CHAPTER III
+    :ref:`CHAPTER IV <ref-2600-b11-ch4>`
 
-    CHAPTER IV
+    :ref:`CHAPTER V <ref-2600-b11-ch5>`
 
-    CHAPTER V
+    :ref:`CHAPTER VI <ref-2600-b11-ch6>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VII <ref-2600-b11-ch7>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VIII <ref-2600-b11-ch8>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER IX <ref-2600-b11-ch9>`
 
-    CHAPTER IX
+    :ref:`CHAPTER X <ref-2600-b11-ch10>`
 
-    CHAPTER X
+    :ref:`CHAPTER XI <ref-2600-b11-ch11>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XII <ref-2600-b11-ch12>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XIII <ref-2600-b11-ch13>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIV <ref-2600-b11-ch14>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XV <ref-2600-b11-ch15>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XVI <ref-2600-b11-ch16>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVII <ref-2600-b11-ch17>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVIII <ref-2600-b11-ch18>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XIX <ref-2600-b11-ch19>`
 
-    CHAPTER XIX
+    :ref:`CHAPTER XX <ref-2600-b11-ch20>`
 
-    CHAPTER XX
+    :ref:`CHAPTER XXI <ref-2600-b11-ch21>`
 
-    CHAPTER XXI
+    :ref:`CHAPTER XXII <ref-2600-b11-ch22>`
 
-    CHAPTER XXII
+    :ref:`CHAPTER XXIII <ref-2600-b11-ch23>`
 
-    CHAPTER XXIII
+    :ref:`CHAPTER XXIV <ref-2600-b11-ch24>`
 
-    CHAPTER XXIV
+    :ref:`CHAPTER XXV <ref-2600-b11-ch25>`
 
-    CHAPTER XXV
+    :ref:`CHAPTER XXVI <ref-2600-b11-ch26>`
 
-    CHAPTER XXVI
+    :ref:`CHAPTER XXVII <ref-2600-b11-ch27>`
 
-    CHAPTER XXVII
+    :ref:`CHAPTER XXVIII <ref-2600-b11-ch28>`
 
-    CHAPTER XXVIII
+    :ref:`CHAPTER XXIX <ref-2600-b11-ch29>`
 
-    CHAPTER XXIX
+    :ref:`CHAPTER XXX <ref-2600-b11-ch30>`
 
-    CHAPTER XXX
+    :ref:`CHAPTER XXXI <ref-2600-b11-ch31>`
 
-    CHAPTER XXXI
+    :ref:`CHAPTER XXXII <ref-2600-b11-ch32>`
 
-    CHAPTER XXXII
+    :ref:`CHAPTER XXXIII <ref-2600-b11-ch33>`
 
-    CHAPTER XXXIII
+    :ref:`CHAPTER XXXIV <ref-2600-b11-ch34>`
 
-    CHAPTER XXXIV
 
+    :ref:`BOOK TWELVE: 1812 <ref-2600-b12>`
 
-    BOOK TWELVE: 1812
+    :ref:`CHAPTER I <ref-2600-b12-ch1>`
 
-    CHAPTER I
+    :ref:`CHAPTER II <ref-2600-b12-ch2>`
 
-    CHAPTER II
+    :ref:`CHAPTER III <ref-2600-b12-ch3>`
 
-    CHAPTER III
+    :ref:`CHAPTER IV <ref-2600-b12-ch4>`
 
-    CHAPTER IV
+    :ref:`CHAPTER V <ref-2600-b12-ch5>`
 
-    CHAPTER V
+    :ref:`CHAPTER VI <ref-2600-b12-ch6>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VII <ref-2600-b12-ch7>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VIII <ref-2600-b12-ch8>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER IX <ref-2600-b12-ch9>`
 
-    CHAPTER IX
+    :ref:`CHAPTER X <ref-2600-b12-ch10>`
 
-    CHAPTER X
+    :ref:`CHAPTER XI <ref-2600-b12-ch11>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XII <ref-2600-b12-ch12>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XIII <ref-2600-b12-ch13>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIV <ref-2600-b12-ch14>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XV <ref-2600-b12-ch15>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XVI <ref-2600-b12-ch16>`
 
-    CHAPTER XVI
 
+    :ref:`BOOK THIRTEEN: 1812 <ref-2600-b13>`
 
-    BOOK THIRTEEN: 1812
+    :ref:`CHAPTER I <ref-2600-b13-ch1>`
 
-    CHAPTER I
+    :ref:`CHAPTER II <ref-2600-b13-ch2>`
 
-    CHAPTER II
+    :ref:`CHAPTER III <ref-2600-b13-ch3>`
 
-    CHAPTER III
+    :ref:`CHAPTER IV <ref-2600-b13-ch4>`
 
-    CHAPTER IV
+    :ref:`CHAPTER V <ref-2600-b13-ch5>`
 
-    CHAPTER V
+    :ref:`CHAPTER VI <ref-2600-b13-ch6>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VII <ref-2600-b13-ch7>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VIII <ref-2600-b13-ch8>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER IX <ref-2600-b13-ch9>`
 
-    CHAPTER IX
+    :ref:`CHAPTER X <ref-2600-b13-ch10>`
 
-    CHAPTER X
+    :ref:`CHAPTER XI <ref-2600-b13-ch11>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XII <ref-2600-b13-ch12>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XIII <ref-2600-b13-ch13>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIV <ref-2600-b13-ch14>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XV <ref-2600-b13-ch15>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XVI <ref-2600-b13-ch16>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVII <ref-2600-b13-ch17>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVIII <ref-2600-b13-ch18>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XIX <ref-2600-b13-ch19>`
 
-    CHAPTER XIX
 
+    :ref:`BOOK FOURTEEN: 1812 <ref-2600-b14>`
 
-    BOOK FOURTEEN: 1812
+    :ref:`CHAPTER I <ref-2600-b14-ch1>`
 
-    CHAPTER I
+    :ref:`CHAPTER II <ref-2600-b14-ch2>`
 
-    CHAPTER II
+    :ref:`CHAPTER III <ref-2600-b14-ch3>`
 
-    CHAPTER III
+    :ref:`CHAPTER IV <ref-2600-b14-ch4>`
 
-    CHAPTER IV
+    :ref:`CHAPTER V <ref-2600-b14-ch5>`
 
-    CHAPTER V
+    :ref:`CHAPTER VI <ref-2600-b14-ch6>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VII <ref-2600-b14-ch7>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VIII <ref-2600-b14-ch8>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER IX <ref-2600-b14-ch9>`
 
-    CHAPTER IX
+    :ref:`CHAPTER X <ref-2600-b14-ch10>`
 
-    CHAPTER X
+    :ref:`CHAPTER XI <ref-2600-b14-ch11>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XII <ref-2600-b14-ch12>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XIII <ref-2600-b14-ch13>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIV <ref-2600-b14-ch14>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XV <ref-2600-b14-ch15>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XVI <ref-2600-b14-ch16>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVII <ref-2600-b14-ch17>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVIII <ref-2600-b14-ch18>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XIX <ref-2600-b14-ch19>`
 
-    CHAPTER XIX
 
+    :ref:`BOOK FIFTEEN: 1812 - 13 <ref-2600-b15>`
 
-    BOOK FIFTEEN: 1812 - 13
+    :ref:`CHAPTER I <ref-2600-b15-ch1>`
 
-    CHAPTER I
+    :ref:`CHAPTER II <ref-2600-b15-ch2>`
 
-    CHAPTER II
+    :ref:`CHAPTER III <ref-2600-b15-ch3>`
 
-    CHAPTER III
+    :ref:`CHAPTER IV <ref-2600-b15-ch4>`
 
-    CHAPTER IV
+    :ref:`CHAPTER V <ref-2600-b15-ch5>`
 
-    CHAPTER V
+    :ref:`CHAPTER VI <ref-2600-b15-ch6>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VII <ref-2600-b15-ch7>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VIII <ref-2600-b15-ch8>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER IX <ref-2600-b15-ch9>`
 
-    CHAPTER IX
+    :ref:`CHAPTER X <ref-2600-b15-ch10>`
 
-    CHAPTER X
+    :ref:`CHAPTER XI <ref-2600-b15-ch11>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XII <ref-2600-b15-ch12>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XIII <ref-2600-b15-ch13>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIV <ref-2600-b15-ch14>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XV <ref-2600-b15-ch15>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XVI <ref-2600-b15-ch16>`
 
-    CHAPTER XVI
+    :ref:`CHAPTER XVII <ref-2600-b15-ch17>`
 
-    CHAPTER XVII
+    :ref:`CHAPTER XVIII <ref-2600-b15-ch18>`
 
-    CHAPTER XVIII
+    :ref:`CHAPTER XIX <ref-2600-b15-ch19>`
 
-    CHAPTER XIX
+    :ref:`CHAPTER XX <ref-2600-b15-ch20>`
 
-    CHAPTER XX
 
+    :ref:`FIRST EPILOGUE: 1813 - 20 <ref-2600-b16>`
 
-    FIRST EPILOGUE: 1813 - 20
+    :ref:`CHAPTER I <ref-2600-b16-ch1>`
 
-    CHAPTER I
+    :ref:`CHAPTER II <ref-2600-b16-ch2>`
 
-    CHAPTER II
+    :ref:`CHAPTER III <ref-2600-b16-ch3>`
 
-    CHAPTER III
+    :ref:`CHAPTER IV <ref-2600-b16-ch4>`
 
-    CHAPTER IV
+    :ref:`CHAPTER V <ref-2600-b16-ch5>`
 
-    CHAPTER V
+    :ref:`CHAPTER VI <ref-2600-b16-ch6>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VII <ref-2600-b16-ch7>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VIII <ref-2600-b16-ch8>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER IX <ref-2600-b16-ch9>`
 
-    CHAPTER IX
+    :ref:`CHAPTER X <ref-2600-b16-ch10>`
 
-    CHAPTER X
+    :ref:`CHAPTER XI <ref-2600-b16-ch11>`
 
-    CHAPTER XI
+    :ref:`CHAPTER XII <ref-2600-b16-ch12>`
 
-    CHAPTER XII
+    :ref:`CHAPTER XIII <ref-2600-b16-ch13>`
 
-    CHAPTER XIII
+    :ref:`CHAPTER XIV <ref-2600-b16-ch14>`
 
-    CHAPTER XIV
+    :ref:`CHAPTER XV <ref-2600-b16-ch15>`
 
-    CHAPTER XV
+    :ref:`CHAPTER XVI <ref-2600-b16-ch16>`
 
-    CHAPTER XVI
 
+    :ref:`SECOND EPILOGUE <ref-2600-b17>`
 
-    SECOND EPILOGUE
+    :ref:`CHAPTER I <ref-2600-b17-ch1>`
 
-    CHAPTER I
+    :ref:`CHAPTER II <ref-2600-b17-ch2>`
 
-    CHAPTER II
+    :ref:`CHAPTER III <ref-2600-b17-ch3>`
 
-    CHAPTER III
+    :ref:`CHAPTER IV <ref-2600-b17-ch4>`
 
-    CHAPTER IV
+    :ref:`CHAPTER V <ref-2600-b17-ch5>`
 
-    CHAPTER V
+    :ref:`CHAPTER VI <ref-2600-b17-ch6>`
 
-    CHAPTER VI
+    :ref:`CHAPTER VII <ref-2600-b17-ch7>`
 
-    CHAPTER VII
+    :ref:`CHAPTER VIII <ref-2600-b17-ch8>`
 
-    CHAPTER VIII
+    :ref:`CHAPTER IX <ref-2600-b17-ch9>`
 
-    CHAPTER IX
+    :ref:`CHAPTER X <ref-2600-b17-ch10>`
 
-    CHAPTER X
+    :ref:`CHAPTER XI <ref-2600-b17-ch11>`
 
-    CHAPTER XI
-
-    CHAPTER XII
+    :ref:`CHAPTER XII <ref-2600-b17-ch12>`
 
 
 
