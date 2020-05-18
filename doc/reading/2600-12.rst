@@ -1,13 +1,14 @@
-
+.. _ref-2600-b12:
 
 BOOK TWELVE: 1812
 ^^^^^^^^^^^^^^^^^
 
 
 
-
+.. _ref-2600-b12-ch1:
 
 CHAPTER I
+---------
 
 In Petersburg at that time a complicated struggle was being carried on
 with greater heat than ever in the highest circles, between the parties
@@ -170,9 +171,10 @@ birthday, we shall receive news. I have a favorable presentiment!”
 
 
 
-
+.. _ref-2600-b12-ch2:
 
 CHAPTER II
+----------
 
 Anna Pávlovna’s presentiment was in fact fulfilled. Next day during the
 service at the palace church in honor of the Emperor’s birthday, Prince
@@ -277,9 +279,10 @@ that have induced you to take this melancholy decision.
 
 
 
-
+.. _ref-2600-b12-ch3:
 
 CHAPTER III
+~~~~~~~~~~~
 
 Nine days after the abandonment of Moscow, a messenger from Kutúzov
 reached Petersburg with the official announcement of that event. This
@@ -412,9 +415,10 @@ With an inclination of the head the Emperor dismissed him.
 
 
 
-
+.. _ref-2600-b12-ch4:
 
 CHAPTER IV
+----------
 
 It is natural for us who were not living in those days to imagine that
 when half Russia had been conquered and the inhabitants were fleeing to
@@ -609,9 +613,11 @@ share increased the husband’s diminished.
 
 
 
-
+.. _ref-2600-b12-ch5:
 
 CHAPTER V
+---------
+
 
 Nicholas sat leaning slightly forward in an armchair, bending closely
 over the blonde lady and paying her mythological compliments with a
@@ -772,9 +778,11 @@ little hand.
 
 
 
-
+.. _ref-2600-b12-ch6:
 
 CHAPTER VI
+----------
+
 
 On reaching Moscow after her meeting with Rostóv, Princess Mary had
 found her nephew there with his tutor, and a letter from Prince Andrew
@@ -933,9 +941,11 @@ incongruous and false. It made him afraid.
 
 
 
-
+.. _ref-2600-b12-ch7:
 
 CHAPTER VII
+-----------
+
 
 The dreadful news of the battle of Borodinó, of our losses in killed and
 wounded, and the still more terrible news of the loss of Moscow reached
@@ -1116,9 +1126,11 @@ and a few days later left to rejoin his regiment.
 
 
 
-
+.. _ref-2600-b12-ch8:
 
 CHAPTER VIII
+------------
+
 
 Sónya’s letter written from Tróitsa, which had come as an answer to
 Nicholas’ prayer, was prompted by this: the thought of getting Nicholas
@@ -1289,9 +1301,11 @@ letter the arrival of which had so amazed Nicholas.
 
 
 
-
+.. _ref-2600-b12-ch9:
 
 CHAPTER IX
+----------
+
 
 The officer and soldiers who had arrested Pierre treated him with
 hostility but yet with respect, in the guardhouse to which he was taken.
@@ -1379,9 +1393,11 @@ had up for a second examination, were the hardest of all for Pierre.
 
 
 
-
+.. _ref-2600-b12-ch10:
 
 CHAPTER X
+---------
+
 
 On the eighth of September an officer—a very important one judging by
 the respect the guards showed him—entered the coach house where the
@@ -1551,9 +1567,11 @@ everything, annihilating him.
 
 
 
-
+.. _ref-2600-b12-ch11:
 
 CHAPTER XI
+----------
+
 
 From Prince Shcherbátov’s house the prisoners were led straight down the
 Virgin’s Field, to the left of the nunnery, as far as a kitchen garden
@@ -1700,9 +1718,11 @@ hopeless movement with his arm and went away.
 
 
 
-
+.. _ref-2600-b12-ch12:
 
 CHAPTER XII
+-----------
+
 
 After the execution Pierre was separated from the rest of the prisoners
 and placed alone in a small, ruined, and befouled church.
@@ -1951,9 +1971,11 @@ new and unshakable foundations.
 
 
 
-
+.. _ref-2600-b12-ch13:
 
 CHAPTER XIII
+------------
+
 
 Twenty-three soldiers, three officers, and two officials were confined
 in the shed in which Pierre had been placed and where he remained for
@@ -2064,9 +2086,11 @@ of any word or deed taken separately.
 
 
 
-
+.. _ref-2600-b12-ch14:
 
 CHAPTER XIV
+-----------
+
 
 When Princess Mary heard from Nicholas that her brother was with the
 Rostóvs at Yaroslávl she at once prepared to go there, in spite of her
@@ -2306,9 +2330,11 @@ cannot, cannot live, because...”
 
 
 
-
+.. _ref-2600-b12-ch15:
 
 CHAPTER XV
+----------
+
 
 When Natásha opened Prince Andrew’s door with a familiar movement and
 let Princess Mary pass into the room before her, the princess felt the
@@ -2503,9 +2529,11 @@ evident.
 
 
 
-
+.. _ref-2600-b12-ch16:
 
 CHAPTER XVI
+-----------
+
 
 Not only did Prince Andrew know he would die, but he felt that he was
 dying and was already half dead. He was conscious of an aloofness from

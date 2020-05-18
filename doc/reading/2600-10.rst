@@ -1,13 +1,14 @@
-
+.. _ref-2600-b10:
 
 BOOK TEN: 1812
 ^^^^^^^^^^^^^^
 
 
 
-
+.. _ref-2600-b10-ch1:
 
 CHAPTER I
+---------
 
 Napoleon began the war with Russia because he could not resist going
 to Dresden, could not help having his head turned by the homage he
@@ -216,9 +217,10 @@ retired, thus arriving at the very result which caused his destruction.
 
 
 
-
+.. _ref-2600-b10-ch2:
 
 CHAPTER II
+----------
 
 The day after his son had left, Prince Nicholas sent for Princess Mary
 to come to his study.
@@ -421,9 +423,10 @@ and which he called his “will.”)
 
 
 
-
+.. _ref-2600-b10-ch3:
 
 CHAPTER III
+-----------
 
 When Michael Ivánovich returned to the study with the letter, the old
 prince, with spectacles on and a shade over his eyes, was sitting at his
@@ -539,9 +542,10 @@ the present! Quicker, quicker—and that they should leave me in peace!”
 
 
 
-
+.. _ref-2600-b10-ch4:
 
 CHAPTER IV
+----------
 
 Bald Hills, Prince Nicholas Bolkónski’s estate, lay forty miles east
 from Smolénsk and two miles from the main road to Moscow.
@@ -1021,9 +1025,10 @@ him, he touched his horse and rode down the side street.
 
 
 
-
+.. _ref-2600-b10-ch5:
 
 CHAPTER V
+---------
 
 From Smolénsk the troops continued to retreat, followed by the enemy.
 On the tenth of August the regiment Prince Andrew commanded was marching
@@ -1299,9 +1304,10 @@ bewails it and calls down curses upon him....
 
 
 
-
+.. _ref-2600-b10-ch6:
 
 CHAPTER VI
+----------
 
 Among the innumerable categories applicable to the phenomena of human
 life one may discriminate between those in which substance prevails
@@ -1473,9 +1479,10 @@ from him and glanced sadly at one another with a sigh at his naïveté.
 
 
 
-
+.. _ref-2600-b10-ch7:
 
 CHAPTER VII
+-----------
 
 While this was taking place in Petersburg the French had already passed
 Smolénsk and were drawing nearer and nearer to Moscow. Napoleon’s
@@ -1620,9 +1627,10 @@ took him along with him.
 
 
 
-
+.. _ref-2600-b10-ch8:
 
 CHAPTER VIII
+------------
 
 Princess Mary was not in Moscow and out of danger as Prince Andrew
 supposed.
@@ -1988,9 +1996,10 @@ prince’s cold and stiffened hand.
 
 
 
-
+.. _ref-2600-b10-ch9:
 
 CHAPTER IX
+----------
 
 Until Prince Andrew settled in Boguchárovo its owners had always been
 absentees, and its peasants were of quite a different character from
@@ -2197,9 +2206,10 @@ authorities.
 
 
 
-
+.. _ref-2600-b10-ch10:
 
 CHAPTER X
+---------
 
 After her father’s funeral Princess Mary shut herself up in her room and
 did not admit anyone. A maid came to the door to say that Alpátych was
@@ -2423,9 +2433,10 @@ peasants.
 
 
 
-
+.. _ref-2600-b10-ch11:
 
 CHAPTER XI
+----------
 
 An hour later Dunyásha came to tell the princess that Dron had come, and
 all the peasants had assembled at the barn by the princess’ order and
@@ -2559,9 +2570,10 @@ own thoughts.
 
 
 
-
+.. _ref-2600-b10-ch12:
 
 CHAPTER XII
+-----------
 
 For a long time that night Princess Mary sat by the open window of her
 room hearing the sound of the peasants’ voices that reached her from
@@ -2640,9 +2652,10 @@ her old nurse and the maidservants who came running toward her.
 
 
 
-
+.. _ref-2600-b10-ch13:
 
 CHAPTER XIII
+------------
 
 On the seventeenth of August Rostóv and Ilyín, accompanied by Lavrúshka
 who had just returned from captivity and by an hussar orderly, left
@@ -2826,9 +2839,10 @@ Rostóv, knitting his brows, left the room with another low bow.
 
 
 
-
+.. _ref-2600-b10-ch14:
 
 CHAPTER XIV
+-----------
 
 “Well, is she pretty? Ah, friend—my pink one is delicious; her name is
 Dunyásha....”
@@ -3059,9 +3073,10 @@ was rallied about Princess Bolkónskaya.
 
 
 
-
+.. _ref-2600-b10-ch15:
 
 CHAPTER XV
+----------
 
 On receiving command of the armies Kutúzov remembered Prince Andrew and
 sent an order for him to report at headquarters.
@@ -3322,9 +3337,10 @@ paper again. “Oh, this German precision!” he muttered, shaking his head.
 
 
 
-
+.. _ref-2600-b10-ch16:
 
 CHAPTER XVI
+-----------
 
 “Well, that’s all!” said Kutúzov as he signed the last of the documents,
 and rising heavily and smoothing out the folds in his fat white neck he
@@ -3466,9 +3482,10 @@ popular choice of Kutúzov as commander in chief was received.
 
 
 
-
+.. _ref-2600-b10-ch17:
 
 CHAPTER XVII
+------------
 
 After the Emperor had left Moscow, life flowed on there in its usual
 course, and its course was so very usual that it was difficult to
@@ -3684,9 +3701,10 @@ homme.” *
 
 
 
-
+.. _ref-2600-b10-ch18:
 
 CHAPTER XVIII
+-------------
 
 When Pierre returned home he was handed two of Rostopchín’s broadsheets
 that had been brought that day.
@@ -3898,9 +3916,10 @@ joyous sensation.
 
 
 
-
+.. _ref-2600-b10-ch19:
 
 CHAPTER XIX
+-----------
 
 On the twenty-fourth of August the battle of the Shevárdino Redoubt was
 fought, on the twenty-fifth not a shot was fired by either side, and on
@@ -4095,9 +4114,10 @@ disintegration and flight.
 
 
 
-
+.. _ref-2600-b10-ch20:
 
 CHAPTER XX
+----------
 
 On the morning of the twenty-fifth Pierre was leaving Mozháysk. At the
 descent of the high steep hill, down which a winding road led out of the
@@ -4264,9 +4284,10 @@ than anything he had yet seen or heard.
 
 
 
-
+.. _ref-2600-b10-ch21:
 
 CHAPTER XXI
+-----------
 
 Pierre stepped out of his carriage and, passing the toiling militiamen,
 ascended the knoll from which, according to the doctor, the battlefield
@@ -4466,9 +4487,10 @@ militiamen.
 
 
 
-
+.. _ref-2600-b10-ch22:
 
 CHAPTER XXII
+------------
 
 Staggering amid the crush, Pierre looked about him.
 
@@ -4649,9 +4671,10 @@ suite, with Pierre among them, set out on their ride along the line.
 
 
 
-
+.. _ref-2600-b10-ch23:
 
 CHAPTER XXIII
+-------------
 
 From Górki, Bennigsen descended the highroad to the bridge which, when
 they had looked at it from the hill, the officer had pointed out as
@@ -4728,9 +4751,10 @@ matter to the commander in chief.
 
 
 
-
+.. _ref-2600-b10-ch24:
 
 CHAPTER XXIV
+------------
 
 On that bright evening of August 25, Prince Andrew lay leaning on his
 elbow in a broken-down shed in the village of Knyazkóvo at the further
@@ -4841,9 +4865,10 @@ missed them. They have gone to your estate near Moscow.”
 
 
 
-
+.. _ref-2600-b10-ch25:
 
 CHAPTER XXV
+-----------
 
 The officers were about to take leave, but Prince Andrew, apparently
 reluctant to be left alone with his friend, asked them to stay and have
@@ -5168,9 +5193,10 @@ pacing up and down in front of the shed.
 
 
 
-
+.. _ref-2600-b10-ch26:
 
 CHAPTER XXVI
+------------
 
 On August 25, the eve of the battle of Borodinó, M. de Beausset, prefect
 of the French Emperor’s palace, arrived at Napoleon’s quarters at
@@ -5353,9 +5379,10 @@ indicate how profoundly he valued and comprehended the Emperor’s words.
 
 
 
-
+.. _ref-2600-b10-ch27:
 
 CHAPTER XXVII
+-------------
 
 On the twenty-fifth of August, so his historians tell us, Napoleon spent
 the whole day on horseback inspecting the locality, considering plans
@@ -5507,9 +5534,10 @@ of his orders during the fight could be executed.
 
 
 
-
+.. _ref-2600-b10-ch28:
 
 CHAPTER XXVIII
+--------------
 
 Many historians say that the French did not win the battle of Borodinó
 because Napoleon had a cold, and that if he had not had a cold the
@@ -5617,9 +5645,10 @@ role of appearing to command, calmly and with dignity.
 
 
 
-
+.. _ref-2600-b10-ch29:
 
 CHAPTER XXIX
+------------
 
 On returning from a second inspection of the lines, Napoleon remarked:
 
@@ -5760,9 +5789,10 @@ dismounted. The game had begun.
 
 
 
-
+.. _ref-2600-b10-ch30:
 
 CHAPTER XXX
+-----------
 
 On returning to Górki after having seen Prince Andrew, Pierre ordered
 his groom to get the horses ready and to call him early in the morning,
@@ -5893,9 +5923,10 @@ watched him from the knoll.
 
 
 
-
+.. _ref-2600-b10-ch31:
 
 CHAPTER XXXI
+------------
 
 Having descended the hill the general after whom Pierre was galloping
 turned sharply to the left, and Pierre, losing sight of him, galloped
@@ -6264,9 +6295,10 @@ piercing cries.
 
 
 
-
+.. _ref-2600-b10-ch32:
 
 CHAPTER XXXII
+-------------
 
 Beside himself with terror Pierre jumped up and ran back to the battery,
 as to the only refuge from the horrors that surrounded him.
@@ -6344,9 +6376,10 @@ with all his remaining strength.
 
 
 
-
+.. _ref-2600-b10-ch33:
 
 CHAPTER XXXIII
+--------------
 
 The chief action of the battle of Borodinó was fought within the seven
 thousand feet between Borodinó and Bagratión’s flèches. Beyond that
@@ -6470,9 +6503,10 @@ promptings of the throng.
 
 
 
-
+.. _ref-2600-b10-ch34:
 
 CHAPTER XXXIV
+-------------
 
 Napoleon’s generals—Davout, Ney, and Murat, who were near that region of
 fire and sometimes even entered it—repeatedly led into it huge masses of
@@ -6686,9 +6720,10 @@ destroyed!” he said, and turning his horse rode back to Shevárdino.
 
 
 
-
+.. _ref-2600-b10-ch35:
 
 CHAPTER XXXV
+------------
 
 On the rug-covered bench where Pierre had seen him in the morning sat
 Kutúzov, his gray head hanging, his heavy body relaxed. He gave no
@@ -6874,9 +6909,10 @@ the exhausted, wavering men felt comforted and inspirited.
 
 
 
-
+.. _ref-2600-b10-ch36:
 
 CHAPTER XXXVI
+-------------
 
 Prince Andrew’s regiment was among the reserves which till after one
 o’clock were stationed inactive behind Semënovsk, under heavy artillery
@@ -7075,9 +7111,10 @@ this life I did not and do not understand.”
 
 
 
-
+.. _ref-2600-b10-ch37:
 
 CHAPTER XXXVII
+--------------
 
 One of the doctors came out of the tent in a bloodstained apron,
 holding a cigar between the thumb and little finger of one of his small
@@ -7203,9 +7240,10 @@ lived. But now it is too late. I know it!”
 
 
 
-
+.. _ref-2600-b10-ch38:
 
 CHAPTER XXXVIII
+---------------
 
 The terrible spectacle of the battlefield covered with dead and wounded,
 together with the heaviness of his head and the news that some twenty
@@ -7343,9 +7381,10 @@ perished there were fewer Frenchmen than Hessians and Bavarians.
 
 
 
-
+.. _ref-2600-b10-ch39:
 
 CHAPTER XXXIX
+-------------
 
 Several tens of thousands of the slain lay in diverse postures and
 various uniforms on the fields and meadows belonging to the Davýdov

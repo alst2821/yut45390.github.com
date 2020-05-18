@@ -1,4 +1,4 @@
-
+.. _ref-2600-b14:
 
 
 BOOK FOURTEEN: 1812
@@ -6,9 +6,10 @@ BOOK FOURTEEN: 1812
 
 
 
-
+.. _ref-2600-b14-ch1:
 
 CHAPTER I
+---------
 
 The Battle of Borodinó, with the occupation of Moscow that followed it
 and the flight of the French without further conflicts, is one of the
@@ -129,9 +130,10 @@ revenge in their soul yields to a feeling of contempt and compassion.
 
 
 
-
+.. _ref-2600-b14-ch2:
 
 CHAPTER II
+----------
 
 One of the most obvious and advantageous departures from the so-called
 laws of war is the action of scattered groups against men pressed
@@ -234,9 +236,10 @@ dangers.
 
 
 
-
+.. _ref-2600-b14-ch3:
 
 CHAPTER III
+-----------
 
 The so-called partisan war began with the entry of the French into
 Smolénsk.
@@ -345,9 +348,10 @@ French quartermasters who had been sent on in advance.
 
 
 
-
+.. _ref-2600-b14-ch4:
 
 CHAPTER IV
+----------
 
 It was a warm rainy autumn day. The sky and the horizon were both
 the color of muddy water. At times a sort of mist descended, and then
@@ -517,9 +521,10 @@ edge of the forest.
 
 
 
-
+.. _ref-2600-b14-ch5:
 
 CHAPTER V
+---------
 
 The rain had stopped, and only the mist was falling and drops from
 the trees. Denísov, the esaul, and Pétya rode silently, following the
@@ -675,9 +680,10 @@ them.
 
 
 
-
+.. _ref-2600-b14-ch6:
 
 CHAPTER VI
+----------
 
 After talking for some time with the esaul about next day’s attack,
 which now, seeing how near they were to the French, he seemed to have
@@ -788,9 +794,10 @@ me about yourself.”
 
 
 
-
+.. _ref-2600-b14-ch7:
 
 CHAPTER VII
+-----------
 
 Pétya, having left his people after their departure from Moscow, joined
 his regiment and was soon taken as orderly by a general commanding a
@@ -961,9 +968,10 @@ ridiculous to give some to the drummer boy.
 
 
 
-
+.. _ref-2600-b14-ch8:
 
 CHAPTER VIII
+------------
 
 The arrival of Dólokhov diverted Pétya’s attention from the drummer boy,
 to whom Denísov had had some mutton and vodka given, and whom he had had
@@ -1072,9 +1080,10 @@ hinder me,” said he. “It will only make things worse....”
 
 
 
-
+.. _ref-2600-b14-ch9:
 
 CHAPTER IX
+----------
 
 Having put on French greatcoats and shakos, Pétya and Dólokhov rode to
 the clearing from which Denísov had reconnoitered the French camp,
@@ -1246,9 +1255,10 @@ vanished into the darkness.
 
 
 
-
+.. _ref-2600-b14-ch10:
 
 CHAPTER X
+---------
 
 Having returned to the watchman’s hut, Pétya found Denísov in the
 passage. He was awaiting Pétya’s return in a state of agitation,
@@ -1443,9 +1453,10 @@ orders to get ready.
 
 
 
-
+.. _ref-2600-b14-ch11:
 
 CHAPTER XI
+----------
 
 The men rapidly picked out their horses in the semidarkness, tightened
 their saddle girths, and formed companies. Denísov stood by the
@@ -1572,9 +1583,10 @@ Bezúkhov.
 
 
 
-
+.. _ref-2600-b14-ch12:
 
 CHAPTER XII
+-----------
 
 During the whole of their march from Moscow no fresh orders had been
 issued by the French authorities concerning the party of prisoners
@@ -1698,9 +1710,10 @@ and comforting thoughts, memories, and imaginings that came to him.
 
 
 
-
+.. _ref-2600-b14-ch13:
 
 CHAPTER XIII
+------------
 
 At midday on the twenty-second of October Pierre was going uphill along
 the muddy, slippery road, looking at his feet and at the roughness of
@@ -1819,9 +1832,10 @@ Karatáev’s face as he told it, and the mystic significance of that joy.
 
 
 
-
+.. _ref-2600-b14-ch14:
 
 CHAPTER XIV
+-----------
 
 “À vos places!” * suddenly cried a voice.
 
@@ -1889,9 +1903,10 @@ just as Pierre did, but there was a set look on all their faces.
 
 
 
-
+.. _ref-2600-b14-ch15:
 
 CHAPTER XV
+----------
 
 The stores, the prisoners, and the marshal’s baggage train stopped at
 the village of Shámshevo. The men crowded together round the campfires.
@@ -2007,9 +2022,10 @@ in the garden.
 
 
 
-
+.. _ref-2600-b14-ch16:
 
 CHAPTER XVI
+-----------
 
 After the twenty-eighth of October when the frosts began, the flight of
 the French assumed a still more tragic character, with men freezing,
@@ -2076,9 +2092,10 @@ himself.
 
 
 
-
+.. _ref-2600-b14-ch17:
 
 CHAPTER XVII
+------------
 
 The movements of the Russian and French armies during the campaign
 from Moscow back to the Niemen were like those in a game of Russian
@@ -2146,9 +2163,10 @@ leaving those who could not to surrender or die.
 
 
 
-
+.. _ref-2600-b14-ch18:
 
 CHAPTER XVIII
+-------------
 
 This campaign consisted in a flight of the French during which they did
 all they could to destroy themselves. From the time they turned onto
@@ -2229,9 +2247,10 @@ goodness, and truth are absent.
 
 
 
-
+.. _ref-2600-b14-ch19:
 
 CHAPTER XIX
+-----------
 
 What Russian, reading the account of the last part of the campaign
 of 1812, has not experienced an uncomfortable feeling of regret,

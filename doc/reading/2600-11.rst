@@ -1,13 +1,14 @@
-
+.. _ref-2600-b11:
 
 BOOK ELEVEN: 1812
 ^^^^^^^^^^^^^^^^^
 
 
 
-
+.. _ref-2600-b11-ch1:
 
 CHAPTER I
+---------
 
 Absolute continuity of motion is not comprehensible to the human mind.
 Laws of motion of any kind become comprehensible to man only when he
@@ -144,9 +145,10 @@ these actions.
 
 
 
-
+.. _ref-2600-b11-ch2:
 
 CHAPTER II
+----------
 
 The forces of a dozen European nations burst into Russia. The Russian
 army and people avoided a collision till Smolénsk was reached, and again
@@ -271,9 +273,10 @@ retreat from Borodinó to Filí.
 
 
 
-
+.. _ref-2600-b11-ch3:
 
 CHAPTER III
+-----------
 
 When Ermólov, having been sent by Kutúzov to inspect the position, told
 the field marshal that it was impossible to fight there before Moscow
@@ -374,9 +377,10 @@ from the bench, and he rode to Filí where his carriages were waiting.
 
 
 
-
+.. _ref-2600-b11-ch4:
 
 CHAPTER IV
+----------
 
 The Council of War began to assemble at two in the afternoon in the
 better and roomier part of Andrew Savostyánov’s hut. The men, women, and
@@ -521,9 +525,10 @@ shall too, if only...”
 
 
 
-
+.. _ref-2600-b11-ch5:
 
 CHAPTER V
+---------
 
 At that very time, in circumstances even more important than retreating
 without a battle, namely the evacuation and burning of Moscow,
@@ -621,9 +626,10 @@ along with it.
 
 
 
-
+.. _ref-2600-b11-ch6:
 
 CHAPTER VI
+----------
 
 Hélène, having returned with the court from Vílna to Petersburg, found
 herself in a difficult position.
@@ -768,9 +774,10 @@ began refuting his spiritual daughter’s arguments.
 
 
 
-
+.. _ref-2600-b11-ch7:
 
 CHAPTER VII
+-----------
 
 Hélène understood that the question was very simple and easy from
 the ecclesiastical point of view, and that her directors were making
@@ -958,9 +965,10 @@ Borodinó.
 
 
 
-
+.. _ref-2600-b11-ch8:
 
 CHAPTER VIII
+------------
 
 Toward the end of the battle of Borodinó, Pierre, having run down
 from Raévski’s battery a second time, made his way through a gully to
@@ -1070,9 +1078,10 @@ down in his carriage.
 
 
 
-
+.. _ref-2600-b11-ch9:
 
 CHAPTER IX
+----------
 
 Scarcely had Pierre laid his head on the pillow before he felt himself
 falling asleep, but suddenly, almost with the distinctness of reality,
@@ -1191,9 +1200,10 @@ that of Prince Andrew.
 
 
 
-
+.. _ref-2600-b11-ch10:
 
 CHAPTER X
+---------
 
 On the thirtieth of August Pierre reached Moscow. Close to the gates of
 the city he was met by Count Rostopchín’s adjutant.
@@ -1350,9 +1360,10 @@ He found some scoundrel of a painter...”
 
 
 
-
+.. _ref-2600-b11-ch11:
 
 CHAPTER XI
+----------
 
 In the middle of this fresh tale Pierre was summoned to the commander in
 chief.
@@ -1448,9 +1459,10 @@ or knew where he was.
 
 
 
-
+.. _ref-2600-b11-ch12:
 
 CHAPTER XII
+-----------
 
 The Rostóvs remained in Moscow till the first of September, that is,
 till the eve of the enemy’s entry into the city.
@@ -1592,9 +1604,10 @@ especially to the young.
 
 
 
-
+.. _ref-2600-b11-ch13:
 
 CHAPTER XIII
+------------
 
 On Saturday, the thirty-first of August, everything in the Rostóvs’
 house seemed topsy-turvy. All the doors were open, all the furniture was
@@ -1758,9 +1771,10 @@ was now afraid of everything.
 
 
 
-
+.. _ref-2600-b11-ch14:
 
 CHAPTER XIV
+-----------
 
 Madame Schoss, who had been out to visit her daughter, increased the
 countess’ fears still more by telling what she had seen at a spirit
@@ -1894,9 +1908,10 @@ This wounded man was Prince Andrew Bolkónski.
 
 
 
-
+.. _ref-2600-b11-ch15:
 
 CHAPTER XV
+----------
 
 Moscow’s last day had come. It was a clear bright autumn day, a Sunday.
 The church bells everywhere were ringing for service, just as usual on
@@ -2041,9 +2056,10 @@ window.
 
 
 
-
+.. _ref-2600-b11-ch16:
 
 CHAPTER XVI
+-----------
 
 Berg, the Rostóvs’ son-in-law, was already a colonel wearing the orders
 of Vladímir and Anna, and he still filled the quiet and agreeable post
@@ -2277,9 +2293,10 @@ tried to get as much taken away with them as possible.
 
 
 
-
+.. _ref-2600-b11-ch17:
 
 CHAPTER XVII
+------------
 
 Before two o’clock in the afternoon the Rostóvs’ four carriages, packed
 full and with the horses harnessed, stood at the front door. One by one
@@ -2506,9 +2523,10 @@ him with her kindly, slightly quizzical, happy smile.
 
 
 
-
+.. _ref-2600-b11-ch18:
 
 CHAPTER XVIII
+-------------
 
 For the last two days, ever since leaving home, Pierre had been living
 in the empty house of his deceased benefactor, Bazdéev. This is how it
@@ -2655,9 +2673,10 @@ pistol at the Súkharev market that he met the Rostóvs.
 
 
 
-
+.. _ref-2600-b11-ch19:
 
 CHAPTER XIX
+-----------
 
 Kutúzov’s order to retreat through Moscow to the Ryazán road was issued
 at night on the first of September.
@@ -2836,9 +2855,10 @@ the deputation.
 
 
 
-
+.. _ref-2600-b11-ch20:
 
 CHAPTER XX
+----------
 
 Meanwhile Moscow was empty. There were still people in it, perhaps a
 fiftieth part of its former inhabitants had remained, but it was empty.
@@ -2934,9 +2954,10 @@ The coup de théâtre had not come off.
 
 
 
-
+.. _ref-2600-b11-ch21:
 
 CHAPTER XXI
+-----------
 
 The Russian troops were passing through Moscow from two o’clock at night
 till two in the afternoon and bore away with them the wounded and the
@@ -3052,9 +3073,10 @@ were now moving forward.
 
 
 
-
+.. _ref-2600-b11-ch22:
 
 CHAPTER XXII
+------------
 
 Meanwhile, the city itself was deserted. There was hardly anyone in the
 streets. The gates and shops were all closed, only here and there round
@@ -3177,9 +3199,10 @@ motherly tenderness and pity for the unknown young officer.
 
 
 
-
+.. _ref-2600-b11-ch23:
 
 CHAPTER XXIII
+-------------
 
 From an unfinished house on the Varvárka, the ground floor of which was
 a dramshop, came drunken shouts and songs. On benches round the tables
@@ -3377,9 +3400,10 @@ more and more frequently.
 
 
 
-
+.. _ref-2600-b11-ch24:
 
 CHAPTER XXIV
+------------
 
 On the evening of the first of September, after his interview with
 Kutúzov, Count Rostopchín had returned to Moscow mortified and offended
@@ -3537,9 +3561,10 @@ him to me!”
 
 
 
-
+.. _ref-2600-b11-ch25:
 
 CHAPTER XXV
+-----------
 
 Toward nine o’clock in the morning, when the troops were already moving
 through Moscow, nobody came to the count any more for instructions.
@@ -3932,9 +3957,10 @@ to drive on the carts that blocked the way.
 
 
 
-
+.. _ref-2600-b11-ch26:
 
 CHAPTER XXVI
+------------
 
 Toward four o’clock in the afternoon Murat’s troops were entering
 Moscow. In front rode a detachment of Württemberg hussars and behind
@@ -4147,9 +4173,10 @@ bring them the keys of the city.
 
 
 
-
+.. _ref-2600-b11-ch27:
 
 CHAPTER XXVII
+-------------
 
 The absorption of the French by Moscow, radiating starwise as it did,
 only reached the quarter where Pierre was staying by the evening of the
@@ -4318,9 +4345,10 @@ heard.
 
 
 
-
+.. _ref-2600-b11-ch28:
 
 CHAPTER XXVIII
+--------------
 
 Pierre, having decided that until he had carried out his design he would
 disclose neither his identity nor his knowledge of French, stood at the
@@ -4464,9 +4492,10 @@ to visit the kitchen, came up to his officer.
 
 
 
-
+.. _ref-2600-b11-ch29:
 
 CHAPTER XXIX
+------------
 
 When the French officer went into the room with Pierre the latter again
 thought it his duty to assure him that he was not French and wished to
@@ -4877,9 +4906,10 @@ immediately fell asleep.
 
 
 
-
+.. _ref-2600-b11-ch30:
 
 CHAPTER XXX
+-----------
 
 The glow of the first fire that began on the second of September was
 watched from the various roads by the fugitive Muscovites and by the
@@ -4967,9 +4997,10 @@ words of prayer, and the sobbing of the count’s old valet.
 
 
 
-
+.. _ref-2600-b11-ch31:
 
 CHAPTER XXXI
+------------
 
 The valet, returning to the cottage, informed the count that Moscow was
 burning. The count donned his dressing gown and went out to look. Sónya
@@ -5163,9 +5194,10 @@ He smiled and held out his hand to her.
 
 
 
-
+.. _ref-2600-b11-ch32:
 
 CHAPTER XXXII
+-------------
 
 Seven days had passed since Prince Andrew found himself in the
 ambulance station on the field of Borodinó. His feverish state and the
@@ -5420,9 +5452,10 @@ Bolkónski but over all Russia, shut out all other considerations.
 
 
 
-
+.. _ref-2600-b11-ch33:
 
 CHAPTER XXXIII
+--------------
 
 On the third of September Pierre awoke late. His head was aching, the
 clothes in which he had slept without undressing felt uncomfortable on
@@ -5689,9 +5722,10 @@ with her through the garden seeking another way out.
 
 
 
-
+.. _ref-2600-b11-ch34:
 
 CHAPTER XXXIV
+-------------
 
 Having run through different yards and side streets, Pierre got back
 with his little burden to the Gruzínski garden at the corner of the

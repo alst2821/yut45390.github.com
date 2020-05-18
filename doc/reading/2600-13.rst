@@ -1,9 +1,12 @@
-
+.. _ref-2600-b13:
 
 BOOK THIRTEEN: 1812
 ^^^^^^^^^^^^^^^^^^^
 
+.. _ref-2600-b13-ch1:
+
 CHAPTER I
+---------
 
 Man’s mind cannot grasp the causes of events in their completeness, but
 the desire to find those causes is implanted in man’s soul. And without
@@ -118,8 +121,10 @@ movement and long ago foreseen its result.
 
 
 
+.. _ref-2600-b13-ch2:
 
 CHAPTER II
+----------
 
 The famous flank movement merely consisted in this: after the advance
 of the French had ceased, the Russian army, which had been continually
@@ -213,8 +218,10 @@ activity, whirring, and chiming in the higher spheres.
 
 
 
+.. _ref-2600-b13-ch3:
 
 CHAPTER III
+-----------
 
 The Russian army was commanded by Kutúzov and his staff, and also by the
 Emperor from Petersburg. Before the news of the abandonment of Moscow
@@ -323,8 +330,10 @@ his approval, that is, to the accomplished fact.
 
 
 
+.. _ref-2600-b13-ch4:
 
 CHAPTER IV
+----------
 
 Bennigsen’s note and the Cossack’s information that the left flank
 of the French was unguarded were merely final indications that it was
@@ -422,8 +431,10 @@ trouble. You’ll see what a mess there’ll be tomorrow.”
 
 
 
+.. _ref-2600-b13-ch5:
 
 CHAPTER V
+---------
 
 Next day the decrepit Kutúzov, having given orders to be called early,
 said his prayers, dressed, and, with an unpleasant consciousness of
@@ -481,8 +492,10 @@ day. And once more Kutúzov had to consent.
 
 
 
+.. _ref-2600-b13-ch6:
 
 CHAPTER VI
+----------
 
 Next day the troops assembled in their appointed places in the evening
 and advanced during the night. It was an autumn night with dark purple
@@ -626,8 +639,10 @@ some time quite uselessly.
 
 
 
+.. _ref-2600-b13-ch7:
 
 CHAPTER VII
+-----------
 
 Meanwhile another column was to have attacked the French from the front,
 but Kutúzov accompanied that column. He well knew that nothing but
@@ -724,8 +739,10 @@ Napoleon’s army had only awaited to begin its flight.
 
 
 
+.. _ref-2600-b13-ch8:
 
 CHAPTER VIII
+------------
 
 Napoleon enters Moscow after the brilliant victory de la Moskowa; there
 can be no doubt about the victory for the battlefield remains in the
@@ -803,8 +820,10 @@ considerations concerning the terms of the anticipated peace.
 
 
 
+.. _ref-2600-b13-ch9:
 
 CHAPTER IX
+----------
 
 With regard to military matters, Napoleon immediately on his entry into
 Moscow gave General Sabastiani strict orders to observe the movements
@@ -952,8 +971,10 @@ and to suppress robbery.
 
 
 
+.. _ref-2600-b13-ch10:
 
 CHAPTER X
+---------
 
 But strange to say, all these measures, efforts, and plans—which were
 not at all worse than others issued in similar circumstances—did not
@@ -1100,8 +1121,10 @@ of strings inside a carriage, thinks he is driving it.
 
 
 
+.. _ref-2600-b13-ch11:
 
 CHAPTER XI
+----------
 
 Early in the morning of the sixth of October Pierre went out of the
 shed, and on returning stopped by the door to play with a little
@@ -1281,8 +1304,10 @@ into the shed.
 
 
 
+.. _ref-2600-b13-ch12:
 
 CHAPTER XII
+-----------
 
 Four weeks had passed since Pierre had been taken prisoner and though
 the French had offered to move him from the men’s to the officers’ shed,
@@ -1384,8 +1409,10 @@ placed responsibilities upon him.
 
 
 
+.. _ref-2600-b13-ch13:
 
 CHAPTER XIII
+------------
 
 The French evacuation began on the night between the sixth and seventh
 of October: kitchens and sheds were dismantled, carts loaded, and troops
@@ -1536,8 +1563,10 @@ the dead man.
 
 
 
+.. _ref-2600-b13-ch14:
 
 CHAPTER XIV
+-----------
 
 Through the cross streets of the Khamóvniki quarter the prisoners
 marched, followed only by their escort and the vehicles and wagons
@@ -1720,8 +1749,10 @@ sleep beside his companions.
 
 
 
+.. _ref-2600-b13-ch15:
 
 CHAPTER XV
+----------
 
 In the early days of October another envoy came to Kutúzov with a letter
 from Napoleon proposing peace and falsely dated from Moscow, though
@@ -1814,8 +1845,10 @@ accompanied by a Cossack with spare horses.
 
 
 
+.. _ref-2600-b13-ch16:
 
 CHAPTER XVI
+-----------
 
 It was a warm, dark, autumn night. It had been raining for four days.
 Having changed horses twice and galloped twenty miles in an hour and a
@@ -1940,8 +1973,10 @@ go to see his Highness.
 
 
 
+.. _ref-2600-b13-ch17:
 
 CHAPTER XVII
+------------
 
 Kutúzov like all old people did not sleep much at night. He often fell
 asleep unexpectedly in the daytime, but at night, lying on his bed
@@ -2067,8 +2102,10 @@ Lord!” and he wept.
 
 
 
+.. _ref-2600-b13-ch18:
 
 CHAPTER XVIII
+-------------
 
 From the time he received this news to the end of the campaign all
 Kutúzov’s activity was directed toward restraining his troops, by
@@ -2146,8 +2183,10 @@ the Smolénsk) road acted simultaneously on him also.
 
 
 
+.. _ref-2600-b13-ch19:
 
 CHAPTER XIX
+-----------
 
 A man in motion always devises an aim for that motion. To be able to go
 a thousand miles he must imagine that something good awaits him at the

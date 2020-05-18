@@ -1,13 +1,14 @@
-
+.. _ref-2600-b16:
 
 FIRST EPILOGUE: 1813 - 20
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
-
+.. _ref-2600-b16-ch1:
 
 CHAPTER I
+---------
 
 Seven years had passed. The storm-tossed sea of European history had
 subsided within its shores and seemed to have become calm. But the
@@ -129,9 +130,10 @@ life is destroyed.
 
 
 
-
+.. _ref-2600-b16-ch2:
 
 CHAPTER II
+----------
 
 If we assume as the historians do that great men lead humanity to the
 attainment of certain ends—the greatness of Russia or of France,
@@ -210,9 +212,10 @@ Alexander with all their antecedents.
 
 
 
-
+.. _ref-2600-b16-ch3:
 
 CHAPTER III
+-----------
 
 The fundamental and essential significance of the European events of the
 beginning of the nineteenth century lies in the movement of the mass of
@@ -382,9 +385,10 @@ millions of money are paid him.
 
 
 
-
+.. _ref-2600-b16-ch4:
 
 CHAPTER IV
+----------
 
 The flood of nations begins to subside into its normal channels. The
 waves of the great movement abate, and on the calm surface eddies are
@@ -495,9 +499,10 @@ characters and nations.
 
 
 
-
+.. _ref-2600-b16-ch5:
 
 CHAPTER V
+---------
 
 Natásha’s wedding to Bezúkhov, which took place in 1813, was the last
 happy event in the family of the old Rostóvs. Count Ilyá Rostóv died
@@ -622,9 +627,10 @@ him to endure his position.
 
 
 
-
+.. _ref-2600-b16-ch6:
 
 CHAPTER VI
+----------
 
 At the beginning of winter Princess Mary came to Moscow. From reports
 current in town she learned how the Rostóvs were situated, and how “the
@@ -822,9 +828,10 @@ possible, inevitable, and very near.
 
 
 
-
+.. _ref-2600-b16-ch7:
 
 CHAPTER VII
+-----------
 
 In the winter of 1813 Nicholas married Princess Mary and moved to Bald
 Hills with his wife, his mother, and Sónya.
@@ -951,9 +958,10 @@ not to be trifled with either—in a word, he was a real master!”
 
 
 
-
+.. _ref-2600-b16-ch8:
 
 CHAPTER VIII
+------------
 
 One matter connected with his management sometimes worried Nicholas, and
 that was his quick temper together with his old hussar habit of making
@@ -1103,9 +1111,10 @@ provided out of the produce of the estate.
 
 
 
-
+.. _ref-2600-b16-ch9:
 
 CHAPTER IX
+----------
 
 It was the eve of St. Nicholas, the fifth of December, 1820. Natásha had
 been staying at her brother’s with her husband and children since early
@@ -1356,9 +1365,10 @@ instant.
 
 
 
-
+.. _ref-2600-b16-ch10:
 
 CHAPTER X
+---------
 
 Natásha had married in the early spring of 1813, and in 1820 already had
 three daughters besides a son for whom she had longed and whom she was
@@ -1546,9 +1556,10 @@ mysterious reflection.
 
 
 
-
+.. _ref-2600-b16-ch11:
 
 CHAPTER XI
+----------
 
 Two months previously when Pierre was already staying with the Rostóvs
 he had received a letter from Prince Theodore, asking him to come
@@ -1704,9 +1715,10 @@ shifting the baby he gave him to the nurse.
 
 
 
-
+.. _ref-2600-b16-ch12:
 
 CHAPTER XII
+-----------
 
 As in every large household, there were at Bald Hills several perfectly
 distinct worlds which merged into one harmonious whole, though each
@@ -1903,9 +1915,10 @@ little children failed to understand this and avoided her.
 
 
 
-
+.. _ref-2600-b16-ch13:
 
 CHAPTER XIII
+------------
 
 When Pierre and his wife entered the drawing room the countess was in
 one of her customary states in which she needed the mental exertion of
@@ -2046,9 +2059,10 @@ one out of the other, in the children’s presence.
 
 
 
-
+.. _ref-2600-b16-ch14:
 
 CHAPTER XIV
+-----------
 
 Soon after this the children came in to say good night. They kissed
 everyone, the tutors and governesses made their bows, and they went out.
@@ -2291,9 +2305,10 @@ from the boy.
 
 
 
-
+.. _ref-2600-b16-ch15:
 
 CHAPTER XV
+----------
 
 The conversation at supper was not about politics or societies, but
 turned on the subject Nicholas liked best—recollections of 1812. Denísov
@@ -2493,9 +2508,10 @@ the icon he began to say his evening prayers.
 
 
 
-
+.. _ref-2600-b16-ch16:
 
 CHAPTER XVI
+-----------
 
 Natásha and Pierre, left alone, also began to talk as only a husband
 and wife can talk, that is, with extraordinary clearness and rapidity,

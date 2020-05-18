@@ -1,13 +1,14 @@
-
+.. _ref-2600-b17:
 
 SECOND EPILOGUE
 ^^^^^^^^^^^^^^^
 
 
 
-
+.. _ref-2600-b17-ch1:
 
 CHAPTER I
+---------
 
 History is the life of nations and of humanity. To seize and put into
 words, to describe directly the life of humanity or even of a single
@@ -194,9 +195,10 @@ quite well known to everybody.
 
 
 
-
+.. _ref-2600-b17-ch2:
 
 CHAPTER II
+----------
 
 What force moves the nations?
 
@@ -358,9 +360,10 @@ which they apparently do not recognize.
 
 
 
-
+.. _ref-2600-b17-ch3:
 
 CHAPTER III
+-----------
 
 A locomotive is moving. Someone asks: “What moves it?” A peasant says
 the devil moves it. Another man says the locomotive moves because its
@@ -448,9 +451,10 @@ taste for what they call “serious reading.”
 
 
 
-
+.. _ref-2600-b17-ch4:
 
 CHAPTER IV
+----------
 
 Having abandoned the conception of the ancients as to the divine
 subjection of the will of a nation to some chosen man and the subjection
@@ -700,9 +704,10 @@ the history of the life of the peoples.
 
 
 
-
+.. _ref-2600-b17-ch5:
 
 CHAPTER V
+---------
 
 The life of the nations is not contained in the lives of a few men, for
 the connection between those men and the nations has not been found.
@@ -824,9 +829,10 @@ between the person commanding and those who execute his command.
 
 
 
-
+.. _ref-2600-b17-ch6:
 
 CHAPTER VI
+----------
 
 Only the expression of the will of the Deity, not dependent on time, can
 relate to a whole series of events occurring over a period of years or
@@ -971,9 +977,10 @@ commanding.
 
 
 
-
+.. _ref-2600-b17-ch7:
 
 CHAPTER VII
+-----------
 
 When an event is taking place people express their opinions and wishes
 about it, and as the event results from the collective activity of
@@ -1116,9 +1123,10 @@ words that it is a law.
 
 
 
-
+.. _ref-2600-b17-ch8:
 
 CHAPTER VIII
+------------
 
 If history dealt only with external phenomena, the establishment of this
 simple and obvious law would suffice and we should have finished our
@@ -1304,9 +1312,10 @@ so smooth and regular.
 
 
 
-
+.. _ref-2600-b17-ch9:
 
 CHAPTER IX
+----------
 
 For the solution of the question of free will or inevitability, history
 has this advantage over other branches of knowledge in which the
@@ -1523,9 +1532,10 @@ understanding of the causes that led to the action.
 
 
 
-
+.. _ref-2600-b17-ch10:
 
 CHAPTER X
+---------
 
 Thus our conception of free will and inevitability gradually diminishes
 or increases according to the greater or lesser connection with the
@@ -1738,9 +1748,10 @@ human life.
 
 
 
-
+.. _ref-2600-b17-ch11:
 
 CHAPTER XI
+----------
 
 History examines the manifestations of man’s free will in connection
 with the external world in time and in dependence on cause, that is, it
@@ -1809,9 +1820,10 @@ inseparably interconnected infinitesimal elements of free will.
 
 
 
-
+.. _ref-2600-b17-ch12:
 
 CHAPTER XII
+-----------
 
 From the time the law of Copernicus was discovered and proved, the mere
 recognition of the fact that it was not the sun but the earth that moves

@@ -1,13 +1,14 @@
-
+.. _ref-2600-b15:
 
 BOOK FIFTEEN: 1812 - 13
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
-
+.. _ref-2600-b15-ch1:
 
 CHAPTER I
+---------
 
 When seeing a dying animal a man feels a sense of horror: substance
 similar to his own is perishing before his eyes. But when it is a
@@ -168,9 +169,10 @@ with a sob.
 
 
 
-
+.. _ref-2600-b15-ch2:
 
 CHAPTER II
+----------
 
 Besides a feeling of aloofness from everybody Natásha was feeling a
 special estrangement from the members of her own family. All of
@@ -276,9 +278,10 @@ time.
 
 
 
-
+.. _ref-2600-b15-ch3:
 
 CHAPTER III
+-----------
 
 Princess Mary postponed her departure. Sónya and the count tried to
 replace Natásha but could not. They saw that she alone was able to
@@ -395,9 +398,10 @@ insisted on Natásha’s going with her to consult the doctors.
 
 
 
-
+.. _ref-2600-b15-ch4:
 
 CHAPTER IV
+----------
 
 After the encounter at Vyázma, where Kutúzov had been unable to hold
 back his troops in their anxiety to overwhelm and cut off the enemy and
@@ -526,9 +530,10 @@ useful only because he had a Russian name.
 
 
 
-
+.. _ref-2600-b15-ch5:
 
 CHAPTER V
+---------
 
 In 1812 and 1813 Kutúzov was openly accused of blundering. The Emperor
 was dissatisfied with him. And in a history recently written by order
@@ -665,9 +670,10 @@ greatness.
 
 
 
-
+.. _ref-2600-b15-ch6:
 
 CHAPTER VI
+----------
 
 The fifth of November was the first day of what is called the battle of
 Krásnoe. Toward evening—after much disputing and many mistakes made by
@@ -791,9 +797,10 @@ answering unexpectedly gave a sob, being evidently greatly moved.
 
 
 
-
+.. _ref-2600-b15-ch7:
 
 CHAPTER VII
+-----------
 
 When the troops reached their night’s halting place on the eighth of
 November, the last day of the Krásnoe battles, it was already growing
@@ -902,9 +909,10 @@ themselves naked to steam the lice out of their shirts.
 
 
 
-
+.. _ref-2600-b15-ch8:
 
 CHAPTER VIII
+------------
 
 One would have thought that under the almost incredibly wretched
 conditions the Russian soldiers were in at that time—lacking warm boots
@@ -1097,9 +1105,10 @@ And several of the men went over to the Fifth Company.
 
 
 
-
+.. _ref-2600-b15-ch9:
 
 CHAPTER IX
+----------
 
 The fifth company was bivouacking at the very edge of the forest. A huge
 campfire was blazing brightly in the midst of the snow, lighting up the
@@ -1222,9 +1231,10 @@ gladsome and mysterious to one another.
 
 
 
-
+.. _ref-2600-b15-ch10:
 
 CHAPTER X
+---------
 
 The French army melted away at the uniform rate of a mathematical
 progression; and that crossing of the Berëzina about which so much has
@@ -1444,9 +1454,10 @@ First Class.
 
 
 
-
+.. _ref-2600-b15-ch11:
 
 CHAPTER XI
+----------
 
 Next day the field marshal gave a dinner and ball which the Emperor
 honored by his presence. Kutúzov had received the Order of St. George
@@ -1519,9 +1530,10 @@ national war but to die, and Kutúzov died.
 
 
 
-
+.. _ref-2600-b15-ch12:
 
 CHAPTER XII
+-----------
 
 As generally happens, Pierre did not feel the full effects of the
 physical privation and strain he had suffered as prisoner until after
@@ -1629,9 +1641,10 @@ from a man’s head.”
 
 
 
-
+.. _ref-2600-b15-ch13:
 
 CHAPTER XIII
+------------
 
 In external ways Pierre had hardly changed at all. In appearance he
 was just what he used to be. As before he was absent-minded and seemed
@@ -1841,9 +1854,10 @@ nothing—and he smiled joyfully as he listened to him.
 
 
 
-
+.. _ref-2600-b15-ch14:
 
 CHAPTER XIV
+-----------
 
 It would be difficult to explain why and whither ants whose heap
 has been destroyed are hurrying: some from the heap dragging bits of
@@ -1933,9 +1947,10 @@ wrote proclamations.
 
 
 
-
+.. _ref-2600-b15-ch15:
 
 CHAPTER XV
+----------
 
 At the end of January Pierre went to Moscow and stayed in an annex of
 his house which had not been burned. He called on Count Rostopchín and
@@ -2070,9 +2085,10 @@ but only by the pleasure that just perceptibly lit up her whole face.
 
 
 
-
+.. _ref-2600-b15-ch16:
 
 CHAPTER XVI
+-----------
 
 “She has come to stay with me,” said Princess Mary. “The count and
 countess will be here in a few days. The countess is in a dreadful
@@ -2196,9 +2212,10 @@ time she has talked of him like that.”
 
 
 
-
+.. _ref-2600-b15-ch17:
 
 CHAPTER XVII
+------------
 
 Pierre was shown into the large, brightly lit dining room; a few minutes
 later he heard footsteps and Princess Mary entered with Natásha. Natásha
@@ -2439,9 +2456,10 @@ if it had been forgotten there.
 
 
 
-
+.. _ref-2600-b15-ch18:
 
 CHAPTER XVIII
+-------------
 
 It was a long time before Pierre could fall asleep that night. He paced
 up and down his room, now turning his thoughts on a difficult problem
@@ -2682,9 +2700,10 @@ am! What is happening to me? How happy I am!” said Pierre to himself.
 
 
 
-
+.. _ref-2600-b15-ch19:
 
 CHAPTER XIX
+-----------
 
 There was nothing in Pierre’s soul now at all like what had troubled it
 during his courtship of Hélène.
@@ -2759,9 +2778,10 @@ them.
 
 
 
-
+.. _ref-2600-b15-ch20:
 
 CHAPTER XX
+----------
 
 After Pierre’s departure that first evening, when Natásha had said to
 Princess Mary with a gaily mocking smile: “He looks just, yes, just as
