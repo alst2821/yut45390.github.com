@@ -1,13 +1,14 @@
-
+.. _ref-2600-b7:
 
 BOOK SEVEN: 1810 - 11
 ^^^^^^^^^^^^^^^^^^^^^
 
 
 
-
+.. _ref-2600-b7-ch1:
 
 CHAPTER I
+---------
 
 The Bible legend tells us that the absence of labor—idleness—was a
 condition of the first man’s blessedness before the Fall. Fallen man
@@ -183,9 +184,10 @@ a letter from him! However, God grant that everything turns out well!”
 
 
 
-
+.. _ref-2600-b7-ch2:
 
 CHAPTER II
+----------
 
 After reaching home Nicholas was at first serious and even dull. He was
 worried by the impending necessity of interfering in the stupid business
@@ -271,9 +273,10 @@ pursuit—the chase—for which his father kept a large establishment.
 
 
 
-
+.. _ref-2600-b7-ch3:
 
 CHAPTER III
+-----------
 
 The weather was already growing wintry and morning frosts congealed
 an earth saturated by autumn rains. The verdure had thickened and its
@@ -398,9 +401,11 @@ lady.
 
 
 
+.. _ref-2600-b7-ch4:
 
 
 CHAPTER IV
+----------
 
 The old count, who had always kept up an enormous hunting establishment
 but had now handed it all completely over to his son’s care, being
@@ -647,9 +652,11 @@ the wolf, but it vanished into the wood before they could do so.
 
 
 
+.. _ref-2600-b7-ch5:
 
 
 CHAPTER V
+---------
 
 Nicholas Rostóv meanwhile remained at his post, waiting for the wolf.
 By the way the hunt approached and receded, by the cries of the dogs
@@ -835,10 +842,11 @@ For sole reply Daniel gave him a shy, childlike, meek, and amiable
 smile.
 
 
-
+.. _ref-2600-b7-ch6:
 
 
 CHAPTER VI
+----------
 
 The old count went home, and Natásha and Pétya promised to return very
 soon, but as it was still early the hunt went farther. At midday
@@ -1121,9 +1129,11 @@ deigned to speak to him.
 
 
 
+.. _ref-2600-b7-ch7:
 
 
 CHAPTER VII
+-----------
 
 Toward evening Ilágin took leave of Nicholas, who found that they were
 so far from home that he accepted “Uncle’s” offer that the hunting
@@ -1508,9 +1518,11 @@ darkness of the night.
 
 
 
+.. _ref-2600-b7-ch8:
 
 
 CHAPTER VIII
+------------
 
 Count Ilyá Rostóv had resigned the position of Marshal of the Nobility
 because it involved him in too much expense, but still his affairs
@@ -1634,9 +1646,11 @@ Things were not cheerful in the Rostóvs’ home.
 
 
 
+.. _ref-2600-b7-ch9:
 
 
 CHAPTER IX
+----------
 
 Christmas came and except for the ceremonial Mass, the solemn and
 wearisome Christmas congratulations from neighbors and servants, and the
@@ -1825,9 +1839,11 @@ their favorite corner where their most intimate talks always began.
 
 
 
+.. _ref-2600-b7-ch10:
 
 
 CHAPTER X
+---------
 
 “Does it ever happen to you,” said Natásha to her brother, when
 they settled down in the sitting room, “does it ever happen to you to
@@ -2218,9 +2234,11 @@ voices.
 
 
 
+.. _ref-2600-b7-ch11:
 
 
 CHAPTER XI
+----------
 
 Pelagéya Danílovna Melyukóva, a broadly built, energetic woman
 wearing spectacles, sat in the drawing room in a loose dress, surrounded
@@ -2408,9 +2426,11 @@ porch.
 
 
 
+.. _ref-2600-b7-ch12:
 
 
 CHAPTER XII
+-----------
 
 When they all drove back from Pelagéya Danílovna’s, Natásha, who
 always saw and noticed everything, arranged that she and Madame Schoss
@@ -2571,9 +2591,11 @@ gazing at the moonlight through the frosty windowpanes.
 
 
 
+.. _ref-2600-b7-ch13:
 
 
 CHAPTER XIII
+------------
 
 Soon after the Christmas holidays Nicholas told his mother of his love
 for Sónya and of his firm resolve to marry her. The countess, who
