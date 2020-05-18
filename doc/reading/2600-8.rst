@@ -1,13 +1,14 @@
-
+.. _ref-2600-b8:
 
 BOOK EIGHT: 1811 - 12
 ^^^^^^^^^^^^^^^^^^^^^
 
 
 
-
+.. _ref-2600-b8-ch1:
 
 CHAPTER I
+---------
 
 After Prince Andrew’s engagement to Natásha, Pierre without any
 apparent cause suddenly felt it impossible to go on living as before.
@@ -195,9 +196,10 @@ it!”
 
 
 
-
+.. _ref-2600-b8-ch2:
 
 CHAPTER II
+----------
 
 At the beginning of winter Prince Nicholas Bolkónski and his daughter
 moved to Moscow. At that time enthusiasm for the Emperor Alexander’s
@@ -331,9 +333,10 @@ herself.
 
 
 
-
+.. _ref-2600-b8-ch3:
 
 CHAPTER III
+-----------
 
 In 1811 there was living in Moscow a French doctor—Métivier—who had
 rapidly become the fashion. He was enormously tall, handsome, amiable
@@ -587,9 +590,10 @@ Following Rostopchín’s example the others also rose.
 
 
 
-
+.. _ref-2600-b8-ch4:
 
 CHAPTER IV
+----------
 
 Princess Mary as she sat listening to the old men’s talk and
 faultfinding, understood nothing of what she heard; she only wondered
@@ -728,9 +732,10 @@ old prince to her.
 
 
 
-
+.. _ref-2600-b8-ch5:
 
 CHAPTER V
+---------
 
 Borís had not succeeded in making a wealthy match in Petersburg, so
 with the same object in view he came to Moscow. There he wavered between
@@ -919,9 +924,10 @@ Petersburg, paid calls, and prepared everything for a brilliant wedding.
 
 
 
-
+.. _ref-2600-b8-ch6:
 
 CHAPTER VI
+----------
 
 At the end of January old Count Rostóv went to Moscow with Natásha and
 Sónya. The countess was still unwell and unable to travel but it was
@@ -1045,9 +1051,10 @@ them. Am I right or not? Won’t that be best?”
 
 
 
-
+.. _ref-2600-b8-ch7:
 
 CHAPTER VII
+-----------
 
 Next day, by Márya Dmítrievna’s advice, Count Rostóv took Natásha
 to call on Prince Nicholas Bolkónski. The count did not set out
@@ -1208,9 +1215,10 @@ and the other guests.
 
 
 
-
+.. _ref-2600-b8-ch8:
 
 CHAPTER VIII
+------------
 
 That evening the Rostóvs went to the Opera, for which Márya
 Dmítrievna had taken a box.
@@ -1377,9 +1385,10 @@ eager curiosity to the stage. Natásha too began to look at it.
 
 
 
-
+.. _ref-2600-b8-ch9:
 
 CHAPTER IX
+----------
 
 The floor of the stage consisted of smooth boards, at the sides was
 some painted cardboard representing trees, and at the back was a cloth
@@ -1575,9 +1584,10 @@ strange. She looked about with pleasure, smiling joyfully.
 
 
 
-
+.. _ref-2600-b8-ch10:
 
 CHAPTER X
+---------
 
 During the entr’acte a whiff of cold air came into Hélène’s box,
 the door opened, and Anatole entered, stooping and trying not to brush
@@ -1709,9 +1719,10 @@ tender smile of that bold handsome man when he pressed her arm.
 
 
 
-
+.. _ref-2600-b8-ch11:
 
 CHAPTER XI
+----------
 
 Anatole Kurágin was staying in Moscow because his father had sent him
 away from Petersburg, where he had been spending twenty thousand rubles
@@ -1814,9 +1825,10 @@ good-humored laugh.
 
 
 
-
+.. _ref-2600-b8-ch12:
 
 CHAPTER XII
+-----------
 
 The day after the opera the Rostóvs went nowhere and nobody came to see
 them. Márya Dmítrievna talked to the count about something which they
@@ -1948,9 +1960,10 @@ thoughts,” she added, addressing Natásha.
 
 
 
-
+.. _ref-2600-b8-ch13:
 
 CHAPTER XIII
+------------
 
 Count Rostóv took the girls to Countess Bezúkhova’s. There were
 a good many people there, but nearly all strangers to Natásha. Count
@@ -2086,9 +2099,10 @@ find an answer to these terrible questions.
 
 
 
-
+.. _ref-2600-b8-ch14:
 
 CHAPTER XIV
+-----------
 
 Morning came with its cares and bustle. Everyone got up and began
 to move about and talk, dressmakers came again. Márya Dmítrievna
@@ -2227,9 +2241,10 @@ remained at home.
 
 
 
-
+.. _ref-2600-b8-ch15:
 
 CHAPTER XV
+----------
 
 On returning late in the evening Sónya went to Natásha’s room, and
 to her surprise found her still dressed and asleep on the sofa. Open on
@@ -2503,9 +2518,10 @@ be disgraced,” thought she.
 
 
 
-
+.. _ref-2600-b8-ch16:
 
 CHAPTER XVI
+-----------
 
 Anatole had lately moved to Dólokhov’s. The plan for Natalie
 Rostóva’s abduction had been arranged and the preparations made by
@@ -2754,9 +2770,10 @@ us there in three hours! Only the near one died of it.”
 
 
 
-
+.. _ref-2600-b8-ch17:
 
 CHAPTER XVII
+------------
 
 Anatole went out of the room and returned a few minutes later wearing
 a fur coat girt with a silver belt, and a sable cap jauntily set on one
@@ -2886,9 +2903,10 @@ with him to the troyka.
 
 
 
-
+.. _ref-2600-b8-ch18:
 
 CHAPTER XVIII
+-------------
 
 Márya Dmítrievna, having found Sónya weeping in the corridor, made her
 confess everything, and intercepting the note to Natásha she read it and
@@ -3025,9 +3043,10 @@ delayed their return to the country.
 
 
 
-
+.. _ref-2600-b8-ch19:
 
 CHAPTER XIX
+-----------
 
 From the day his wife arrived in Moscow Pierre had been intending to go
 away somewhere, so as not to be near her. Soon after the Rostóvs came
@@ -3194,9 +3213,10 @@ they should leave her alone.
 
 
 
-
+.. _ref-2600-b8-ch20:
 
 CHAPTER XX
+----------
 
 Pierre did not stay for dinner, but left the room and went away at once.
 He drove through the town seeking Anatole Kurágin, at the thought of
@@ -3348,9 +3368,10 @@ Next day Anatole left for Petersburg.
 
 
 
-
+.. _ref-2600-b8-ch21:
 
 CHAPTER XXI
+-----------
 
 Pierre drove to Márya Dmítrievna’s to tell her of the fulfillment of her
 wish that Kurágin should be banished from Moscow. The whole house was in
@@ -3530,9 +3551,10 @@ the cause of which Pierre so well understood.
 
 
 
-
+.. _ref-2600-b8-ch22:
 
 CHAPTER XXII
+------------
 
 That same evening Pierre went to the Rostóvs’ to fulfill the commission
 entrusted to him. Natásha was in bed, the count at the club, and Pierre,
