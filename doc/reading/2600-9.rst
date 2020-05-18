@@ -1,12 +1,14 @@
+.. _ref-2600-b9:
 
 BOOK NINE: 1812
 ^^^^^^^^^^^^^^^
 
 
 
-
+.. _ref-2600-b9-ch1:
 
 CHAPTER I
+---------
 
 From the close of the year 1811 intensified arming and concentrating of
 the forces of Western Europe began, and in 1812 these forces—millions
@@ -183,9 +185,11 @@ history and predestined from eternity.
 
 
 
+.. _ref-2600-b9-ch2:
 
 
 CHAPTER II
+----------
 
 On the twenty-ninth of May Napoleon left Dresden, where he had spent
 three weeks surrounded by a court that included princes, dukes, kings,
@@ -337,9 +341,11 @@ Quos vult perdere dementat. *
 
 
 
+.. _ref-2600-b9-ch3:
 
 
 CHAPTER III
+-----------
 
 The Emperor of Russia had, meanwhile, been in Vílna for more than a
 month, reviewing troops and holding maneuvers. Nothing was ready for the
@@ -492,9 +498,11 @@ I am, etc.,
 
 
 
+.. _ref-2600-b9-ch4:
 
 
 CHAPTER IV
+----------
 
 At two in the morning of the fourteenth of June, the Emperor, having
 sent for Balashëv and read him his letter to Napoleon, ordered him to
@@ -672,9 +680,11 @@ Davout.
 
 
 
+.. _ref-2600-b9-ch5:
 
 
 CHAPTER V
+---------
 
 Davout was to Napoleon what Arakchéev was to Alexander—though not a
 coward like Arakchéev, he was as precise, as cruel, and as unable to
@@ -776,9 +786,11 @@ house in Vílna from which Alexander had dispatched him on his mission.
 
 
 
+.. _ref-2600-b9-ch6:
 
 
 CHAPTER VI
+----------
 
 Though Balashëv was used to imperial pomp, he was amazed at the luxury
 and magnificence of Napoleon’s court.
@@ -1070,9 +1082,11 @@ rushed forward and descended the staircase.
 
 
 
+.. _ref-2600-b9-ch7:
 
 
 CHAPTER VII
+-----------
 
 After all that Napoleon had said to him—those bursts of anger and the
 last dryly spoken words: “I will detain you no longer, General; you
@@ -1219,9 +1233,11 @@ and the war began....
 
 
 
+.. _ref-2600-b9-ch8:
 
 
 CHAPTER VIII
+------------
 
 After his interview with Pierre in Moscow, Prince Andrew went to
 Petersburg, on business as he told his family, but really to meet
@@ -1463,9 +1479,11 @@ Prince Andrew’s mind.
 
 
 
+.. _ref-2600-b9-ch9:
 
 
 CHAPTER IX
+----------
 
 Prince Andrew reached the general headquarters of the army at the end of
 June. The first army, with which was the Emperor, occupied the fortified
@@ -1733,9 +1751,11 @@ a pretext for quitting the army.
 
 
 
+.. _ref-2600-b9-ch10:
 
 
 CHAPTER X
+---------
 
 This letter had not yet been presented to the Emperor when Barclay, one
 day at dinner, informed Bolkónski that the sovereign wished to see him
@@ -1867,9 +1887,11 @@ voice were at once heard from there.
 
 
 
+.. _ref-2600-b9-ch11:
 
 
 CHAPTER XI
+----------
 
 Prince Andrew’s eyes were still following Pfuel out of the room when
 Count Bennigsen entered hurriedly, and nodding to Bolkónski, but not
@@ -2064,9 +2086,11 @@ for permission to serve in the army.
 
 
 
+.. _ref-2600-b9-ch12:
 
 
 CHAPTER XII
+-----------
 
 Before the beginning of the campaign, Rostóv had received a letter from
 his parents in which they told him briefly of Natásha’s illness and the
@@ -2238,9 +2262,11 @@ that was occasionally rent by distant lightning.
 
 
 
+.. _ref-2600-b9-ch13:
 
 
 CHAPTER XIII
+------------
 
 In the tavern, before which stood the doctor’s covered cart, there were
 already some five officers. Mary Hendríkhovna, a plump little blonde
@@ -2371,9 +2397,11 @@ resumed, to the accompaniment of unreasoning, merry, childlike laughter.
 
 
 
+.. _ref-2600-b9-ch14:
 
 
 CHAPTER XIV
+-----------
 
 It was nearly three o’clock but no one was yet asleep, when the
 quartermaster appeared with an order to move on to the little town
@@ -2506,9 +2534,11 @@ be seen.
 
 
 
+.. _ref-2600-b9-ch15:
 
 
 CHAPTER XV
+----------
 
 Rostóv, with his keen sportsman’s eye, was one of the first to catch
 sight of these blue French dragoons pursuing our Uhlans. Nearer and
@@ -2628,9 +2658,11 @@ battalion, and when a brave officer was needed he was chosen.
 
 
 
+.. _ref-2600-b9-ch16:
 
 
 CHAPTER XVI
+-----------
 
 On receiving news of Natásha’s illness, the countess, though not quite
 well yet and still weak, went to Moscow with Pétya and the rest of the
@@ -2740,9 +2772,11 @@ and she began to recover physically.
 
 
 
+.. _ref-2600-b9-ch17:
 
 
 CHAPTER XVII
+------------
 
 Natásha was calmer but no happier. She not merely avoided all external
 forms of pleasure—balls, promenades, concerts, and theaters—but she
@@ -2872,9 +2906,11 @@ nails and spat a little for luck as she returned to the drawing room.
 
 
 
+.. _ref-2600-b9-ch18:
 
 
 CHAPTER XVIII
+-------------
 
 At the beginning of July more and more disquieting reports about the war
 began to spread in Moscow; people spoke of an appeal by the Emperor to
@@ -3077,9 +3113,11 @@ that God heard her prayer.
 
 
 
+.. _ref-2600-b9-ch19:
 
 
 CHAPTER XIX
+-----------
 
 From the day when Pierre, after leaving the Rostóvs’ with Natásha’s
 grateful look fresh in his mind, had gazed at the comet that seemed to
@@ -3229,9 +3267,11 @@ anything, but wait for what was bound to come to pass.
 
 
 
+.. _ref-2600-b9-ch20:
 
 
 CHAPTER XX
+----------
 
 A few intimate friends were dining with the Rostóvs that day, as usual
 on Sundays.
@@ -3536,9 +3576,11 @@ Pierre made up his mind not to go to the Rostóvs’ any more.
 
 
 
+.. _ref-2600-b9-ch21:
 
 
 CHAPTER XXI
+-----------
 
 After the definite refusal he had received, Pétya went to his room
 and there locked himself in and wept bitterly. When he came in to tea,
@@ -3754,9 +3796,11 @@ there would be least danger.
 
 
 
+.. _ref-2600-b9-ch22:
 
 
 CHAPTER XXII
+------------
 
 Two days later, on the fifteenth of July, an immense number of carriages
 were standing outside the Slobóda Palace.
@@ -3984,9 +4028,11 @@ one man.
 
 
 
+.. _ref-2600-b9-ch23:
 
 
 CHAPTER XXIII
+-------------
 
 At that moment Count Rostopchín with his protruding chin and alert eyes,
 wearing the uniform of a general with sash over his shoulder, entered
