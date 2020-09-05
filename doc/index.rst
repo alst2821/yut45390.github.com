@@ -69,7 +69,6 @@ are too old.
    bookmarks
    broadband
    calendar
-   chinese-links
    philosophy
    reading/bolivia
    reading/books
@@ -81,9 +80,6 @@ are too old.
    recipe
    spanish
    stoicism
-   twitter
-   twitter1
-   twitter2
    videos
 
 .. toctree::
@@ -91,7 +87,7 @@ are too old.
    :caption: War and Peace
 
    reading/2600
-
+https://www.unixtutorial.org/how-to-inspect-ssh-key-fingerprints/
 
 Indices and tables
 ==================
