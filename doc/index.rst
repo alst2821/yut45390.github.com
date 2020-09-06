@@ -49,7 +49,6 @@ are too old.
    emacs/emacs
    emacs/magit
    emacs/windows-compilation
-   git
    haskell
    minecraft
    macports
