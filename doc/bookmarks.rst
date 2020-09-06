@@ -4,6 +4,18 @@
 Bookmarks
 =========
 
+These are some links to chinese related content
+
+* Baidu_
+* `LINE Dict`_ Chinese-English Dictionary 
+* Wenxuecity_
+
+.. _Baidu: http://www.baidu.com/index.php
+.. _`LINE Dict`: https://dict.naver.com/linedict/zhendict/dict.html
+.. _Wenxuecity: http://www.wenxuecity.com/
+
+
+
 Bookmarks set:
 
 * `Set 1`_
@@ -35,10 +47,3 @@ Bookmarks set:
 .. _more: ../../old/more-links.html
 .. _roobarb1: ../../old/roobarb1.html
 
-* Baidu_
-* `LINE Dict`_ Chinese-English Dictionary 
-* Wenxuecity_
-
-.. _Baidu: http://www.baidu.com/index.php
-.. _`LINE Dict`: https://dict.naver.com/linedict/zhendict/dict.html
-.. _Wenxuecity: http://www.wenxuecity.com/

@@ -43,14 +43,15 @@ are too old.
    :maxdepth: 1
    :caption: Other computing related content
 
+   computing
    documentation
    docutils
    emacs/emacs
    emacs/magit
    emacs/windows-compilation
-   epics
    git
    haskell
+   minecraft
    macports
    python
    pyqt
@@ -58,7 +59,7 @@ are too old.
    make
    osx
    rust
-   minecraft
+   ssh
 
 .. toctree::
    :maxdepth: 2
@@ -70,6 +71,7 @@ are too old.
    broadband
    calendar
    philosophy
+   psychology
    reading/bolivia
    reading/books
    reading/computing
@@ -80,6 +82,7 @@ are too old.
    recipe
    spanish
    stoicism
+   television
    videos
 
 .. toctree::
@@ -87,7 +90,7 @@ are too old.
    :caption: War and Peace
 
    reading/2600
-https://www.unixtutorial.org/how-to-inspect-ssh-key-fingerprints/
+
 
 Indices and tables
 ==================
