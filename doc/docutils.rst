@@ -39,9 +39,15 @@ the :ref: keyword. This is documented as part of Sphinx here_.
 
 .. _`generate links and tables`:
    http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
-
+   
 .. _here: http://www.sphinx-doc.org/en/master/usage/restructuredtext/roles.html#ref-role
 
+How to make a table
+-------------------
+
+Use the `list-table directive`_.
+
+.. _`list-table directive`: https://docutils.sourceforge.io/docs/ref/rst/directives.html#list-table
 
 The way to generate link is to use the "``_``" character next to the
 relevant text.  For example ``reference_``. Then a section below

@@ -67,8 +67,8 @@ are too old.
 
    biology
    bookmarks
-   broadband
-   calendar
+   english
+   french
    philosophy
    psychology
    reading/bolivia
@@ -81,7 +81,7 @@ are too old.
    recipe
    spanish
    stoicism
-   television
+   uk
    videos
 
 .. toctree::

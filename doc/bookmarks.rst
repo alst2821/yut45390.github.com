@@ -15,7 +15,6 @@ These are some links to chinese related content
 .. _Wenxuecity: http://www.wenxuecity.com/
 
 
-
 Bookmarks set:
 
 * `Set 1`_
