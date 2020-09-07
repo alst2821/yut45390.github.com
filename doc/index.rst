@@ -69,6 +69,8 @@ are too old.
    bookmarks
    english
    french
+   gardel
+   music
    philosophy
    psychology
    reading/bolivia
@@ -79,6 +81,7 @@ are too old.
    reading/review
    reading/2600-notes
    recipe
+   roman_castillo
    spanish
    stoicism
    uk
