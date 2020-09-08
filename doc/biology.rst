@@ -70,3 +70,51 @@ recipient in 1978).  "Proton motive force".
 Voltage of -200 mV across the membrane of the mitochondria.
 
 Non-shivering thermo-genesis in babies.
+
+Other lectures
+^^^^^^^^^^^^^^
+
+Lecture by Nick Lane at Royal Institution (video, 2015) -
+`Why is Life the way it is? <https://www.youtube.com/watch?v=gLcWfecmZhE>`_
+
+Lecture by Matthew Cobb (Manchester) at the Royal Institution -
+`The race to crack the genetic code <https://www.youtube.com/watch?v=MYxASuEqMlY>`_
+
+`Lecture by Michael Russell (2012) (youtube) <https://www.youtube.com/watch?v=PWWRc19A9oA>`_
+
+References (2:55) Lane et al. 2010 BioEssays **32**, 271;
+
+based on Russell et al. 1994, JME, **39**, 231
+
+Nitschke and Russell, 2009, JME, **69**, 481
+
+Russell 2003, Science **302**, 580
+
+Seewald et al. 2006 GCA **70**, 446
+
+"Lost city" discovery, Kelley at al. 2001, Nature **412**, 145
+
+Science 2005, **307**, 1428-1434
+
+Martin et al, 2008, Nature Microbiol. Rev. **6**, 805-814
+
+Maden 2000, "The reason there is life",  Biochemistry Journal, **350**, 609
+
+Yung et al, 2010, J. Cosmol. **5**, 1121
+
+Laboratory simulation of an alkaline seepage into acidulous ocean. (
+8:44 into the talk)
+
+Mielke at al. Astrobiol, **10**, 799
+
+Uses molibdenum or tungsten.
+
+"The rocky roots of the Acetyl-Coenzyme-A Pathway"
+
+10:00 - references Russell and Martin, 2004, TIBS **29**, 358-363,
+
+Nitschke and Russel, 2009, JME, **69**, 481-496
+
+
+Origin of life through convection and serpentinization
+- `Michael Russell talk (SETI Talks) 9 April 2013 (youtube) <https://www.youtube.com/watch?v=mW5XI1KCWLE>`_

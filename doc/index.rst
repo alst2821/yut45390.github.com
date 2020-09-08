@@ -60,6 +60,7 @@ are too old.
    :caption: Non-computing related content
 
 
+   astronomy
    biology
    bookmarks
    english
@@ -78,6 +79,7 @@ are too old.
    recipe
    roman_castillo
    spanish
+   stationery
    stoicism
    uk
    videos
