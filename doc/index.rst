@@ -16,8 +16,6 @@ This was originally in `other linux`_ page.
 
 .. _`other linux`: https://sites.google.com/site/thelinux2017/
 
-I use emacs as an editor and I created a page with some :ref:`notes <ref-emacs>` too.
-
 I used to host a set of bookmarks in this site, but most of the
 :ref:`bookmarks <ref-bookmarks>` are already unavailable, because they
 are too old.
@@ -46,9 +44,6 @@ are too old.
    computing
    documentation
    docutils
-   emacs/emacs
-   emacs/magit
-   emacs/windows-compilation
    haskell
    minecraft
    macports
