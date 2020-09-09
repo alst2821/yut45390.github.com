@@ -32,6 +32,7 @@ are too old.
    centos/emacs-rpm
    debian
    fedora/fedora
+   fedora/mock
    fedora/packaging
    fedora/package-review
    fedora/vnc

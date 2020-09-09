@@ -13,7 +13,7 @@ early BSD/Linux developments.  For example one `from 2014
 <http://landley.net/notes-2014.html#04-09-2014>`_ [#f2]_ which
 discusses the motivation of systemd.
 
-
+* `The linux kernel user's and administrator's guide <https://www.kernel.org/doc/html/latest/admin-guide/index.html>`_ (kernel.org)
 
 .. rubric:: Footnotes
 	    
