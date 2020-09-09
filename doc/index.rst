@@ -8,6 +8,9 @@ Welcome to yut's documentation!
 
 This is a documentation static site generated using `sphinx <http://www.sphinx-doc.org/>`_.
 
+.. image:: flower.jpg
+   :scale: 50%
+
 I talk a little bit about :ref:`python <ref-python>` and
 :ref:`re-structured text <ref-docutils>`.
 
