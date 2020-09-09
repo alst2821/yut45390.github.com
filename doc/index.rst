@@ -66,6 +66,7 @@ are too old.
    english
    french
    gardel
+   greek
    music
    philosophy
    psychology
