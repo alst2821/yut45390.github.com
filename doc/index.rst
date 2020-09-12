@@ -30,13 +30,11 @@ are too old.
 
    centos/centos
    centos/emacs-rpm
-   debian
    fedora/fedora
    fedora/mock
    fedora/packaging
    fedora/package-review
    fedora/vnc
-   linux
    bash
    software
    virtual-machine
