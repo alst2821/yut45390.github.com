@@ -8,9 +8,9 @@ Docutils is independent of `Sphinx <http://www.sphinx-doc.org/>`_.
 
 .. _Sphinx: http://www.sphinx-doc.org/
 
-Sphinx is used to create documentation for :ref:`Python
-<ref-python>`. It builds from the reStructuredText format used by
-docutils and is used to create many important bodies of documentation.
+Sphinx is used to create documentation for Python. It builds from the
+reStructuredText format used by docutils and is used to create many
+important bodies of documentation.
 
 For my application, I only want to create a static website with
 entries and links. I had been using google sites, but I am now not

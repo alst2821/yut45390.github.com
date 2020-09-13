@@ -49,13 +49,10 @@ are too old.
    haskell
    minecraft
    macports
-   python
    pyqt
    matplotlib
    make
    osx
-   rust
-   ssh
 
 .. toctree::
    :maxdepth: 2
