@@ -44,6 +44,8 @@ are too old.
    astronomy
    biology
    bookmarks
+   calories
+   classics
    english
    french
    gardel

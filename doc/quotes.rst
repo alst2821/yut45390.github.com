@@ -6,3 +6,9 @@ Quote collection
 | If you are in peace, you are living in the present.
 |            Attributed to `Lao Tzu <https://en.wikipedia.org/wiki/Laozi>`_ (6th century BC)
 
+
+| You have power over your mind, not outside events. Realise this and you will find strength.
+|            `Marcus Aurelius <https://en.wikipedia.org/wiki/Marcus_Aurelius>`_ (121 to 180 AD)
+
+
+
