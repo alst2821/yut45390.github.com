@@ -11,10 +11,7 @@ This is a documentation static site generated using `sphinx <http://www.sphinx-d
 .. image:: flower.jpg
    :scale: 50%
 
-I talk a little bit about :ref:`python <ref-python>` and
-:ref:`re-structured text <ref-docutils>`.
-
-I also keep documentation about :ref:`Fedora <ref-fedora>` and other linux material.
+I also keep (a little) documentation about Fedora and other linux material.
 This was originally in `other linux`_ page.
 
 .. _`other linux`: https://sites.google.com/site/thelinux2017/
@@ -28,17 +25,9 @@ are too old.
    :maxdepth: 1
    :caption: Linux related content
 
-   centos/centos
-   centos/emacs-rpm
-   fedora/fedora
-   fedora/mock
-   fedora/packaging
    fedora/package-review
-   fedora/vnc
-   bash
-   software
-   virtual-machine
 
+              
 .. toctree::
    :maxdepth: 1
    :caption: Other computing related content
@@ -46,13 +35,6 @@ are too old.
    computing
    documentation
    docutils
-   haskell
-   minecraft
-   macports
-   pyqt
-   matplotlib
-   make
-   osx
 
 .. toctree::
    :maxdepth: 2
@@ -69,6 +51,7 @@ are too old.
    music
    philosophy
    psychology
+   quotes
    reading/bolivia
    reading/books
    reading/computing
