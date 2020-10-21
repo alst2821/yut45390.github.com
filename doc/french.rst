@@ -72,3 +72,17 @@ La mer `(video link) <https://www.youtube.com/watch?v=PXQh9jTwwoA>`_ Charles Tre
   et d'une chanson d'amour,
   la mer
   a bercé mon cœur pour la vie.
+
+Special characters in French (using a Mac)
+------------------------------------------
+
+From `thoughtco <https://www.thoughtco.com/how-to-type-french-accents-1372770>`_ (Nov 2020)::
+
+
+
+    acute accent  é   Hold option key and e then e
+    grave accent  à, è, ù   Hold option key and ` then a, e, or u
+    cedilla  ç   Hold option key and c
+    circumflex  â, ê, î, ô, û   Hold option key and i then a, e, i, o, or u
+    tréma  ë, ï, ü   Hold option key and u then e, i, or u
+    oe ligature  œ   Hold option key and q
