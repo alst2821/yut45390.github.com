@@ -31,6 +31,8 @@ Channel guide originally from `TV channel guide
      - Dave
    * - 115
      - BBC One HD
+   * - 116
+     - BBC Four HD
    * - 118
      - ITV2
    * - 119
@@ -70,49 +72,61 @@ Channel guide originally from `TV channel guide
    * - 149
      - Quest Red
    * - 150
-     - 5Spike
-   * - 151
-     - Challenge
-   * - 152
-     - Pick
-   * - 153
      - Paramount
+   * - 153
+     - 5Select
+   * - 155
+     - Yesterday
    * - 157
      - Sony Channel
    * - 158
-     - Home
+     - HGTV
    * - 159
-     - 5SELECT
+     - Pick
+   * - 160
+     - Challenge
+   * - 164
+     - Blaze
    * - 169
      - BBC ALBA
+   * - 170
+     - Together
+   * - 171
+     - Smithsonian HD
+   * - 172
+     - DMAX
    * - 173
      - BET:BlackEntTv
-   * - 178
-     - Travel Channel
+   * - 174
+     - PBS America
+   * - 175
+     - Live 360
    * - 179
-     - Sony Crime
+     - Court TV
    * - 181
      - Forces TV
    * - 182
-     - GN TV
+     - Channel 7
    * - 184
-     - Horse & Country
+     - Hi-Impact TV
    * - 185
      - Travelxp
-   * - 189
-     - Fascination TV
+   * - 186
+     - YANGA!
    * - 191
      - mytv
    * - 192
      - Showcase
    * - 193
      - Vox Africa
-   * - 199
-     - Cruise Channel
+   * - 203
+     - ITV+1
    * - 204
      - Channel 4+1
    * - 205
      - Channel 5+1
+   * - 211
+     - Dave ja vu
    * - 218
      - ITV2+1
    * - 219
@@ -156,7 +170,43 @@ Channel guide originally from `TV channel guide
    * - 456
      - ABN TV
    * - 457
-     - BBC Scotland
+     - BBC Scotland HD
+   * - 458
+     - BEN
+   * - 501
+     - Sky News
+   * - 502
+     - Bloomberg HD
+   * - 503
+     - BBC NEWS HD
+   * - 504
+     - BC Parliament
+   * - 505
+     - CNBC HD
+   * - 506
+     - CNN HD
+   * - 507
+     - NHK World HD
+   * - 508
+     - Euronews
+   * - 509
+     - CGTN HD
+   * - 510
+     - NDTV 24x7
+   * - 511
+     - RT HD
+   * - 512
+     - France 24 HD
+   * - 513
+     - Al Jazeera HD
+   * - 515
+     - TVC News
+   * - 607
+     - CBBC HD
+   * - 608
+     - CBeebies HD
+   * - 612
+     - CITV
    * - 802
      - BBC Two HD
    * - 804
