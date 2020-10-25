@@ -163,12 +163,36 @@ Channel guide originally from `TV channel guide
      - Sony Channel+1
    * - 279
      - Sony Crime+1
-   * - 453
-     - YANGA!
-   * - 454
-     - AIT Int'l
-   * - 456
-     - ABN TV
+   * - 313
+     - Film4
+   * - 314
+     - Film4+1
+   * - 315
+     - TCM Movies
+   * - 316
+     - TCM Movies+1
+   * - 317
+     - horror channel
+   * - 318
+     - horror ch+1
+   * - 319
+     - Sony Christmas
+   * - 320
+     - Sony Xmas+1
+   * - 321
+     - Sony Movies
+   * - 322
+     - Sony Movies+1
+   * - 323
+     - Sony Action
+   * - 324
+     - Sony Action+1
+   * - 327
+     - Retro Movies
+   * - 328
+     - TalkingPictures
+   * - 329
+     - ROK
    * - 457
      - BBC Scotland HD
    * - 458
@@ -201,6 +225,16 @@ Channel guide originally from `TV channel guide
      - Al Jazeera HD
    * - 515
      - TVC News
+   * - 516
+     - TRT World HD
+   * - 518
+     - Channels 24
+   * - 519
+     - Arise News
+   * - 522
+     - Arirang TV HD
+   * - 580
+     - GOD Channel#
    * - 607
      - CBBC HD
    * - 608
@@ -259,36 +293,6 @@ Channel guide originally from `TV channel guide
      - BBC Two Wal HD
    * - 981
      - BBC RB 1
-   * - 313
-     - Film4
-   * - 314
-     - Film4+1
-   * - 315
-     - TCM Movies
-   * - 316
-     - TCM Movies+1
-   * - 317
-     - horror channel
-   * - 318
-     - horror ch+1
-   * - 319
-     - Sony Christmas
-   * - 320
-     - Sony Xmas+1
-   * - 321
-     - Sony Movies
-   * - 322
-     - Sony Movies+1
-   * - 323
-     - Sony Action
-   * - 324
-     - Sony Action+1
-   * - 327
-     - Retro Movies
-   * - 328
-     - TalkingPictures
-   * - 329
-     - ROK
    * - 843
      - SkySuperheroHD
    * - 844
@@ -412,29 +416,23 @@ Channel guide originally from `TV channel guide
    * - 359
      - The Box
    * - 360
-     - Box Hits
-   * - 361
      - KISS
-   * - 362
+   * - 361
      - Magic
-   * - 363
+   * - 362
      - Kerrang!
    * - 364
-     - Chart Show TV
+     - Trace XMAS
    * - 365
-     - The Vault
-   * - 366
-     - Chart Show Hits
+     - Trace Vault
    * - 368
-     - NOW 90s
-   * - 369
-     - Christmas Starz
+     - NOW 70s
    * - 371
      - NOW 80s
    * - 372
-     - Clubland TV
+     - NOW 90s
    * - 373
-     - Total Country
+     - Clubland TV
    * - 376
      - Spotlight TV
    * - 660
