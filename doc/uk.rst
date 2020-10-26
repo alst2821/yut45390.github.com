@@ -39,6 +39,8 @@ Channel guide originally from `TV channel guide
      - ITV3
    * - 120
      - ITV4
+   * - 121
+     - Sky Crime
    * - 128
      - 5STAR
    * - 131
@@ -76,7 +78,7 @@ Channel guide originally from `TV channel guide
    * - 153
      - 5Select
    * - 155
-     - Yesterday
+     - YESTERDAY
    * - 157
      - Sony Channel
    * - 158
@@ -85,6 +87,8 @@ Channel guide originally from `TV channel guide
      - Pick
    * - 160
      - Challenge
+   * - 163
+     - History2
    * - 164
      - Blaze
    * - 169
@@ -113,12 +117,18 @@ Channel guide originally from `TV channel guide
      - Travelxp
    * - 186
      - YANGA!
+   * - 187
+     - BLAZE
    * - 191
      - mytv
    * - 192
      - Showcase
    * - 193
      - Vox Africa
+   * - 194
+     - Together
+   * - 195
+     - Smithsonian
    * - 203
      - ITV+1
    * - 204
@@ -133,6 +143,8 @@ Channel guide originally from `TV channel guide
      - ITV3+1
    * - 220
      - ITV4+1
+   * - 221
+     - Sky Crime+1
    * - 228
      - 5STAR+1
    * - 231
@@ -159,6 +171,8 @@ Channel guide originally from `TV channel guide
      - Challenge+1
    * - 252
      - Pick+1
+   * - 255
+     - YESTERDAY+1
    * - 257
      - Sony Channel+1
    * - 279
@@ -193,10 +207,48 @@ Channel guide originally from `TV channel guide
      - TalkingPictures
    * - 329
      - ROK
+   * - 358
+     - Box Upfront
+   * - 359
+     - The Box
+   * - 360
+     - KISS
+   * - 361
+     - Magic
+   * - 362
+     - Kerrang!
+   * - 364
+     - Trace XMAS
+   * - 365
+     - Trace Vault
+   * - 368
+     - NOW 70s
+   * - 371
+     - NOW 80s
+   * - 372
+     - NOW 90s
+   * - 373
+     - Clubland TV
+   * - 376
+     - Spotlight TV
+   * - 415
+     - SkySp Racing
+   * - 422
+     - FreeSports HD
+   * - 426
+     - Racing TV
+   * - 429
+     - Premier 2 HD
+   * - 431
+     - FrontRunner
    * - 457
      - BBC Scotland HD
    * - 458
      - BEN
+   * - 490
+     - BTSptBoxOffHD
+   * - 493
+     - ITV Box Off HD
    * - 501
      - Sky News
    * - 502
@@ -234,159 +286,41 @@ Channel guide originally from `TV channel guide
    * - 522
      - Arirang TV HD
    * - 580
-     - GOD Channel#
+     - GOD Channel
+   * - 581
+     - revelation
+   * - 582
+     - TBN UK
+   * - 583
+     - DAYSTAR HD
+   * - 584
+     - Inspiration TV
+   * - 585
+     - LoveWorld HD
+   * - 586
+     - Gospel Channel
+   * - 588
+     - EWTN Catholic
+   * - 589
+     - Faith World TV
+   * - 590
+     - KICC TV
+   * - 593
+     - SonLife
+   * - 594
+     - Faith UK
+   * - 595
+     - Hillsong
+   * - 596
+     - Good News TV
+   * - 597
+     - Dunamis TV
    * - 607
      - CBBC HD
    * - 608
      - CBeebies HD
    * - 612
      - CITV
-   * - 802
-     - BBC Two HD
-   * - 804
-     - Channel 4 HD
-   * - 828
-     - S4C HD
-   * - 876
-     - BBCScotlandHD
-   * - 951
-     - BBC One Scot
-   * - 952
-     - BBC One Wales
-   * - 953
-     - BBC One NI
-   * - 955
-     - BBC One NE&C
-   * - 956
-     - BBC One Yorks
-   * - 957
-     - BBC One Yk&Li
-   * - 958
-     - BBC One N West
-   * - 959
-     - BBC One W Mid
-   * - 960
-     - BBC One E Mid
-   * - 961
-     - BBC One East E
-   * - 962
-     - BBC One East W
-   * - 963
-     - BBC One S East
-   * - 964
-     - BBC One South
-   * - 965
-     - BBC One Oxford
-   * - 966
-     - BBC One West
-   * - 967
-     - BBC One S West
-   * - 971
-     - BBC Two Wales
-   * - 972
-     - BBC Two NI
-   * - 978
-     - BBC One Wal HD
-   * - 979
-     - BBC One NI HD
-   * - 980
-     - BBC Two Wal HD
-   * - 981
-     - BBC RB 1
-   * - 843
-     - SkySuperheroHD
-   * - 844
-     - Sky Hits HD
-   * - 845
-     - Sky Fi HD
-   * - 847
-     - Sky Family HD
-   * - 415
-     - SkySp Racing
-   * - 422
-     - FreeSports HD
-   * - 426
-     - Racing TV
-   * - 429
-     - Premier 2 HD
-   * - 431
-     - FrontRunner
-   * - 490
-     - BTSptBoxOffHD
-   * - 493
-     - ITV Box Off HD
-   * - 874
-     - Racing TV HD
-   * - 888
-     - SkySp Racing HD
-   * - 501
-     - Sky News
-   * - 502
-     - Bloomberg HD
-   * - 503
-     - BBC NEWS
-   * - 504
-     - BBC Parliament
-   * - 505
-     - CNBC
-   * - 506
-     - CNN
-   * - 507
-     - NHK World HD
-   * - 508
-     - Euronews
-   * - 509
-     - CGTN
-   * - 510
-     - NDTV 24x7
-   * - 511
-     - RT
-   * - 512
-     - FRANCE 24 HD
-   * - 513
-     - Al Jazeera Eng
-   * - 515
-     - TVC News
-   * - 516
-     - TRT World
-   * - 518
-     - Channels 24
-   * - 519
-     - Arise News
-   * - 522
-     - Arirang TV HD
-   * - 877
-     - BBC NEWS HD
-   * - 878
-     - CNN HD
-   * - 879
-     - RT HD
-   * - 890
-     - CNBC HD
-   * - 891
-     - CGTN HD
-   * - 121
-     - Sky Crime
-   * - 155
-     - YESTERDAY
-   * - 163
-     - History2
-   * - 174
-     - PBS America
-   * - 187
-     - BLAZE
-   * - 194
-     - Together
-   * - 195
-     - Smithsonian
-   * - 221
-     - Sky Crime+1
-   * - 255
-     - YESTERDAY+1
-   * - 819
-     - Sky Crime HD
-   * - 889
-     - Smithsonian HD
    * - 613
      - CBBC
    * - 614
@@ -411,30 +345,6 @@ Channel guide originally from `TV channel guide
      - CBBC HD
    * - 647
      - CBeebies HD
-   * - 358
-     - Box Upfront
-   * - 359
-     - The Box
-   * - 360
-     - KISS
-   * - 361
-     - Magic
-   * - 362
-     - Kerrang!
-   * - 364
-     - Trace XMAS
-   * - 365
-     - Trace Vault
-   * - 368
-     - NOW 70s
-   * - 371
-     - NOW 80s
-   * - 372
-     - NOW 90s
-   * - 373
-     - Clubland TV
-   * - 376
-     - Spotlight TV
    * - 660
      - QVC
    * - 661
@@ -487,36 +397,6 @@ Channel guide originally from `TV channel guide
      - Sewing Quarter
    * - 688
      - Cruise1st.tv
-   * - 580
-     - GOD Channel
-   * - 581
-     - revelation
-   * - 582
-     - TBN UK
-   * - 583
-     - DAYSTAR HD
-   * - 584
-     - Inspiration TV
-   * - 585
-     - LoveWorld HD
-   * - 586
-     - Gospel Channel
-   * - 588
-     - EWTN Catholic
-   * - 589
-     - Faith World TV
-   * - 590
-     - KICC TV
-   * - 593
-     - SonLife
-   * - 594
-     - Faith UK
-   * - 595
-     - Hillsong
-   * - 596
-     - Good News TV
-   * - 597
-     - Dunamis TV
    * - 708
      - Republic Bharat
    * - 710
@@ -623,4 +503,82 @@ Channel guide originally from `TV channel guide
      - Record TV HD
    * - 793
      - Iran Int'l HD
+   * - 802
+     - BBC Two HD
+   * - 804
+     - Channel 4 HD
+   * - 819
+     - Sky Crime HD
+   * - 828
+     - S4C HD
+   * - 843
+     - SkySuperheroHD
+   * - 844
+     - Sky Hits HD
+   * - 845
+     - Sky Fi HD
+   * - 847
+     - Sky Family HD
+   * - 874
+     - Racing TV HD
+   * - 876
+     - BBCScotlandHD
+   * - 877
+     - BBC NEWS HD
+   * - 878
+     - CNN HD
+   * - 879
+     - RT HD
+   * - 888
+     - SkySp Racing HD
+   * - 889
+     - Smithsonian HD
+   * - 890
+     - CNBC HD
+   * - 891
+     - CGTN HD
+   * - 951
+     - BBC One Scot
+   * - 952
+     - BBC One Wales
+   * - 953
+     - BBC One NI
+   * - 955
+     - BBC One NE&C
+   * - 956
+     - BBC One Yorks
+   * - 957
+     - BBC One Yk&Li
+   * - 958
+     - BBC One N West
+   * - 959
+     - BBC One W Mid
+   * - 960
+     - BBC One E Mid
+   * - 961
+     - BBC One East E
+   * - 962
+     - BBC One East W
+   * - 963
+     - BBC One S East
+   * - 964
+     - BBC One South
+   * - 965
+     - BBC One Oxford
+   * - 966
+     - BBC One West
+   * - 967
+     - BBC One S West
+   * - 971
+     - BBC Two Wales
+   * - 972
+     - BBC Two NI
+   * - 978
+     - BBC One Wal HD
+   * - 979
+     - BBC One NI HD
+   * - 980
+     - BBC Two Wal HD
+   * - 981
+     - BBC RB 1
 
