@@ -11,6 +11,8 @@ TV Channel Free to view on SKY
 Channel guide originally from `TV channel guide
 <http://www.tvchannelguide.co.uk/fsfs.php>`_
 
+Tv listings from radio times at this `url <https://www.radiotimes.com/tv/tv-listings/>`_
+
 .. list-table:: 
    :header-rows: 1
    :widths: auto
