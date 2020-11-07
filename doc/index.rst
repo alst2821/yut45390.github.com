@@ -50,6 +50,7 @@ are too old.
    french
    gardel
    greek
+   hardware
    music
    philosophy
    psychology
@@ -67,6 +68,7 @@ are too old.
    stationery
    stoicism
    uk
+   various
    videos
 
 .. toctree::
