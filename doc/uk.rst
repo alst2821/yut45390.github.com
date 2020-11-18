@@ -6,6 +6,8 @@
 
 .. _`Bin zone`: http://www.whitehorsedc.gov.uk/binzone
 
+* `STFC (RAL) library <https://stfc.ent.sirsidynix.net.uk/>`_
+
 TV Channel Free to view on SKY
 
 Channel guide originally from `TV channel guide
