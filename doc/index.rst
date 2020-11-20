@@ -48,6 +48,7 @@ are too old.
    classics
    english
    french
+   gaming
    gardel
    greek
    hardware
