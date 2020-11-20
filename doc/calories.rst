@@ -2,6 +2,8 @@
  Calorie accounting
 ====================
 
+`tdee calculator <https://tdeecalculator.net/>`_
+
 70 gr - container
 920 gr with food
 
