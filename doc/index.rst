@@ -55,6 +55,7 @@ are too old.
    music
    philosophy
    poema1
+   pressure
    psychology
    quotes
    reading/bolivia
