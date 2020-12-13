@@ -44,6 +44,7 @@ are too old.
    astronomy
    biology
    bookmarks
+   books
    calories
    classics
    english
@@ -59,7 +60,6 @@ are too old.
    psychology
    quotes
    reading/bolivia
-   reading/books
    reading/computing
    reading/reading
    reading/science
