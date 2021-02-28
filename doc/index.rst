@@ -47,6 +47,7 @@ are too old.
    books
    calories
    classics
+   electronics
    english
    french
    gaming
