@@ -106,3 +106,7 @@ Here they are, in order:
     If you could choose the sex and physical appearance of your soon-to-be-born child, would you do it?
     Would you be willing to have horrible nightmares for a year if you would be rewarded with extraordinary wealth?
     While on a trip to another city, your spouse/lover meets and spends a night with an exciting stranger. Given that they will never meet again, and could never otherwise learn of the incident, would you want your partner to tell you about it?
+
+
+`Article in Wikipedia about Jean Piaget <https://en.wikipedia.org/wiki/Jean_Piaget>`_
+
