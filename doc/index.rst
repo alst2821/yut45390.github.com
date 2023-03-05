@@ -70,6 +70,7 @@ are too old.
    reading/2600-notes
    recipe
    roman_castillo
+   set1
    spanish
    stationery
    stoicism
