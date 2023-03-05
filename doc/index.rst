@@ -9,7 +9,7 @@ Welcome to yut's documentation!
 This is a documentation static site generated using `sphinx <http://www.sphinx-doc.org/>`_.
 
 .. image:: flower.jpg
-   :scale: 50%
+   :scale: 30%
 
 I also keep (a little) documentation about Fedora and other linux material.
 This was originally in `other linux`_ page.
@@ -55,6 +55,7 @@ are too old.
    gardel
    greek
    hardware
+   links
    music
    philosophy
    poema1
