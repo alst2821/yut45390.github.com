@@ -33,9 +33,9 @@ are too old.
    :maxdepth: 1
    :caption: Other computing related content
 
-   computing
    documentation
    docutils
+   rtems
 
 .. toctree::
    :maxdepth: 2
