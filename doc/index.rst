@@ -44,6 +44,7 @@ are too old.
 
    astronomy
    biology
+   bible
    bookmarks
    books
    calories
