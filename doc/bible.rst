@@ -51,3 +51,9 @@ Traducción argentina.
 5.
 `Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
 
+6.
+Bible Project Interview (2017) Audio in youtube
+`https://youtu.be/zV8FxEOLLmY <https://youtu.be/zV8FxEOLLmY>`_
+
+
+
