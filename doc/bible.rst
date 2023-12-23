@@ -45,6 +45,9 @@ Traducción argentina.
 `https://www.vatican.va/archive/ESL0506/_INDEX.HTM <https://www.vatican.va/archive/ESL0506/_INDEX.HTM>`_
 
 4.
-`Tim Mackie <https://www.youtube.com/@timmackiearchives6837>`_ from the Bible Project talks in 2017 about the making of the Bible.
+`Tim Mackie <https://bibleproject.com/tim-mackie/>`_ from the `Bible Project <https://bibleproject.com>`_ talks in 2017 about the making of the Bible.
 `link here <https://www.youtube.com/watch?v=eaqKzYJ151Y>`_
+
+5.
+`Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
 
