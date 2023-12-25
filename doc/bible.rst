@@ -29,31 +29,37 @@ Serie de vídeos sobre el Antiguo Testamento
 `Libros poéticos y sapienciales <https://youtu.be/HWKauD5krtE>`_
 
 3.
-Del canal de la Fundación Juan March.
-
 Xabier Pikaza
 
 `Hermenéutica Bíblica parte I <https://youtu.be/YEPqrPgGd1s>`_
 
 `Hermenéutica Bíblica parte II <https://youtu.be/gOIu2ciPGUo>`_
 
-3.
+4.
+Del canal de la Fundación Juan March.
+José Luis Sicre
+Isaias
+
+5.
+New Testament History and Literature
+
+Dale B Martin
+`Playlist in youtube <https://www.youtube.com/playlist?list=PL279CFA55C51E75E0>`_
+
+6.
 La Biblia en html (del vaticano)
 
 Traducción argentina.
 
 `https://www.vatican.va/archive/ESL0506/_INDEX.HTM <https://www.vatican.va/archive/ESL0506/_INDEX.HTM>`_
 
-4.
+7.
 `Tim Mackie <https://bibleproject.com/tim-mackie/>`_ from the `Bible Project <https://bibleproject.com>`_ talks in 2017 about the making of the Bible.
 `link here <https://www.youtube.com/watch?v=eaqKzYJ151Y>`_
 
-5.
+8.
 `Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
 
-6.
+9.
 Bible Project Interview (2017) Audio in youtube
 `https://youtu.be/zV8FxEOLLmY <https://youtu.be/zV8FxEOLLmY>`_
-
-
-
