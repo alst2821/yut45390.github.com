@@ -56,15 +56,15 @@ Literature/Philosophy
     
     Dalrymple, Theodore: Life at the Bottom: The Worldview That Makes the Underclass
     
-    Dostoevesky, Fyodor: Crime and Punishment `(g) <http://gutenberg.org/ebooks/2554>`_
+    Dostoevesky, Fyodor: Crime and Punishment `(g1) <http://gutenberg.org/ebooks/2554>`_
     
-    Dostoevesky, Fyodor: Notes from Underground `(g) <http://gutenberg.org/ebooks/600>`_
+    Dostoevesky, Fyodor: Notes from Underground `(g2) <http://gutenberg.org/ebooks/600>`_
     
-    Dostoevesky, Fyodor: The Brothers Karamazov `(g) <http://gutenberg.org/ebooks/28054>`_
+    Dostoevesky, Fyodor: The Brothers Karamazov `(g3) <http://gutenberg.org/ebooks/28054>`_
     
-    Dostoevsky, Fyodor: The Devils `(g) <http://gutenberg.org/ebooks/8117>`_
+    Dostoevsky, Fyodor: The Devils `(g4) <http://gutenberg.org/ebooks/8117>`_
     
-    Dostoevsky, Fyodor: The Idiot `(g) <http://gutenberg.org/ebooks/2638>`_
+    Dostoevsky, Fyodor: The Idiot `(g5) <http://gutenberg.org/ebooks/2638>`_
     
     Golding, William: Lord of the Flies
     
@@ -98,15 +98,15 @@ Literature/Philosophy
     
     Lee, Harper: To Kill a Mockingbird
     
-    Nietzsche, Friedrich: Beyond Good and Evil `(g) <http://gutenberg.org/ebooks/4363>`_
+    Nietzsche, Friedrich: Beyond Good and Evil `(g6) <http://gutenberg.org/ebooks/4363>`_
     
     Nietzsche, Friedrich: On the Genealogy of Morals
     
-    Nietzsche, Friedrich: The Antichrist `(g) <http://gutenberg.org/ebooks/19322>`_
+    Nietzsche, Friedrich: The Antichrist `(g7) <http://gutenberg.org/ebooks/19322>`_
     
     Nietzsche, Friedrich: The Gay Science
     
-    Nietzsche, Friedrich: The Will to Power `(g) <http://gutenberg.org/ebooks/52914>`_
+    Nietzsche, Friedrich: The Will to Power `(g8) <http://gutenberg.org/ebooks/52914>`_
     
     Orwell, George: 1984
     
@@ -134,9 +134,9 @@ Literature/Philosophy
     
     Thompson, Hunter S: Fear and Loathing in Las Vegas
     
-    Tolstoy, Leo: Anna Karenina `(g) <http://gutenberg.org/ebooks/1399>`_
+    Tolstoy, Leo: Anna Karenina `(g9) <http://gutenberg.org/ebooks/1399>`_
     
-    Tolstoy, Leo: War and Peace `(g) <http://gutenberg.org/ebooks/2600>`_
+    Tolstoy, Leo: War and Peace `(g10) <http://gutenberg.org/ebooks/2600>`_
     
     Troyat, Henri: Tolstoy
     
@@ -152,9 +152,9 @@ Clinical Psychology and Psychiatry
     
     Frankl, Viktor: Man’s Search for Meaning
     
-    Freud, Sigmund: An Outline of Psychoanalysis `(g) <http://gutenberg.org/ebooks/38219>`_
+    Freud, Sigmund: An Outline of Psychoanalysis `(g11) <http://gutenberg.org/ebooks/38219>`_
     
-    Freud, Sigmund: The Interpretation of Dreams `(g) <http://gutenberg.org/ebooks/40739>`_
+    Freud, Sigmund: The Interpretation of Dreams `(g12) <http://gutenberg.org/ebooks/40739>`_
     
     Jung, Carl: Aion
     
