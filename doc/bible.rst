@@ -40,6 +40,7 @@ Del canal de la Fundación Juan March.
 José Luis Sicre
 Isaias
 
+
 5.
 New Testament History and Literature
 
@@ -63,3 +64,22 @@ Traducción argentina.
 9.
 Bible Project Interview (2017) Audio in youtube
 `https://youtu.be/zV8FxEOLLmY <https://youtu.be/zV8FxEOLLmY>`_
+
+List of authors in Tim Mackie's library:
+
+- Ray Lubeck
+- John Sailhamer
+- Adele Berlin
+- Brevard Childs
+- Morna D. Hooker
+- Karl Barth
+- Michael Fishbane
+- Abraham Heschel
+- Ellen F. Davis
+- Richard Bauckham
+- Robert Alter
+- J. Richard Middleton
+- Christopher J.H. Wright
+- Richard B. Hayes
+- N.T. Wright
+  
