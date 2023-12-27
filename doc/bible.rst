@@ -38,14 +38,14 @@ Serie de vídeos sobre el Antiguo Testamento
 
 `Libros poéticos y sapienciales <https://youtu.be/HWKauD5krtE>`_
 
-3.
+4.
 Xabier Pikaza
 
 `Hermenéutica Bíblica parte I <https://youtu.be/YEPqrPgGd1s>`_
 
 `Hermenéutica Bíblica parte II <https://youtu.be/gOIu2ciPGUo>`_
 
-4.
+5.
 Del canal de la Fundación Juan March.
 José Luis Sicre
 
@@ -53,12 +53,8 @@ José Luis Sicre
 
 `Elías <https://www.youtube.com/watch?v=MWmvTK5b1Jw&pp=ygUPam9zZSBsdWlzIHNpY3Jl>`_
 
+Rese
 
-5.
-New Testament History and Literature
-
-Dale B Martin
-`Playlist in youtube <https://www.youtube.com/playlist?list=PL279CFA55C51E75E0>`_
 
 6.
 La Biblia en html (del vaticano)
@@ -73,6 +69,8 @@ Traducción argentina.
 
 8.
 `Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
+
+See also more notes on the :ref:`bible project notes page. <ref-bible-project-notes>`
 
 9.
 Bible Project Interview (2017) Audio in youtube

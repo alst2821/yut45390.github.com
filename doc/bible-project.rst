@@ -1,3 +1,5 @@
+.. _ref-bible-project-notes: 
+
 Bible Project Notes
 -------------------
 
