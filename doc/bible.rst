@@ -10,6 +10,12 @@ All given via `youtube <https://www.youtube.com/playlist?list=PLh9mgdi4rNeyuvTEb
 
 The course materials from the link above include transcripts from the lectures.
 
+1a.
+Introduction to the New Testament History and Literature
+`Yale course by Dale B. Martin <https://oyc.yale.edu/religious-studies/rlst-152>`_
+
+Available from online.yale.edu
+
 2.
 Del canal `Fé Adulta <https://www.youtube.com/@feadultaescuela>`_ de youtube.
 
