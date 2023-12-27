@@ -3,20 +3,24 @@ Bible
 
 1.
 Introduction to the Old Testament (Hebrew Bible).
-Yale course by Christine Hayes:
 
-All given via `youtube <https://www.youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi>`_ and
-`online.yale.edu <https://oyc.yale.edu/religious-studies/rlst-145>`_
+Yale course `RLST-145 <https://oyc.yale.edu/religious-studies/rlst-145>`_ by Christine Hayes
 
-The course materials from the link above include transcripts from the lectures.
+online.yale.edu, including the transcripts of the lectures and bibliography, etc.
 
-1a.
-Introduction to the New Testament History and Literature
-`Yale course by Dale B. Martin <https://oyc.yale.edu/religious-studies/rlst-152>`_
+Youtube playlist `here <https://www.youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi>`_
+
+
+2.
+Introduction to the New Testament History and Literature.
+
+Yale course `RLST-152 <https://oyc.yale.edu/religious-studies/rlst-152>`_ by Dale B. Martin
 
 Available from online.yale.edu
 
-2.
+`Youtube playlist here <https://www.youtube.com/playlist?list=PL279CFA55C51E75E0>`_
+
+3.
 Del canal `Fé Adulta <https://www.youtube.com/@feadultaescuela>`_ de youtube.
 
 José Luis Sicre
@@ -44,7 +48,10 @@ Xabier Pikaza
 4.
 Del canal de la Fundación Juan March.
 José Luis Sicre
-Isaias
+
+`Isaias <https://www.youtube.com/watch?v=Ah0lJP-2N2k&pp=ygUPam9zZSBsdWlzIHNpY3Jl>`_
+
+`Elías <https://www.youtube.com/watch?v=MWmvTK5b1Jw&pp=ygUPam9zZSBsdWlzIHNpY3Jl>`_
 
 
 5.
