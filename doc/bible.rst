@@ -78,8 +78,7 @@ List of authors in Tim Mackie's library:
 - Ellen F. Davis
 - Richard Bauckham
 - Robert Alter
-- J. Richard Middleton
+- J.Richard Middleton
 - Christopher J.H. Wright
 - Richard B. Hayes
 - N.T. Wright
-  
