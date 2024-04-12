@@ -9,7 +9,7 @@
 
 * `Soundcloud <https://soundcloud.com/moby/lacrimae>`_
 
-    p0ai4kk321a
+    A0ai4kk321=a
 
 * `Naxos music library via Oxfordshire's Library Service <http://oxfordshire.naxosmusiclibrary.com/>`_
 
