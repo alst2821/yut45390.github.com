@@ -48,6 +48,7 @@ are too old.
    bible-project
    bookmarks
    books
+   books2
    calories
    classics
    electronics
@@ -59,6 +60,7 @@ are too old.
    hardware
    links
    music
+   naxos-albums
    philosophy
    poema1
    pressure
