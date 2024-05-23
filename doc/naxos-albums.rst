@@ -17,6 +17,9 @@
    * - 00743625098624
      - Orchestral
      - TERTERIAN, A.: Symphonies Nos. 3 and 4 (Armenian Philharmonic, Tjeknavorian)
+   * - CHSA5241
+     - Orchestral
+     - TERTERIAN, A.: Symphonies Nos. 3 and 4 (Aleksanyan, Hovanesian, Bournemouth Symphony, Karabits)
    * - CCLCDG1180
      - Choral
      - Vocal Music (Kyrie - Chant for Quiet Meditation) (Oxford Clerks, Le Basile)
@@ -68,4 +71,12 @@
    * - 0724357460354
      - Choral - secular
      - Popular choruses (Warner Classics)
-
+   * - MAR0503D
+     - Repertoire
+     - TCHAIKOVSKY, P.I.: 1812 Festival Overture / Moscow / Marche slave / Festival Coronation March (St. Petersburg Mariinsky Theatre Orchestra, Gergiev)
+   * - 00028947130024
+     - Repertoire
+     - GRIEG, E.: Orchestral Music (Complete) (Zilberstein, Buen, Andersson, Einarson, Stokke, Gothenburg Symphony, N. Järvi)
+   * - 5099996593455
+     - Orchestral
+     - GRIEG, E.: Peer Gynt / In Autumn Overture / Old Norwegian Melody with Variations (Royal Philharmonic, Beecham)
