@@ -65,4 +65,7 @@
    * - 196871864510
      - Orchestral
      - BEETHOVEN, L. van: Symphony No. 9, "Choral" (Kammerakademie Potsdam, Manacorda)
-  
+   * - 0724357460354
+     - Choral - secular
+     - Popular choruses (Warner Classics)
+
