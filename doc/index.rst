@@ -53,6 +53,7 @@ are too old.
    classics
    electronics
    english
+   finance
    french
    gaming
    gardel
