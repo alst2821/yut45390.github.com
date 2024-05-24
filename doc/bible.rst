@@ -2,6 +2,29 @@ Bible
 =====
 
 1.
+`Audio bible from Bible Gateway <https://www.biblegateway.com/resources/audio/>`_
+
+
+2.
+`La Biblia en el sitio web de la conferencia episcopal española <https://www.conferenciaepiscopal.es/biblia/>`_
+
+3.
+La Biblia en html (del vaticano)
+
+Traducción argentina.
+
+`https://www.vatican.va/archive/ESL0506/_INDEX.HTM <https://www.vatican.va/archive/ESL0506/_INDEX.HTM>`_
+
+4.
+`Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
+
+See also more notes on the :ref:`bible project notes page. <ref-bible-project-notes>`
+
+
+Cursos
+======
+
+1.
 Introduction to the Old Testament (Hebrew Bible).
 
 Yale course `RLST-145 <https://oyc.yale.edu/religious-studies/rlst-145>`_ by Christine Hayes
@@ -20,7 +43,7 @@ Available from online.yale.edu
 
 `Youtube playlist here <https://www.youtube.com/playlist?list=PL279CFA55C51E75E0>`_
 
-3.
+4.
 Del canal `Fé Adulta <https://www.youtube.com/@feadultaescuela>`_ de youtube.
 
 José Luis Sicre
@@ -55,22 +78,10 @@ José Luis Sicre
 
 Rese
 
-
-6.
-La Biblia en html (del vaticano)
-
-Traducción argentina.
-
-`https://www.vatican.va/archive/ESL0506/_INDEX.HTM <https://www.vatican.va/archive/ESL0506/_INDEX.HTM>`_
-
 7.
 `Tim Mackie <https://bibleproject.com/tim-mackie/>`_ from the `Bible Project <https://bibleproject.com>`_ talks in 2017 about the making of the Bible.
 `link here <https://www.youtube.com/watch?v=eaqKzYJ151Y>`_
 
-8.
-`Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
-
-See also more notes on the :ref:`bible project notes page. <ref-bible-project-notes>`
 
 9.
 Bible Project Interview (2017) Audio in youtube
