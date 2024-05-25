@@ -61,6 +61,7 @@ are too old.
    hardware
    links
    music
+   music-videos
    naxos-albums
    philosophy
    poema1

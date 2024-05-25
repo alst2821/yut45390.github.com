@@ -10,12 +10,6 @@ Daniel Immerwahr talking in 2016 about his book.
 <https://www.youtube.com/watch?v=Df4R-xdKvpM>`_
 Published in July 2019
 
-Chinese movie sites, circa 2018
-
-* http://www.dayi.ca/
-
-* http://tv8.fun/category/movieinfo/
-
 Videos about nutrition/dieting
   
 *  `Video of L. Amber O'Hearn's talk at low carbon conference (ketotic dot org) <http://www.ketotic.org/>`_
@@ -25,4 +19,11 @@ Videos about nutrition/dieting
 Documental sobre historia de la sexualidad
   
 * `Mentira la verdad IV, michel foucault (youtube) <https://www.youtube.com/watch?v=EE65lnZB_5Q>`_ Canal Encuentro
+  
+David Suchet videos about St Paul, from the channel `"Our History" <https://www.youtube.com/@OurHistory/playlists>`_
+
+* `The History Of St. Paul, The Apostle With David Suchet (Part One) | Our History <https://www.youtube.com/watch?v=hmewUegQiN4>`_
+* `The History Of St. Paul, The Apostle With David Suchet (Part Two) | Our History <https://www.youtube.com/watch?v=dJtB7rOzP0k>`_
+
+  
   
