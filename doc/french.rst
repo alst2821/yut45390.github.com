@@ -73,16 +73,41 @@ La mer `(video link) <https://www.youtube.com/watch?v=PXQh9jTwwoA>`_ Charles Tre
 |  la mer
 |  a bercé mon cœur pour la vie.
 
-Special characters in French (using a Mac)
-------------------------------------------
+Special characters in French (using a Mac or Linux)
+---------------------------------------------------
 
-From `thoughtco <https://www.thoughtco.com/how-to-type-french-accents-1372770>`_ (Nov 2020)::
+.. list-table::
+   :header-rows: 1
 
+   * - Character
+     - Description
+     - Mac
+     - Linux
+   * - é
+     - acute accent é
+     - Alt-e + e
+     - '(dead key) + e
+   * - à, è, ù
+     - grave accent à, è, ù
+     - Alt-` + a, e, u
+     - \`(dead key) + a, e, u
+   * - ç
+     - cedilla
+     - Alt-c
+     - =(dead key) + c
+   * - â, ê, î, ô, û
+     - circumflex â, ê, î, ô, û
+     - Alt-i + a, e. i, o, u
+     - ^(dead key) + a, e, i, o, u
+   * - ë, ï, ü
+     - tréma ë, ï, ü
+     - Alt-u + e, i, u
+     - "(dead key) + e, i, u
+   * - œ
+     - oe ligature
+     - Alt-q
+     - Unknown
 
-
-    acute accent  é   Hold option key and e then e
-    grave accent  à, è, ù   Hold option key and ` then a, e, or u
-    cedilla  ç   Hold option key and c
-    circumflex  â, ê, î, ô, û   Hold option key and i then a, e, i, o, or u
-    tréma  ë, ï, ü   Hold option key and u then e, i, or u
-    oe ligature  œ   Hold option key and q
+On gnome 3, using the english (UK) keyboard, the dead keys for '^` are under ";","@" and "~" on the middle row (after hjkl).
+The dead key for " is on "[".
+The dead key for the cedilla is on "=".
