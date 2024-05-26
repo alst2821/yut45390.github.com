@@ -18,7 +18,7 @@ From `DW classical music channel <https://www.youtube.com/@DWClassicalMusic>`_
 
 * `Beethoven: Symphony No. 9 | Daniel Barenboim & the West-Eastern Divan Orchestra (complete symphony) <https://www.youtube.com/watch?v=HljSXSm6v9M>`_
   
-Ode Freude (Schiller)
+An die Freude (Schiller) `(*) <https://www.classicfm.com/composers/beethoven/ode-to-joy-lyrics-german-english/>`_ `(**) <https://de.wikipedia.org/wiki/An_die_Freude>`_
 
 | O Freunde, nicht diese Töne!
 | Sondern laßt uns angenehmere anstimmen,
