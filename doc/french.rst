@@ -43,35 +43,35 @@ taco!﻿
 Une chanson
 -----------
 
-La mer `(video link) <https://www.youtube.com/watch?v=PXQh9jTwwoA>`_ Charles Trenet (1968(::
+La mer `(video link) <https://www.youtube.com/watch?v=PXQh9jTwwoA>`_ Charles Trenet (1968)
 
-  La mer
-  qu'on voit danser le long des golfes clairs
-  a des reflets d'argent,
-  la mer,
-  des reflets changeants
-  sous la pluie.
-
-  La mer
-  au ciel d'été confond
-  ses blancs moutons
-  avec les anges si purs,
-  la mer bergère d'azur
-  infinie.
-
-  Voyez,
-  près des étangs,
-  ces grands roseaux mouillés.
-  Voyez,
-  ces oiseaux blancs
-  et ces maisons rouillées.
-
-  La mer
-  les a bercés
-  le long des golfes clairs
-  et d'une chanson d'amour,
-  la mer
-  a bercé mon cœur pour la vie.
+|  La mer
+|  qu'on voit danser le long des golfes clairs
+|  a des reflets d'argent,
+|  la mer,
+|  des reflets changeants
+|  sous la pluie.
+|
+|  La mer
+|  au ciel d'été confond
+|  ses blancs moutons
+|  avec les anges si purs,
+|  la mer bergère d'azur
+|  infinie.
+|
+|  Voyez,
+|  près des étangs,
+|  ces grands roseaux mouillés.
+|  Voyez,
+|  ces oiseaux blancs
+|  et ces maisons rouillées.
+|
+|  La mer
+|  les a bercés
+|  le long des golfes clairs
+|  et d'une chanson d'amour,
+|  la mer
+|  a bercé mon cœur pour la vie.
 
 Special characters in French (using a Mac)
 ------------------------------------------
