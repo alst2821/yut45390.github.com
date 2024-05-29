@@ -80,6 +80,7 @@ are too old.
    spanish
    stationery
    stoicism
+   theology
    uk
    various
    videos
