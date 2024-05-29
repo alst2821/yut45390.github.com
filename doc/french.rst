@@ -43,46 +43,71 @@ taco!﻿
 Une chanson
 -----------
 
-La mer `(video link) <https://www.youtube.com/watch?v=PXQh9jTwwoA>`_ Charles Trenet (1968(::
+La mer `(video link) <https://www.youtube.com/watch?v=PXQh9jTwwoA>`_ Charles Trenet (1968)
 
-  La mer
-  qu'on voit danser le long des golfes clairs
-  a des reflets d'argent,
-  la mer,
-  des reflets changeants
-  sous la pluie.
+|  La mer
+|  qu'on voit danser le long des golfes clairs
+|  a des reflets d'argent,
+|  la mer,
+|  des reflets changeants
+|  sous la pluie.
+|
+|  La mer
+|  au ciel d'été confond
+|  ses blancs moutons
+|  avec les anges si purs,
+|  la mer bergère d'azur
+|  infinie.
+|
+|  Voyez,
+|  près des étangs,
+|  ces grands roseaux mouillés.
+|  Voyez,
+|  ces oiseaux blancs
+|  et ces maisons rouillées.
+|
+|  La mer
+|  les a bercés
+|  le long des golfes clairs
+|  et d'une chanson d'amour,
+|  la mer
+|  a bercé mon cœur pour la vie.
 
-  La mer
-  au ciel d'été confond
-  ses blancs moutons
-  avec les anges si purs,
-  la mer bergère d'azur
-  infinie.
+Special characters in French (using a Mac or Linux)
+---------------------------------------------------
 
-  Voyez,
-  près des étangs,
-  ces grands roseaux mouillés.
-  Voyez,
-  ces oiseaux blancs
-  et ces maisons rouillées.
+.. list-table::
+   :header-rows: 1
 
-  La mer
-  les a bercés
-  le long des golfes clairs
-  et d'une chanson d'amour,
-  la mer
-  a bercé mon cœur pour la vie.
+   * - Character
+     - Description
+     - Mac
+     - Linux
+   * - é
+     - acute accent é
+     - Alt-e + e
+     - '(dead key) + e
+   * - à, è, ù
+     - grave accent à, è, ù
+     - Alt-` + a, e, u
+     - \`(dead key) + a, e, u
+   * - ç
+     - cedilla
+     - Alt-c
+     - =(dead key) + c
+   * - â, ê, î, ô, û
+     - circumflex â, ê, î, ô, û
+     - Alt-i + a, e. i, o, u
+     - ^(dead key) + a, e, i, o, u
+   * - ë, ï, ü
+     - tréma ë, ï, ü
+     - Alt-u + e, i, u
+     - "(dead key) + e, i, u
+   * - œ
+     - oe ligature
+     - Alt-q
+     - Unknown
 
-Special characters in French (using a Mac)
-------------------------------------------
-
-From `thoughtco <https://www.thoughtco.com/how-to-type-french-accents-1372770>`_ (Nov 2020)::
-
-
-
-    acute accent  é   Hold option key and e then e
-    grave accent  à, è, ù   Hold option key and ` then a, e, or u
-    cedilla  ç   Hold option key and c
-    circumflex  â, ê, î, ô, û   Hold option key and i then a, e, i, o, or u
-    tréma  ë, ï, ü   Hold option key and u then e, i, or u
-    oe ligature  œ   Hold option key and q
+On gnome 3, using the english (UK) keyboard, the dead keys for '^` are under ";","@" and "~" on the middle row (after hjkl).
+The dead key for " is on "[".
+The dead key for the cedilla is on "=".
