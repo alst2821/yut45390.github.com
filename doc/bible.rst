@@ -21,7 +21,7 @@ Traducción argentina.
 See also more notes on the :ref:`bible project notes page. <ref-bible-project-notes>`
 
 
-Cursos
+Course
 ======
 
 1.
@@ -76,14 +76,13 @@ José Luis Sicre
 
 `Elías <https://www.youtube.com/watch?v=MWmvTK5b1Jw&pp=ygUPam9zZSBsdWlzIHNpY3Jl>`_
 
-Rese
 
-7.
+6.
 `Tim Mackie <https://bibleproject.com/tim-mackie/>`_ from the `Bible Project <https://bibleproject.com>`_ talks in 2017 about the making of the Bible.
 `link here <https://www.youtube.com/watch?v=eaqKzYJ151Y>`_
 
 
-9.
+7.
 Bible Project Interview (2017) Audio in youtube
 `https://youtu.be/zV8FxEOLLmY <https://youtu.be/zV8FxEOLLmY>`_
 
@@ -104,3 +103,18 @@ List of authors in Tim Mackie's library:
 - Christopher J.H. Wright
 - Richard B. Hayes
 - N.T. Wright
+
+
+8.
+
+José Luis Sicre, "Introducción al Antiguo Testamento", 7ma
+edición. Editorial Verbo Divino (Navarra, España) 1992
+`archive.org <https://archive.org/details/joseluissicreintroduccionalantiguotestamento>`_
+
+
+9.
+`Pontical Biblical Institute, Rome <https://www.biblico.it/>`_
+
+10.
+"Biblica", publicación del Instituto Bíblico Pontifical del Roma
+`https://poj.peeters-leuven.be/content.php?url=journal&journal_code=BIB <https://poj.peeters-leuven.be/content.php?url=journal&journal_code=BIB>`_
