@@ -8,3 +8,6 @@ Classics at MIT http://classics.mit.edu/index.html  441 works
 <http://classics.mit.edu/Carus/nature_things.html>`_, written 50 BCE ,
 translation by William Ellery Leonard consists of six books (retrieved
 July 2017)
+
+`Perseus project at Tufts <https://www.perseus.tufts.edu/hopper/>`_
+
