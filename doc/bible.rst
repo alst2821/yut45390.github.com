@@ -118,3 +118,8 @@ edición. Editorial Verbo Divino (Navarra, España) 1992
 10.
 "Biblica", publicación del Instituto Bíblico Pontifical del Roma
 `https://poj.peeters-leuven.be/content.php?url=journal&journal_code=BIB <https://poj.peeters-leuven.be/content.php?url=journal&journal_code=BIB>`_
+
+11.
+Gustavo Gutiérrez,
+"A Theology Of Liberation", 1973, Maryknoll, N.Y. Orbis Books
+`archive.org(1) <https://archive.org/embed/theologyoflibera00gust_0>`_
