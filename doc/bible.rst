@@ -113,7 +113,7 @@ edición. Editorial Verbo Divino (Navarra, España) 1992
 
 
 9.
-`Pontical Biblical Institute, Rome <https://www.biblico.it/>`_
+`Pontifical Biblical Institute, Rome <https://www.biblico.it/>`_
 
 10.
 "Biblica", publicación del Instituto Bíblico Pontifical del Roma
