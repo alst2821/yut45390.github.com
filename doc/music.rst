@@ -103,4 +103,7 @@ Pachelbel
 
 - `Music score for Canon in D Major (Muse score dot com) <https://musescore.com/user/24629/scores/50289>`_
 
+Film music
+----------
 
+Misirlou by Dick Dale and His Del-Tones (Pulp Fiction)
