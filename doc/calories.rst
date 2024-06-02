@@ -72,7 +72,7 @@
      - Racer bar
    * - Bread (wholemeal)
      - 213, 217, 230
-     - Varies by variety
+     - Varies by make
    * - Chicken Tikka Masala
      - 142
      - 569 for the 400 gram serving
@@ -85,6 +85,12 @@
    * - Oil
      - 900
      -
+   * - Duck
+     - 300
+     -
+   * - Japchae
+     - 114
+     - Estimate for `korean glass noodles salad <https://calories-info.com/japchae-calories-kcal/>`_
 
 
 The conversion for Kilojoules is 239 calories for 1000 KJoules
