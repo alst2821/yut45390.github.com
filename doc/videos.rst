@@ -27,3 +27,5 @@ David Suchet videos about St Paul, from the channel `"Our History" <https://www.
 
 Robert Greene
 * `Understanding Human Behaviour (youtube) <https://www.youtube.com/watch?v=PjKJRa1369s>`_
+* `military strategy talk <https://youtu.be/Pmx2cbLGzzo?feature=shared>`_
+  
