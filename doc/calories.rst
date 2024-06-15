@@ -58,6 +58,9 @@
    * - Orange
      - 40
      -
+   * - Kiwi
+     - 35
+     - Weighed with skin
    * - Milk
      - 66
      - Assuming 1 gr per 1 ml and full fat milk
