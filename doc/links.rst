@@ -1,10 +1,14 @@
-===================================
- Links from the fossdem conference
-===================================
+======================
+Audio content from bbc
+======================
 
-From the FOSSDEM conference 2023
+* `Podcast about Machiavelli <https://www.bbc.co.uk/sounds/play/p004y26p?partner=uk.co.bbc&origin=share-mobile>`_
+
+* `Thucydides <https://www.bbc.co.uk/sounds/play/b050bcf1?partner=uk.co.bbc&origin=share-mobile>`_
+
+Not audio content, but left here because
 
 https://github.com/Chaoss
 
-https://www.redhat.com/sysadmin/debug-rootless-podman-mounted-volumes
+
 
