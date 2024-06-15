@@ -123,3 +123,7 @@ edición. Editorial Verbo Divino (Navarra, España) 1992
 Gustavo Gutiérrez,
 "A Theology Of Liberation", 1973, Maryknoll, N.Y. Orbis Books
 `archive.org(1) <https://archive.org/embed/theologyoflibera00gust_0>`_
+
+11.
+`Septuagint in greek <https://digital.slub-dresden.de/werkansicht/dlf/110387/23/1>`_
+dresden slub

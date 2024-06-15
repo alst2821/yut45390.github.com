@@ -30,3 +30,7 @@ Translated from the French by William R. Trask
 
 `Bible gateway <https://www.biblegateway.com/>`_ - `passage of John 1 <https://www.biblegateway.com/passage/?search=John%201&version=KJV>`_
 
+"48 leyes del poder"
+Robert Greene y Joost Elffers, 21a ed - Atlantida
+`Enlace de archive.org <https://ia800903.us.archive.org/19/items/48LeyesDelPoder_201902/48%20leyes%20del%20Poder.pdf>`_
+(Disponible en Junio 2024)
