@@ -41,8 +41,8 @@
      - 120
      -
    * - Mooncake
-     -
-     -
+     - About 500
+     - 
    * - Cheesecake
      - 352
      -
