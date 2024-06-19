@@ -1,28 +1,19 @@
 Bible
 =====
 
-1.
-`Audio bible from Bible Gateway <https://www.biblegateway.com/resources/audio/>`_
+#. `Audio bible from Bible Gateway <https://www.biblegateway.com/resources/audio/>`_
 
+#. `La Biblia en el sitio web de la conferencia episcopal española <https://www.conferenciaepiscopal.es/biblia/>`_
 
-2.
-`La Biblia en el sitio web de la conferencia episcopal española <https://www.conferenciaepiscopal.es/biblia/>`_
+#. `La Biblia en html (del vaticano) <https://www.vatican.va/archive/ESL0506/_INDEX.HTM>`_
 
-3.
-La Biblia en html (del vaticano)
-
-Traducción argentina.
-
-`https://www.vatican.va/archive/ESL0506/_INDEX.HTM <https://www.vatican.va/archive/ESL0506/_INDEX.HTM>`_
-
-4.
-`Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
+#. `Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
 
 See also more notes on the :ref:`bible project notes page. <ref-bible-project-notes>`
 
 
-Course
-======
+Yale courses
+============
 
 1.
 Introduction to the Old Testament (Hebrew Bible).
@@ -43,7 +34,9 @@ Available from online.yale.edu
 
 `Youtube playlist here <https://www.youtube.com/playlist?list=PL279CFA55C51E75E0>`_
 
-4.
+Videos del canal `Fe Adulta`
+============================
+
 Del canal `Fé Adulta <https://www.youtube.com/@feadultaescuela>`_ de youtube.
 
 José Luis Sicre
@@ -61,28 +54,36 @@ Serie de vídeos sobre el Antiguo Testamento
 
 `Libros poéticos y sapienciales <https://youtu.be/HWKauD5krtE>`_
 
-4.
 Xabier Pikaza
 
 `Hermenéutica Bíblica parte I <https://youtu.be/YEPqrPgGd1s>`_
 
 `Hermenéutica Bíblica parte II <https://youtu.be/gOIu2ciPGUo>`_
 
-5.
-Del canal de la Fundación Juan March.
+Jose María Castillo
+
+`La Humanidad de Jesus <https://youtu.be/X1RHmq7w8-c>`_ (Diciembre 2016)
+
+Videos de la `Fundación Juan March`
+===================================
+
+Curiosidad: El libro de Ernest Hemingway `Por quien doblan las
+campanas` menciona a Juan March como un ratero (En boca de Pilar, la
+gitana, si no recuedo mal).
+
 José Luis Sicre
 
 `Isaias <https://www.youtube.com/watch?v=Ah0lJP-2N2k&pp=ygUPam9zZSBsdWlzIHNpY3Jl>`_
 
 `Elías <https://www.youtube.com/watch?v=MWmvTK5b1Jw&pp=ygUPam9zZSBsdWlzIHNpY3Jl>`_
 
+Entrevistas
+===========
 
-6.
 `Tim Mackie <https://bibleproject.com/tim-mackie/>`_ from the `Bible Project <https://bibleproject.com>`_ talks in 2017 about the making of the Bible.
 `link here <https://www.youtube.com/watch?v=eaqKzYJ151Y>`_
 
 
-7.
 Bible Project Interview (2017) Audio in youtube
 `https://youtu.be/zV8FxEOLLmY <https://youtu.be/zV8FxEOLLmY>`_
 
@@ -104,8 +105,6 @@ List of authors in Tim Mackie's library:
 - Richard B. Hayes
 - N.T. Wright
 
-
-8.
 
 José Luis Sicre, "Introducción al Antiguo Testamento", 7ma
 edición. Editorial Verbo Divino (Navarra, España) 1992
