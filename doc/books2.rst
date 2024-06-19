@@ -2,6 +2,26 @@
  Recommended reading
 =====================
 
+Mortimer J Adler and Charles Van Doren, `"How to read a book" <https://www.goodreads.com/book/show/567610.How_to_Read_a_Book>`_
+(`archive.org link <https://archive.org/details/howtoreadabook1972edition>`_)
+
+#. Homer (9th Century B.C. ?)
+   * Iliad
+   * Odyssey
+#. The Old Testament
+#. Aeschylus (c. 525-456 B.C.)
+   * Tragedies
+#. Sophocles (c. 495-406 B.C.)
+   * Tragedies
+#. Herodotus (c. 484-425 B.C.)
+   * History of the Persian Wars
+#. Euripides (c. 485-406 B.C.)
+   * Tragedies (esp. `Medea`, `Hippolytus`, `The Bacchae`)
+#. Thucydides (c. 460-400 B.C.)
+   * History of the Peloponnesian War
+#. Hippocrates (c. 460-377? B.C.)
+
+
 `Reading list <https://www.jordanbpeterson.com/great-books/>`_ suggested by Jordan Peterson
 
 Literature/Philosophy
