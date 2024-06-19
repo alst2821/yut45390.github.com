@@ -13,7 +13,7 @@ See also more notes on the :ref:`bible project notes page. <ref-bible-project-no
 
 
 Yale courses
-============
+------------
 
 1.
 Introduction to the Old Testament (Hebrew Bible).
@@ -35,7 +35,7 @@ Available from online.yale.edu
 `Youtube playlist here <https://www.youtube.com/playlist?list=PL279CFA55C51E75E0>`_
 
 Videos del canal `Fe Adulta`
-============================
+-----------------------------
 
 Del canal `Fé Adulta <https://www.youtube.com/@feadultaescuela>`_ de youtube.
 
@@ -65,7 +65,7 @@ Jose María Castillo
 `La Humanidad de Jesus <https://youtu.be/X1RHmq7w8-c>`_ (Diciembre 2016)
 
 Videos de la `Fundación Juan March`
-===================================
+-----------------------------------
 
 Curiosidad: El libro de Ernest Hemingway `Por quien doblan las
 campanas` menciona a Juan March como un ratero (En boca de Pilar, la
@@ -78,7 +78,7 @@ José Luis Sicre
 `Elías <https://www.youtube.com/watch?v=MWmvTK5b1Jw&pp=ygUPam9zZSBsdWlzIHNpY3Jl>`_
 
 Entrevistas
-===========
+-----------
 
 `Tim Mackie <https://bibleproject.com/tim-mackie/>`_ from the `Bible Project <https://bibleproject.com>`_ talks in 2017 about the making of the Bible.
 `link here <https://www.youtube.com/watch?v=eaqKzYJ151Y>`_
@@ -87,7 +87,8 @@ Entrevistas
 Bible Project Interview (2017) Audio in youtube
 `https://youtu.be/zV8FxEOLLmY <https://youtu.be/zV8FxEOLLmY>`_
 
-List of authors in Tim Mackie's library:
+List of authors in Tim Mackie's library
+---------------------------------------
 
 - Ray Lubeck
 - John Sailhamer
@@ -105,6 +106,8 @@ List of authors in Tim Mackie's library:
 - Richard B. Hayes
 - N.T. Wright
 
+Otros enlaces
+-------------
 
 José Luis Sicre, "Introducción al Antiguo Testamento", 7ma
 edición. Editorial Verbo Divino (Navarra, España) 1992
