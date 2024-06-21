@@ -80,6 +80,12 @@
    * - 5099996593455
      - Orchestral
      - GRIEG, E.: Peer Gynt / In Autumn Overture / Old Norwegian Melody with Variations (Royal Philharmonic, Beecham)
+   * - CHSA5241
+     - Orchestral - World
+     - TERTERIAN, A.: Symphonies Nos. 3 and 4 (Aleksanyan, Hovanesian, Bournemouth Symphony, Karabits)
+   * - 743218255625
+     - Concerto - Orchestral
+     - Orchestral Music (Asian) - KANCHELI, G. / YUSUPOV, B. / TERTERIAN, A. (Music from Tajikistan, Georgia, Azerbaijan and Armenia) (Helmrath)
    * - 00028941548429
      - Violin
      - Gidon Kremer
