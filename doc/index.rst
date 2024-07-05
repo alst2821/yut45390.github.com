@@ -11,15 +11,7 @@ This is a documentation static site generated using `sphinx <http://www.sphinx-d
 .. image:: flower.jpg
    :scale: 30%
 
-I also keep (a little) documentation about Fedora and other linux material.
-This was originally in `other linux`_ page.
 See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
-
-.. _`other linux`: https://sites.google.com/site/thelinux2017/
-
-I used to host a set of bookmarks in this site, but most of the
-:ref:`bookmarks <ref-bookmarks>` are already unavailable, because they
-are too old.
 
 
 .. toctree::
