@@ -20,6 +20,9 @@
    * - CSPX.L
      - iShares VII PLC - iShares Core S&P 500 UCITS ETF (CSPX.L)
      - `yahoo4 <https://finance.yahoo.com/quote/CSPX.L>`_
+   * - ISF.L
+     - iShares Core FTSE 100 UCITS ETF GBP (Dist)
+     - `yahoo link <https://finance.yahoo.com/quote/ISF.L/>`_
    * - BRK-B
      - Berkshire Hathaway Inc. (BRK-B)
      - `yahoo5 <https://finance.yahoo.com/quote/BRK-B>`_
