@@ -86,9 +86,12 @@
    * - 743218255625
      - Concerto - Orchestral
      - Orchestral Music (Asian) - KANCHELI, G. / YUSUPOV, B. / TERTERIAN, A. (Music from Tajikistan, Georgia, Azerbaijan and Armenia) (Helmrath)
-   * - 00028941548429
-     - Violin
-     - Gidon Kremer
+   * - 00028947762881
+     - Ballet; Orchestral ; Choral
+     - WEEKEND CLASSICS - A Russian Weekend (Seiji Ozawa, Jaroff, N. Järvi, Pletnev, R. Kubelík)
+   * - 00028948202393
+     - Orchestral
+     - SHOSTAKOVICH, D.: Symphony No. 5 / Jazz Suite No. 2 (Concertgebouw Orchestra, Royal Concertgebouw Orchestra, Haitink, Chailly)
 
 `Access from this library link <https://www.oxfordshire.gov.uk/residents/libraries/library/music-and-performing-arts>`_
 `(Naxos) <https://oxfordshire.naxosmusiclibrary.com/>`_

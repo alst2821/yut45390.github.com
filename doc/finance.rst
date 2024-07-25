@@ -17,12 +17,15 @@
    * - VUSA.L
      - Vanguard S&P 500 UCITS ETF ISIN: IE00B3XXRP09 `(distributing) <https://fund-docs.vanguard.com/ie00b3xxrp09-en.pdf>`_
      - `yahoo3 <https://uk.finance.yahoo.com/quote/VUSA.L>`_
+   * - VUAG.L
+     - Vanguard S&P 500 UCITS ETF USD Accumulation (VUAG.L)
+     - `yahoo4 <https://uk.finance.yahoo.com/quote/VUAG.L/>`_
    * - CSPX.L
      - iShares VII PLC - iShares Core S&P 500 UCITS ETF (CSPX.L)
-     - `yahoo4 <https://finance.yahoo.com/quote/CSPX.L>`_
+     - `yahoo5 <https://finance.yahoo.com/quote/CSPX.L>`_
    * - ISF.L
      - iShares Core FTSE 100 UCITS ETF GBP (Dist)
-     - `yahoo link <https://finance.yahoo.com/quote/ISF.L/>`_
+     - `yahoo6 <https://finance.yahoo.com/quote/ISF.L/>`_
    * - BRK-B
      - Berkshire Hathaway Inc. (BRK-B)
-     - `yahoo5 <https://finance.yahoo.com/quote/BRK-B>`_
+     - `yahoo7 <https://finance.yahoo.com/quote/BRK-B>`_
