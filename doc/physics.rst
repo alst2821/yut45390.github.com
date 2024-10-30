@@ -27,4 +27,6 @@ Books
 
 Chabay, R and Sherwood B "Matter and interactions"
 David J Griffiths "Introduction to Electrodynamics"
-J David Jackson "Classical Electrodynamics"
+
+`J David Jackson "Classical Electrodynamics" (archive.org) <https://archive.org/details/john-david-jackson-classical-electrodynamics-wiley-1999/page/672/mode/2up>`_
+

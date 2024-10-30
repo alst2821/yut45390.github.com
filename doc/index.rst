@@ -54,7 +54,8 @@ See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
    links
    music
    music-videos
-   naxos-albums
+   naxos1
+   naxos2
    philosophy
    poema1
    physics
