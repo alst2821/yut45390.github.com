@@ -7,6 +7,12 @@ Bible
 
 #. `La Biblia en html (del vaticano) <https://www.vatican.va/archive/ESL0506/_INDEX.HTM>`_
 
+#. `Lectionary - daily readings USCCB <https://bible.usccb.org/>`_
+
+#. `Online bibles and concordances CBCEW <https://www.cbcew.org.uk/home/our-work/sacred-scripture/online-bibles-and-concordances/>`_
+
+#. `Daily readings at ewtn.com <https://www.ewtn.com/catholicism/daily-readings>`_
+   
 #. `Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
 
 See also more notes on the :ref:`bible project notes page. <ref-bible-project-notes>`
@@ -23,7 +29,6 @@ Yale course `RLST-145 <https://oyc.yale.edu/religious-studies/rlst-145>`_ by Chr
 online.yale.edu, including the transcripts of the lectures and bibliography, etc.
 
 Youtube playlist `here <https://www.youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi>`_
-
 
 2.
 Introduction to the New Testament History and Literature.
