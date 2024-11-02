@@ -83,6 +83,20 @@
    * - 00743625077322
      - Orchestral
      - KHACHATURIAN, A.I.: Spartacus Suite No. 1 / Gayane Suite / IPPOLITOV-IVANOV, M.M.: Caucasian Sketches (Armenian Philharmonic, Tjeknavorian)
-
+   * - 825646267330
+     - Concerto / Orchestral / Chamber Music / Vocal
+     - VIVA! - Latin America Powerful Classical Music
+   * - MIR694D
+     - Concerto / Orchestral / Chamber Music / Vocal / Instrumental / Choral - Sacred / Cross-Over / Vocal Ensemble
+     - ORIGINES - La Folle Journée (Lausanne Vocal Ensemble, Geniet, Modigliani Quartet, Cello8, Sinfonia Varsovia, Semkow, Corboz)
+   * - MIR330D
+     - Concerto / Orchestral / Instrumental
+     - FOLLE JOURNÉE (LA) - Le Rythme des Peuples
+   * - FACD-029
+     - Orchestral
+     - DVORAK, A.: Symphony No. 9, "From the New World" / MARQUEZ, A.: Danzon No. 2 / ESTACIO, J.: Bootlegger's Tarantella (From the New World) (Hamelin)
+   * - DUX0895-96
+     - Chamber Music
+     - HAYDN, J.: String Quartets, Op. 76 (Wilanów Quartet)
 
 `Access from this link <https://oxfordshire.naxosmusiclibrary.com/login>`_
