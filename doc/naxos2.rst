@@ -32,6 +32,57 @@
    * - MIR006D
      - Concerto / Vocal
      - PERGOLESI, G.B.: Stabat mater / Salve regina (Rial, Mena, Ricercar Consort, Pierlot)
-       
-`Access from this link <https://oxfordshire.naxosmusiclibrary.com/login>`_
+   * - 8.578355
+     - Concerto / Ballet / Orchestral / Chamber Music / Vocal / Instrumental / Choral - Sacred / Opera
+     - CLASSICAL MUSIC - 30 of the Best
+   * - OC785
+     - Film and TV Music
+     - Film Music - SHORE, H. / BERNSTEIN, E. / YARED, G. / MORRICONE, E. / ROTA, N. / ROTA, N. / TIERSEN, Y. / ENYA (Cinema Concertante) (Zacher)
+   * - Unc028
+     - Concerto / Orchestral / Chamber Music / Instrumental / Cross-Over
+     - ESSENTIALS (THE) - Cello
+   * - CCLCDG1140
+     - Orchestral
+     - Orchestral Music - GLINKA, M. / STRAUSS, J. II / BIZET, G. / OFFENBACH, J. / DVORAK, A. / MOZART, W.A. / LEHAR, F. (Sparkling Classics)
+   * - CCLCDG1056
+     - Concerto / Orchestral / Instrumental
+     - Orchestral Music - HANDEL, G.F. / VIVALDI, A. / BACH, J.S. / RAMEAU, J.-P. (European Baroque Orchestra)
+   * - 190295220051
+     - Concerto / Orchestral / Chamber Music / Vocal / Instrumental / Choral - Sacred / Vocal Ensemble
+     - STAY HOME, STAY COOL: RELAXING CLASSICAL VIBES (Argerich, C. and J. Berthollet, Bruchmann, G. and R. Capuçon, P. Domingo)
+   * - Gramola99260
+     - Chamber Music / Instrumental
+     - PÄRT, A.: Spiegel im Spiegel / Fratres / Für Alina (Verspiegelung) (Sepashvili, Tchumburidze, Rossbacher, Sidamonidze)
+   * - 5054197178542
+     - Instrumental
+     - RIOPY: Piano Music (BLISS) (Riopy)
+   * - CHAN8542
+     - Concerto / Ballet / Orchestral
+     - KHACHATURIAN, A.I.: Piano Concerto / Masquerade Suite / Gayane (excerpts)
+   * - 5099962944359
+     - Orchestral / Chamber Music / Choral - Sacred / Choral - Secular
+     - PÄRT, Arvo: Very Best of (The)
+   * - MCS-ED-9024
+     - Vocal / Instrumental
+     - Vocal Recital: Griffett, James - BRITTEN, B. / MAXWELL DAVIES, P. (Scarborough Fair: Folk Songs For Tenor)
+   * - CHSA5148
+     - Choral - Sacred
+     - RACHMANINOV, S.: All-night Vigil, "Vespers" (Phoenix Chorale, Kansas City Chorale, Bruffy)
+   * - 8.556655
+     - Concerto
+     - VIVALDI (THE BEST OF)
+   * - 075597962185
+     - Instrumental
+     - LIGETI, G.: Etudes, Books 1 and 2 / BEETHOVEN, L. van: Piano Sonata No. 32 (Denk)
+   * - 074646200629
+     - Choral - Sacred
+     - EINHORN, R.: Voices of Light (Anonymous 4, Netherlands Radio Choir, Netherlands Radio Philharmonic, Mercurio)
+   * - DOR-90227
+     - Orchestral
+     - Orchestral Music (Latin American) - GUARNIERI, C. / GINASTERA, A. / REVUELTAS, S. / CARRENO, I. / PLAZA, J.B. (Caramelos Latinos) (Valdes)
+   * - 00743625077322
+     - Orchestral
+     - KHACHATURIAN, A.I.: Spartacus Suite No. 1 / Gayane Suite / IPPOLITOV-IVANOV, M.M.: Caucasian Sketches (Armenian Philharmonic, Tjeknavorian)
 
+
+`Access from this link <https://oxfordshire.naxosmusiclibrary.com/login>`_
