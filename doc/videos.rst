@@ -32,4 +32,11 @@ Robert Greene
 Timothy Snider
 * `Interview April 2024 <https://www.youtube.com/watch?v=3y6EaZ1nKHE>`_
 
+Ignacio Munilla, obispo de Orihuela-Alicante, 22 Nov 2024
+
+* `Cómo vivir con los cinco sentidos desde la audacia de Chesterton <https://youtu.be/OkBBOuwKttA?si=IoFYhn_BXy4TQV1a>`_
+
+Interview with David Reich, 29 Aug 2024
+
+* `David Reich – How One Small Tribe Conquered the World 70,000 Years Ago <https://youtu.be/Uj6skZIxPuI?si=aeYAkNKmLFN0tcMF>`_
   
