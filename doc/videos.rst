@@ -40,3 +40,23 @@ Interview with David Reich, 29 Aug 2024
 
 * `David Reich – How One Small Tribe Conquered the World 70,000 Years Ago <https://youtu.be/Uj6skZIxPuI?si=aeYAkNKmLFN0tcMF>`_
   
+`Parroquiano San León Magno - Los pecados capitales <https://parroquiasanleonmagnodemurcia.blogspot.com/search/label/Pecados%20capitales>`_
+
+Charlas de Fernando Colomer Ferrándiz.
+`Lista en youtube de las charlas <https://youtube.com/playlist?list=PLDp7zJh-Rd24KQlzdobO9CrpHck5geKNH&si=q82llPIX1vUw5nBD>`_
+
+
+`El orgullo 1/7 <https://youtu.be/P4cxRNI1HxI?si=jEW5GA_6uX-mrhEI>`_
+
+`La gula 2/7 <https://youtu.be/UmdRA7RhVYM?si=3Jak0RdHstK3dA6X>`_
+
+`La ira 3/7 <https://youtu.be/nxCijUJ5zP8?si=76Yc9cmGKOF6Ht-D>`_
+
+`La envidia 4/7 <https://youtu.be/SxlmRPcHjzk?si=u101fi_p-y6OvB36>`_
+
+`La lujuria 5/7 <https://youtu.be/Yeth0areoXE?si=mMd47EGxp5wY2TsB>`_
+
+`La avaricia 6/7 <https://youtu.be/gUEmePvIUSQ?si=9ul73KAufniEjcGI>`_
+
+`La pereza 7/7 <https://youtu.be/JvE9rV9spCk?si=2YlYhO0yft1Wt3kq>`_
+
