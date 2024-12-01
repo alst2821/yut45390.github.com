@@ -98,5 +98,8 @@
    * - DUX0895-96
      - Chamber Music
      - HAYDN, J.: String Quartets, Op. 76 (Wilanów Quartet)
+   * - CHAN20253W
+     - Instrumental
+     - SCHUBERT, F.: Piano Works, Vol. 6 (B. Douglas) - Piano Sonata No. 16 / 4 Impromptus, D. 935
 
 `Access from this link <https://oxfordshire.naxosmusiclibrary.com/login>`_

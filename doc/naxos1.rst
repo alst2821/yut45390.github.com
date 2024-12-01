@@ -96,6 +96,4 @@
      - Concerto/Orchestral/Chamber Music/Instrumental
      - The sound of Deutsche Grammophon
 
-       
-`Access from this library link <https://www.oxfordshire.gov.uk/residents/libraries/library/music-and-performing-arts>`_
-`(Naxos) <https://oxfordshire.naxosmusiclibrary.com/>`_
+`Access from this link <https://oxfordshire.naxosmusiclibrary.com/login>`_
