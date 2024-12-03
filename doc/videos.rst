@@ -2,6 +2,55 @@
  Videos
 ========
 
+`Parroquiano San León Magno - Los pecados capitales <https://parroquiasanleonmagnodemurcia.blogspot.com/search/label/Pecados%20capitales>`_
+
+Charlas de Fernando Colomer Ferrándiz.
+`Lista en youtube de las charlas <https://youtube.com/playlist?list=PLDp7zJh-Rd24KQlzdobO9CrpHck5geKNH&si=q82llPIX1vUw5nBD>`_
+
+
+`El orgullo 1/7 <https://youtu.be/P4cxRNI1HxI?si=jEW5GA_6uX-mrhEI>`_
+
+`La gula 2/7 <https://youtu.be/UmdRA7RhVYM?si=3Jak0RdHstK3dA6X>`_
+
+`La ira 3/7 <https://youtu.be/nxCijUJ5zP8?si=76Yc9cmGKOF6Ht-D>`_
+
+`La envidia 4/7 <https://youtu.be/SxlmRPcHjzk?si=u101fi_p-y6OvB36>`_
+
+`La lujuria 5/7 <https://youtu.be/Yeth0areoXE?si=mMd47EGxp5wY2TsB>`_
+
+`La avaricia 6/7 <https://youtu.be/gUEmePvIUSQ?si=9ul73KAufniEjcGI>`_
+
+`La pereza 7/7 <https://youtu.be/JvE9rV9spCk?si=2YlYhO0yft1Wt3kq>`_
+
+Listas de videos:
+
+`El padre nuestro (7 partes) <https://www.youtube.com/playlist?list=PLDp7zJh-Rd24-f_mFz8WCVbdtAuSKHCaa>`_
+
+`Lista de meditaciones de Fernando Colomer <https://www.youtube.com/watch?v=maq5olSSGa4&list=PLDp7zJh-Rd24Zf2T_ZjXqVkH8hC8AigJ3>`_ sobre El Padre nuestro, en el canal `Parroquiano San Leon Magno de Murcia <https://www.youtube.com/@parroquianosanleonmagno2329>`_ Nos 107 al 114
+
+* 1/8 Padre nuestro que estás en el cielo
+* 2/8 Santificado sea tu Nombre
+* 3/8 Venga a nosotros tu Reino
+* 4/8 Hágase tu voluntad en la tierra como en el cielo
+* 5/8 Danos hoy nuestro pan de cada día
+* 6/8 Perdona nuestras ofensas como también perdonamos...
+* 7/8 No nos dejes caer en la tentación
+* 8/8 Y libranos del mal
+
+`Lista de catequesis sobre la misa <https://www.youtube.com/watch?v=h05_tyREjMQ&list=PLDp7zJh-Rd24Q0ZSUgqMsjADlIlxQQ7KH&index=4>`_ Nos 92 a 95
+
+* 1/4 Los ritos iniciales
+* 2/4 La liturgia de la Palabra
+* 3/4 La liturgia del sacrificio
+* 4/4 La comunión
+
+  
+Various titles
+--------------
+
+`Matrix - fosdem 2021 <https://www.youtube.com/watch?v=TzUfS08lMek>`_
+
+
 `'All you ever wanted to know about guano but were afraid to ask' <https://www.youtube.com/watch?v=TnI4l6rFuHI>`_
 Lecture in the youtube channel Huntington.
 Daniel Immerwahr talking in 2016 about his book.
@@ -40,23 +89,4 @@ Interview with David Reich, 29 Aug 2024
 
 * `David Reich – How One Small Tribe Conquered the World 70,000 Years Ago <https://youtu.be/Uj6skZIxPuI?si=aeYAkNKmLFN0tcMF>`_
   
-`Parroquiano San León Magno - Los pecados capitales <https://parroquiasanleonmagnodemurcia.blogspot.com/search/label/Pecados%20capitales>`_
-
-Charlas de Fernando Colomer Ferrándiz.
-`Lista en youtube de las charlas <https://youtube.com/playlist?list=PLDp7zJh-Rd24KQlzdobO9CrpHck5geKNH&si=q82llPIX1vUw5nBD>`_
-
-
-`El orgullo 1/7 <https://youtu.be/P4cxRNI1HxI?si=jEW5GA_6uX-mrhEI>`_
-
-`La gula 2/7 <https://youtu.be/UmdRA7RhVYM?si=3Jak0RdHstK3dA6X>`_
-
-`La ira 3/7 <https://youtu.be/nxCijUJ5zP8?si=76Yc9cmGKOF6Ht-D>`_
-
-`La envidia 4/7 <https://youtu.be/SxlmRPcHjzk?si=u101fi_p-y6OvB36>`_
-
-`La lujuria 5/7 <https://youtu.be/Yeth0areoXE?si=mMd47EGxp5wY2TsB>`_
-
-`La avaricia 6/7 <https://youtu.be/gUEmePvIUSQ?si=9ul73KAufniEjcGI>`_
-
-`La pereza 7/7 <https://youtu.be/JvE9rV9spCk?si=2YlYhO0yft1Wt3kq>`_
 
