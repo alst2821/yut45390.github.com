@@ -88,6 +88,9 @@
    * - Oil
      - 900
      -
+   * - Air fryer fish
+     - 201
+     -
    * - Duck
      - 300
      -
