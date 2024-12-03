@@ -101,5 +101,14 @@
    * - CHAN20253W
      - Instrumental
      - SCHUBERT, F.: Piano Works, Vol. 6 (B. Douglas) - Piano Sonata No. 16 / 4 Impromptus, D. 935
+   * - 8.225955HDCD
+     - Concerto
+     - VIVALDI: Four Seasons (The) (Si-qing Lu)
+   * - 0724348204356
+     - Concerto / Orchestral / Chamber Music / Choral - Sacred
+     - Pachelbel's Canon and Other Baroque Favourites
+   * - CHAN8477
+     - Chamber Music
+     - ARENSKY: Piano Trio No. 1 / GLINKA: Trio Pathétique
 
 `Access from this link <https://oxfordshire.naxosmusiclibrary.com/login>`_
