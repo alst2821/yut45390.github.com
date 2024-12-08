@@ -37,12 +37,22 @@ Listas de videos:
 * 7/8 No nos dejes caer en la tentación
 * 8/8 Y libranos del mal
 
-`Lista de catequesis sobre la misa <https://www.youtube.com/watch?v=h05_tyREjMQ&list=PLDp7zJh-Rd24Q0ZSUgqMsjADlIlxQQ7KH&index=4>`_ Nos 92 a 95
+`Lista de catequesis sobre la misa <https://www.youtube.com/watch?v=h05_tyREjMQ&list=PLDp7zJh-Rd24Q0ZSUgqMsjADlIlxQQ7KH&index=1>`_ Nos 92 a 95
 
 * 1/4 Los ritos iniciales
 * 2/4 La liturgia de la Palabra
 * 3/4 La liturgia del sacrificio
 * 4/4 La comunión
+
+`Lista de catequesis sobre los dones del Espíritu Santo <https://www.youtube.com/watch?v=caZ8h8hNZmA&list=PLDp7zJh-Rd26RBJ613O14RkF7wvV79m2D&index=1>`_ Nos 85 a 91.
+
+* 1/7 Temor de Dios
+* 2/7 Fortaleza
+* 3/7 Piedad
+* 4/7 Consejo
+* 5/7 Ciencia
+* 6/7 Inteligencia
+* 7/7 Sabiduría
 
   
 Various titles
