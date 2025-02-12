@@ -4,7 +4,7 @@
 
 `Parroquiano San León Magno - Los pecados capitales <https://parroquiasanleonmagnodemurcia.blogspot.com/search/label/Pecados%20capitales>`_
 
-Charlas de Fernando Colomer Ferrándiz.
+* `Charlas de Fernando Colomer Ferrándiz <https://www.youtube.com/@parroquianosanleonmagno2329>`_
 
 .. list-table::
    :header-rows: 1
@@ -40,7 +40,7 @@ Charlas de Fernando Colomer Ferrándiz.
      - `El padre nuestro (7 partes) <https://www.youtube.com/playlist?list=PLDp7zJh-Rd24-f_mFz8WCVbdtAuSKHCaa>`_
      -
    * - 1/8
-     - Padre nuestro que estás en el cielo
+     - `Padre nuestro que estás en el cielo <https://youtu.be/8drS7i_MIs4>`_
      -
    * - 2/8
      - Santificado sea tu Nombre
@@ -66,6 +66,12 @@ Charlas de Fernando Colomer Ferrándiz.
    * -
      - `ESCUELA DE LA FE #15: EL SILENCIO <https://youtu.be/eomzkQwKmNw>`_
      -
+   * -
+     - `La enseñanza de los padres del desierto: Humildad y Silencio <https://www.youtube.com/watch?v=fvA_rx5F-Do>`_
+     - No 147
+   * - 
+     - `La enseñanza de los Padres del  desierto (II): La acedía <https://youtu.be/1A8T6Ss3CMU>`_
+     - No 156
 
 
      

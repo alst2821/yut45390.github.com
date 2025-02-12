@@ -23,6 +23,9 @@
    * - 5
      - `Beethoven: Symphony No. 9 | Daniel Barenboim & the West-Eastern Divan Orchestra (complete symphony) <https://www.youtube.com/watch?v=HljSXSm6v9M>`_
      - From `DW classical music channel <https://www.youtube.com/@DWClassicalMusic>`_
+   * - 6
+     - `Mix - Oni Wytars - Saltarello <https://youtube.com/playlist?list=RDCr_LvNQjZP4&playnext=1&feature=shared>`_
+     - 
 
 An die Freude (Schiller) `(*) <https://www.classicfm.com/composers/beethoven/ode-to-joy-lyrics-german-english/>`_ `(**) <https://de.wikipedia.org/wiki/An_die_Freude>`_
 
