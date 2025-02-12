@@ -6,6 +6,25 @@
 
 `Calculation of walking <https://www.thecalculatorsite.com/health/miles-steps.php>`_
 
+.. list-table::
+   :header-rows: 1
+
+   * - Exercise
+     - Calories per 100 minutes
+     - Note
+   * - Brisk walking
+     - 380
+     -
+   * - Slow walking
+     - 346
+     -
+
+Using the values above, my calculation usually is:
+T=Total minutes , B = brisk minutes
+
+Calories = T*3.46+B*0.34
+
+
 `Calculation for cycling <https://runbundle.com/tools/cycling/cycling-calorie-calculator>`_
 
 
@@ -41,16 +60,16 @@
      - 120
      -
    * - Mooncake
-     - About 500
-     - 
+     - About 500 (nuts), also 432 or 400
+     -
    * - Cheesecake
-     - 352
+     - 352 (Tesco) or 405 (Waitrose)
      -
    * - Soft cheese
-     - 222
+     - 222 (Tesco), 202 (Sainsbury's) or 226 (Philadelphia)
      -
    * - Chorizo
-     - 386 or 326
+     - 386 (Tesco), 366 (Aldi) or 326 (Sainsbury's)
      - Varies depending on the shop
    * - Jam
      - 251
@@ -73,6 +92,9 @@
    * - Chocolate bar
      - 503
      - Racer bar
+   * - Chocolate (32% cacao)
+     - 564
+     -
    * - Bread (wholemeal)
      - 213, 217, 230
      - Varies by make
@@ -101,55 +123,23 @@
 
 The conversion for Kilojoules is 239 calories for 1000 KJoules
 
+Favourite containers, listed for weight
 
-70 gr - container
-920 gr with food
+.. list-table::
+   :header-rows: 1
 
-4491 gr metal pot with food
-1273 gr metal pot empty w/o lid
-
-4193 ceramic pot with meat
-3514 ceramic pot without meat
-2304 ceramic pot
-1210 gr pork stock net
-
-
-96 gr small plate with fat
-64 gr small plate w/o fat
-32 gr fat (net weight)
-
-175 gr metal bowl
-812 gr metal bowl including 3 aubergines
-637 gr aubergine net weight
-
-1160 gr including broccoli
-348 gr net weight of broccoli
-420 gr mushroom
-
-Result:
-3218 gr of food in metal pot
-850 gr of food in container
-4068 gr total food
-
-Calories
-
-- broccoli 348 gr ==> 101 cal
-
-- cauliflower 1027 gr ==> 257 cal, cummulative 358
-
-- pork 679 gr meat ==> 1972 cal, cumm. 2330
-  1966 cal in 677 gr
-
-- mushroom 420 gr ==> 34 cal, cumm 2364
-- fat 32 gr = 36.8 ml ==> 288 cal, cumm 2652
-  (lard 100 ml has 782 cal)
-  (density of lard 0.87 gr/ml)
-- aubergine 637 gr ==> 134 cal, cumm 2786
-  (200 gr aubergine, 42 cal )
-- stock 1210 gr ==> 151 cal, cumm 2937 cal
-  (240 gr stock are 30 calories)
-
-Total calories 2937
-Total gr 4068
-
-calories per 400 gr food portion 289 cal
+   * - Container
+     - Weight [gram]
+     - Note
+   * - Plate
+     - 456
+     - Coca cola mark
+   * - 606
+     - Plate
+     - low edge
+   * - Bowl
+     - 400
+     - medium
+   * - Flask
+     - 1173
+     - including white lid, no water
