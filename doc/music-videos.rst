@@ -2,22 +2,28 @@
  Music videos
 ==============
 
-From the channel `Halidon Music <https://www.youtube.com/@HALIDONMUSIC>`_
+.. list-table::
+   :header-rows: 1
 
-* `Bizet - Carmen: Les Dragons d'Alcala & Les Toréadors <https://www.youtube.com/watch?v=FA-z5lkAU-c>`_
+   * - No
+     - Títle
+     - Notes
+   * - 1
+     - `Bolero (Ravel) <https://www.youtube.com/watch?v=6NDwT6SCfk4>`_
+     -
+   * - 2
+     - `Four seasons (Vivaldi) <https://www.youtube.com/watch?v=aryDMAP6oug>`_
+     -
+   * - 3
+     - `Bizet - Carmen: Les Dragons d'Alcala & Les Toréadors <https://www.youtube.com/watch?v=FA-z5lkAU-c>`_
+     - From the channel `Halidon Music <https://www.youtube.com/@HALIDONMUSIC>`_
+   * - 4
+     - `Rimsky-Korsakov: Scheherazade op.35 - Leif Segerstam - Sinfónica de Galicia <https://www.youtube.com/watch?v=zY4w4_W30aQ>`_
+     - From the channel of `Sinfónica de Galicia <https://www.youtube.com/@SinfonicadeGalicia>`_ This one is a great performance and the most remarkable part is the shouting of the director and musicians in the third movement (circa 44 minutes into the performance).
+   * - 5
+     - `Beethoven: Symphony No. 9 | Daniel Barenboim & the West-Eastern Divan Orchestra (complete symphony) <https://www.youtube.com/watch?v=HljSXSm6v9M>`_
+     - From `DW classical music channel <https://www.youtube.com/@DWClassicalMusic>`_
 
-From the channel of `Sinfónica de Galicia <https://www.youtube.com/@SinfonicadeGalicia>`_
-
-* `Rimsky-Korsakov: Scheherazade op.35 - Leif Segerstam - Sinfónica de Galicia <https://www.youtube.com/watch?v=zY4w4_W30aQ>`_
-
-  This one is a great performance and the most remarkable part is the
-  shouting of the director and musicians in the third movement (circa
-  44 minutes into the performance).
-
-From `DW classical music channel <https://www.youtube.com/@DWClassicalMusic>`_
-
-* `Beethoven: Symphony No. 9 | Daniel Barenboim & the West-Eastern Divan Orchestra (complete symphony) <https://www.youtube.com/watch?v=HljSXSm6v9M>`_
-  
 An die Freude (Schiller) `(*) <https://www.classicfm.com/composers/beethoven/ode-to-joy-lyrics-german-english/>`_ `(**) <https://de.wikipedia.org/wiki/An_die_Freude>`_
 
 | O Freunde, nicht diese Töne!
@@ -117,3 +123,5 @@ English translation
 | Do you sense the creator, world?
 | Seek him above the starry canopy!
 | Above stars must He dwell
+
+
