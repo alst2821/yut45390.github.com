@@ -110,7 +110,7 @@ Various titles
      -
    * - Dr John Marenbon
      - `Thomists and the Problem of Paganism <https://www.youtube.com/watch?v=KqXIBcfJ-VE>`_
-     - 2010 Aquinas Lecture
+     - 2010 Aquinas Lecture, link captured in May 2017
    * - Daniel Immerwahr
      - `'All you ever wanted to know about guano but were afraid to ask' <https://www.youtube.com/watch?v=TnI4l6rFuHI>`_
      - 2016 Lecture in channel Huntington
