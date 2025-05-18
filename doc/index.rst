@@ -78,6 +78,7 @@ See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
    uk
    various
    videos
+   welsh
 
 .. toctree::
    :maxdepth: 2

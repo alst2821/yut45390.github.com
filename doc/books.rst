@@ -34,3 +34,5 @@ Translated from the French by William R. Trask
 Robert Greene y Joost Elffers, 21a ed - Atlantida
 `Enlace de archive.org <https://ia800903.us.archive.org/19/items/48LeyesDelPoder_201902/48%20leyes%20del%20Poder.pdf>`_
 (Disponible en Junio 2024)
+
+`Archivo Obrero - see "biblioteca" <https://archivo-obrero.com>`_
