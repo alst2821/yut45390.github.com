@@ -263,3 +263,18 @@ Suicide in the trenches
 | Who cheer when soldier lads march by,
 | Sneak home and pray you'll never know
 | The hell where youth and laughter go.
+
+Pólvora mojada
+--------------
+*Benjamin Chávez* de `lyrikline <https://www.lyrikline.org/es/poemas/polvora-mojada-13820>`_
+
+| Un instante a solas y ya garabateo versos.
+| La respiración agitada,
+| saltos de mata por palabras enmarañadas
+| o la visión parcelada del explorador que se desliza sigiloso
+| a ras del suelo
+| intentando no ahuyentar.
+| 
+| Pobre aventura de la dicción y el grafito
+| a menudo olvidamos que
+| la caligrafía es un arte mayor —y queda la fauna librada a su suerte.
