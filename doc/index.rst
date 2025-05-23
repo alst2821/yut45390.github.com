@@ -56,8 +56,10 @@ See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
    music-videos
    naxos1
    naxos2
+   nombres
    philosophy
    poema1
+   poema2
    physics
    pressure
    psychology
