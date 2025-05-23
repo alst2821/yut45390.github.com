@@ -60,6 +60,7 @@ See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
    philosophy
    poema1
    poema2
+   poema3
    physics
    pressure
    psychology
