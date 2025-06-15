@@ -3,6 +3,8 @@ Bible
 
 #. `Audio bible from Bible Gateway <https://www.biblegateway.com/resources/audio/>`_
 
+#. `Biblia en español (Nueva versión internacional) <https://www.biblegateway.com/versions/Nueva-Version-Internacional-Biblia-NVI/#booklist>`_
+
 #. `La Biblia en el sitio web de la conferencia episcopal española <https://www.conferenciaepiscopal.es/biblia/>`_
 
 #. `La Biblia en html (del vaticano) <https://www.vatican.va/archive/ESL0506/_INDEX.HTM>`_
@@ -118,6 +120,9 @@ José Luis Sicre, "Introducción al Antiguo Testamento", 7ma
 edición. Editorial Verbo Divino (Navarra, España) 1992
 `archive.org <https://archive.org/details/joseluissicreintroduccionalantiguotestamento>`_
 
+Walter Brueggemann "The prophetic imagination"
+`archive.org <https://archive.org/details/propheticimagina00brue>`_
+
 
 9.
 `Pontifical Biblical Institute, Rome <https://www.biblico.it/>`_
@@ -131,6 +136,9 @@ Gustavo Gutiérrez,
 "A Theology Of Liberation", 1973, Maryknoll, N.Y. Orbis Books
 `archive.org(1) <https://archive.org/embed/theologyoflibera00gust_0>`_
 
-11.
+12.
 `Septuagint in greek <https://digital.slub-dresden.de/werkansicht/dlf/110387/23/1>`_
 dresden slub
+
+13.
+`Article about Walter Brueggemann's "Countering Pharaoh’s Production-Consumption Society Today" <https://lovinggodwithallyourmind.com/tag/walter-brueggemann/>`_ (Accessed June 2025)
