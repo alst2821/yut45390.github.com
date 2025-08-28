@@ -61,6 +61,7 @@ See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
    poema1
    poema2
    poema3
+   poema4
    physics
    pressure
    psychology
