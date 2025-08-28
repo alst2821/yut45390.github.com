@@ -46,6 +46,7 @@ See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
    electronics
    english
    finance
+   finance-shares
    french
    gaming
    gardel
