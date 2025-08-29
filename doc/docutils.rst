@@ -6,9 +6,9 @@
 :Info: See <https://docutils.sourceforge.io/rst.html> for introductory docs.
 
 .. NOTE:: If you are reading this as HTML, please read
-   `cheatsheet (txt)`_ instead to see the input syntax examples!
+   `cheatsheet (rst)`_ instead to see the input syntax examples!
 
-.. _`cheatsheet (txt)`: http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
+.. _`cheatsheet (rst)`: http://docutils.sourceforge.net/docs/user/rst/cheatsheet.rst
 
 Docutils is independent of `Sphinx <http://www.sphinx-doc.org/>`_.
 
@@ -61,5 +61,5 @@ preceded by "``..``", then "``_``" and the same reference, in this
 case ``_reference``, a colon "``:``" and the url.
 
 
-* Link to a `cheatsheet <http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt>`_ at sourceforge.io
+* Link to a `cheatsheet <http://docutils.sourceforge.net/docs/user/rst/cheatsheet.rst>`_ at sourceforge.io
   and its associated `html output <https://docutils.sourceforge.io/docs/user/rst/cheatsheet.html>`_.
