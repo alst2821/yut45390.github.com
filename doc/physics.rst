@@ -30,3 +30,9 @@ David J Griffiths "Introduction to Electrodynamics"
 
 `J David Jackson "Classical Electrodynamics" (archive.org) <https://archive.org/details/john-david-jackson-classical-electrodynamics-wiley-1999/page/672/mode/2up>`_
 
+Article(s)
+----------
+
+`Particle beams hit the bottle | New Scientist <https://www.newscientist.com/article/mg15020360-700-particle-beams-hit-the-bottle/>`_ (26 June 1996, accessed Oct 2025)
+Story about LEP2 vacuum tube blocked by two beer bottles after the £210 million upgrade.
+

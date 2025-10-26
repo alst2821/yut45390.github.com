@@ -7,4 +7,5 @@ These links have spilled from the bible material.
 
 * `NT Wright online <https://www.ntwrightonline.org/>`_
 
-
+* Walter Brueggeman
+  

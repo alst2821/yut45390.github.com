@@ -8,6 +8,9 @@
    * - Catalogue No
      - Genre
      - Note
+   * - 00028948714278
+     - Instrumental
+     - Le fabuleux destin d'Amélie Poulan: Comptine d'un autre été, l'après-midi
    * - 00028948282869
      - Piano
      - EXPO I (Beving, Gonzales, Howard, Jóhannsson, Ólafsson, M. Richter)
