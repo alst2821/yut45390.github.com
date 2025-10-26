@@ -93,7 +93,19 @@
      - Orchestral
      - SHOSTAKOVICH, D.: Symphony No. 5 / Jazz Suite No. 2 (Concertgebouw Orchestra, Royal Concertgebouw Orchestra, Haitink, Chailly)
    * - 00028947933076
-     - Concerto/Orchestral/Chamber Music/Instrumental
+     - Concerto
      - The sound of Deutsche Grammophon
+   * - 9.00314
+     - Instrumental/Orchestral/Chamber Music/Instrumental/Vocal
+     - Classical for sleep
+   * - GEN16439
+     - Chamber Music
+     - Ligeti, Piazzola
+   * - CCLCDG1140
+     - Orchestral Music
+     - Sparkling Classics Glinka/ Strauss / Bizet / Offenbach / Dvorak / Mozart /Lehar
+   * - 886446378329
+     - Orchestral/Opera/Vocal/Film and TV Music
+     - Sommernachtskonzert 2017 Vienna Philarmonik, Eschenbach
 
 `Access from this link <https://oxfordshire.naxosmusiclibrary.com/login>`_
