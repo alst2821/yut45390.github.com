@@ -2,6 +2,8 @@
  Naxos music library albums no 1
 =================================
 
+35 albums
+
 .. list-table::
    :header-rows: 1
 
