@@ -138,7 +138,7 @@ every moment of the life of kings as a tool for its own purposes.
 
 Though Napoleon at that time, in 1812, was more convinced than ever that
 it depended on him, verser (ou ne pas verser) le sang de ses peuples
-*—as Alexander expressed it in the last letter he wrote him—he had never
+* — as Alexander expressed it in the last letter he wrote him—he had never
 been so much in the grip of inevitable laws, which compelled him, while
 thinking that he was acting on his own volition, to perform for the hive
 life—that is to say, for history—whatever had to be performed.
@@ -3174,6 +3174,8 @@ months.
 The French alphabet, written out with the same numerical values as the
 Hebrew, in which the first nine letters denote units and the others
 tens, will have the following significance:
+
+::
 
       a   b   c   d   e   f   g   h   i   k
       1   2   3   4   5   6   7   8   9   10
