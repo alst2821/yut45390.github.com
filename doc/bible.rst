@@ -118,10 +118,10 @@ Otros enlaces
 
 José Luis Sicre, "Introducción al Antiguo Testamento", 7ma
 edición. Editorial Verbo Divino (Navarra, España) 1992
-`archive.org <https://archive.org/details/joseluissicreintroduccionalantiguotestamento>`_
+`archive.org (1) <https://archive.org/details/joseluissicreintroduccionalantiguotestamento>`_
 
 Walter Brueggemann "The prophetic imagination"
-`archive.org <https://archive.org/details/propheticimagina00brue>`_
+`archive.org (2) <https://archive.org/details/propheticimagina00brue>`_
 
 
 9.
