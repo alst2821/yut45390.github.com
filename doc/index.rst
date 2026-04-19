@@ -59,6 +59,7 @@ See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
    naxos1
    naxos2
    nombres
+   notes
    philosophy
    poema1
    poema2
