@@ -5,6 +5,8 @@ Bible
 
 #. `Biblia en español (Nueva versión internacional) <https://www.biblegateway.com/versions/Nueva-Version-Internacional-Biblia-NVI/#booklist>`_
 
+#. `bibles dot org <https://bibles.org>`_
+
 #. `La Biblia en el sitio web de la conferencia episcopal española <https://www.conferenciaepiscopal.es/biblia/>`_
 
 #. `La Biblia en html (del vaticano) <https://www.vatican.va/archive/ESL0506/_INDEX.HTM>`_
@@ -14,7 +16,7 @@ Bible
 #. `Online bibles and concordances CBCEW <https://www.cbcew.org.uk/home/our-work/sacred-scripture/online-bibles-and-concordances/>`_
 
 #. `Daily readings at ewtn.com <https://www.ewtn.com/catholicism/daily-readings>`_
-   
+
 #. `Bible project Bible <https://bibleproject.com/bible/nasb/genesis/1/>`_
 
 See also more notes on the :ref:`bible project notes page. <ref-bible-project-notes>`
@@ -142,3 +144,6 @@ dresden slub
 
 13.
 `Article about Walter Brueggemann's "Countering Pharaoh’s Production-Consumption Society Today" <https://lovinggodwithallyourmind.com/tag/walter-brueggemann/>`_ (Accessed June 2025)
+
+14.
+`Bart Ehrman "Misquoting Jesus" <https://archive.org/details/Prof.BartEhrman-MisquotingJesus/page/n230/mode/1up>`_ (Accessed Apr 2026)
