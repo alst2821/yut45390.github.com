@@ -52,6 +52,7 @@ See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
    gardel
    greek
    hardware
+   lamb
    links
    music
    music-videos
