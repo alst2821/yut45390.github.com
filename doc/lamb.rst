@@ -38,3 +38,12 @@ Instructions
 #. Let rest 15 minutes before slicing.
    Serve with mini hasselback potatoes.
 
+Table of temperatures for doneness
+
++ 125 deg F (51.7 deg C) rare
+  
++ 135 deg F (57.2 deg C) medium
+  
++ 145 deg F (62.7 deg C) medium well
+
++ 155 deg F (68.3 deg C) well done
