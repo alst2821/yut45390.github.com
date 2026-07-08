@@ -83,6 +83,7 @@ See also `puffer-fish <https://puffer-fish.readthedocs.io/en/latest/>`_
    stoicism
    theology
    uk
+   uktv
    various
    videos
    welsh
