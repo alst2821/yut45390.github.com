@@ -14,7 +14,7 @@
      - `yahoo1`_ and `vanguard1`_
      - `GB00BPN5P782`_
    * - VUKASSA
-     - Vanguard FTSE UK All Shr Idx Unit Tr£Acc (0P0000SAVS.L) 
+     - Vanguard FTSE UK All Shr Idx Unit Tr£Acc (0P0000SAVS.L)
      - `yahoo2`_
      - `GB00B3X7QG63`_
    * - VUSA.L
@@ -36,7 +36,7 @@
    * - CSPX.L
      - iShares VII PLC - iShares Core S&P 500 UCITS ETF (CSPX.L)
      - `yahoo5`_
-     - 
+     -
    * - CSP1.L
      - iShares Core S&P 500 UCITS ETF USD (Acc) (CSP1.L `info3`_)
      - `yahoo6`_ and `ajbell1`_
@@ -69,6 +69,13 @@ Links from `Monevator <https://monevator.com>`_
 * Fund names explained (`link5 <https://monevator.com/fund-names-explained/>`_)
 
 * Lazy ETF portfolios (`link6 <https://monevator.com/lazy-uk-etf-portfolios/>`_)
+
+Links from `Faster Capital <https://fastercapital.com/>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Investment Accounting: How to Record and Report Your Investment Transactions and Income (`link7 <https://fastercapital.com/content/Investment-Accounting--How-to-Record-and-Report-Your-Investment-Transactions-and-Income.html>`_)
+
+* Equity curve: How to track your performance over time (`link8 <https://fastercapital.com/content/Equity-curve--How-to-track-your-performance-over-time.html>`_)
 
 .. _`yahoo1`: https://finance.yahoo.com/quote/0P000147Q3.L
 .. _`yahoo2`: https://finance.yahoo.com/quote/0P0000SAVS.L
